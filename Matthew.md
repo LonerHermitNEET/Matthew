@@ -1,16 +1,20 @@
 # Chapter 1 - A World Apart
 
-Seeing his first goblin in the cave, Matthew hesitated, holding a blade.
+The goblin stood in front of him, and his face was sure and committed, his heart pumping without pause, the blade begging to make a sound without tire. This was the epitome of beauty he was talking about. This was it.
 
 He smiled vaguely.
 
 ***
 
-Months earlier, Matthew engaged in surreal contemplation and reflection, his mind in that state.
+Before this month, things were different, so different. If Matthew only knew, if he did, he wouldn't be thinking the way he was now, stuck in contemplation like some stuck-up little nobody too involved with his daydreams.
 
-The briefness of flight and the sky hiding above—they all gathered together to form his presence. His eyes knew that he was alive.
+In his mind, it was all sounds and pops like someone riding a horse into the sea or beeping that car horn a little way too much. It didn't have the same energy as someone fighting with a blade or crushing an opponent in a life-or-death situation. It was just him making empty ideas in his brain, imaginitively.
 
-A drop of ice cubes almost clanked in his ear before he was taken back to reality, where sounds zoomed and tore through the air. This could be likened to artistic noise cycling over a spreadsheet. With all of this poking his senses, he wanted to escape into his mind.
+If he was talking out loud, he would say in words: "The briefness of flight and the sky hiding above—they all gather together to form my presence. My eyes know that I am alive."
+
+It was a strange sentiment, one disturbed by the chorus of voices around his room. It was exciting and reveling because everywhere around him, it was typical day-to-day life here on Earth.
+
+Shifting to a more surreal tone, a drop of ice cubes almost clanked in his ear before he was taken back to reality, where sounds zoomed and tore through the air. This could be likened to artistic noise cycling over a spreadsheet. With all of this poking his senses, he wanted to escape into his mind.
 
 Morning, night. It could be any other day. But today was different. He was here at home, eating breakfast. That was what separated his life from everyone else—he was who he was right now.
 
@@ -11094,4 +11098,108 @@ This chapter sees Matthew in a new stage of his life and of this second arc, one
 Speaking of passages like these, I aim to be transparent and communicative, but author notes are definitely limited in accomplishing that. Replying to comments are even more limited, because they are much less official due to their limited visibility; many readers tending to skip the comment section altogether save for the first comment. This is why I intend on taking new approaches of achieving this goal, and that might include offering a link to a version history of revisions in a public Github repository of the story or a blog providing editorial posts about the story, whether it be detailing each chapter or aspects of the whole story. But that idea is not final, and it could very well not go through. In the end, the point of this passage is to underscore my intentions not just as an author that pens lines, but as one that publishes serials.
 
 # Chapter 59
+
+Matthew was all alone in a vast landscape, and he walked around again and again.
+
+He grabbed several goblins he knew and began arranging them together, placing them inside a cave where he tasked them to check around and provide vision and control of it.
+
+He visited several adventurers and invited them to take a quest that placed them around several key dungeons, establishing control and vision.
+
+He met a particular giant crocodile driver and told him that he wanted to hire him for a job. He had him take on the role of assessing giant crocodiles that the adventurer guild bought for him and had adventurers ride them to different parts of the local region.
+
+He needed loyalty most of all before skill. This way, he could prevent an unwanted forced transfer of power.
+
+He arranged groups of adventurers and guided them to tanners and various craftsmen in order to establish connections that would be useful later on. He needed them on the same side, so he arranged discussions and meetings that saw both sides creating bonds. He then strengthened their bonds by convincing the guild overseeing these craftsmen to work closer with the adventurer guild in a coalition.
+
+This was why he was moving chess pieces around, because he had a large plan in mind.
+
+But he needed to keep his vision peeled, because vision and control was beginning to accumulate overtime.
+
+He watched the landscape again, seeing different parts of combine and integrate together. The roads that used to be disconnected were now interconnected.
+
+He found himself at a crossroads, but he knew where to go. And he had the plans to achieve his next greater objectives.
+
+He completely eliminated any need for neutralizing goblins by first having his most loyal adventurers hear of his plan to elevate goblins' responsibilities to those requiring some form of education. His quest [Bridge of Knowledge] had become active anymore all of a sudden, but that didn't matter.
+
+He put two and two together and started the first embers of goblin-humanity communications.
+
+He sat down and found himself staring at the older man again, but this time, the older man being sent to another prison, as the city's planning and infrastructure improved and changed to support new work and opportunity.
+
+Matthew sat down next to a small branch, as he sent adjutants to various locations to complete tasks that he didn't need to complete himself. He became a spider with a web, putting together various people and having them work together gradually. The loyalty of the selected people was essential to this process.
+
+He didn't need to go outside, as the region was growing clearer and clearer without the tunnel vision enforced upon him by being present there in the moment. Being an overseeing eye by staying inside and staring at a map allowed him to consolidate and apply his knowledge in a more streamlined manner. Even if it was simplistic, models too complex couldn't be too generally applicable. He maintained a systematic attitude throughout the whole process.
+
+However, in times where his strategist role became of use, he was there, adding his name to arrangements proposed by other adventurers. He became a popular name to put on quests to invite adventurer interest.
+
+As time passed, he demanded more and more from his people, resulting in more delegation. Deathbringer was no longer a leader; he was reduced to a man in a machine. But that was alright for him. He began connecting his friends to Matthew without taking away their dignity.
+
+Matthew showed himself glad to receive their partnership for upcoming missions that might require their assistance. He used friendly and agency-giving terms instead of more mechanical ones like "outsourcing" to give a sense of togetherness in the issues concerning the region.
+
+He became a network, one that contrasts the government due its small size and reliance on namesakes after him.
+
+In the meantime, two of his closest adventurer friends, Tamer and Michel, got the opportunity to glimpse at him.
+
+All the memories drifted away like the last smoke of a put-out, jaded campfire at the beginning of a new morn.
+
+Eventually, they found an opportunity to make Matthew enter a dungeon himself, emphasizing the need of the adventurers taking on the quest to see him.
+
+His form was elegant like a majestic bird that had flown far above them, not a single raindrop falling down because he experienced no regrets and had reached Heaven.
+
+Tamer followed him, watching his footsteps. They were bold, unyielding, and uncharacteristically zoned out, as if he was there for the continued functioning of his body and not necessarily for the beauty of the moment. She looked at Michel, who nodded.
+
+Michel went shoulder-to-shouldre with Matthew and asked, "Matthew?"
+
+Matthew turned his head robotically. "What is it?" he said. "Are the adventurers expecting him earlier?"
+
+Michel shook her head, unable to find herself responding due to how serious Matthew had sounded.
+
+Matthew continued, "Then, let's move on."
+
+Michel's hope to turn Matthew's gaze at the world fell apart.
+
+Tamer wanted him to come back and try to stop it all. He didn't need to do this. He could live normally. He was right to leave, and he was wrong to come back to Emerald Haven. Sure, it was nice to see him, but they just wanted him to be okay. But professionally, he was incomparable.
+
+Matthew raised his hands and had a speech: "Look, everyone, I understand that all of you are struggling with your struggles, like everyone else does. It's normal to feel scared, to feel like it doesn't make sense. But I am in 100% sureness that you guys can do it. Just be patient, take your time, and read the notes that I had Solevuk sent you. If you're not willing to do that, then you can also focus on training your legs, specifically your calves. It can be difficult, and I've seen the mistakes, particularly the one where you guys forget to put wards and save them in case. But that's not feasible. It would be more productive to have them placed immediately, even if you might bleeding on them sooner or later. Their effectiveness will be cut short if you die while hiding them... in a pocket or somewhere else." This speech was focused on cleaning up a little, the actual advice he gave secondary in importance and more of a front than anything. 
+
+The adventurers moved on with his lead, heading from dungeon to dungeon. The clearing was quick, but the monsters were sometimes nasty. In the end, Matthew easily found a way to solve the issue without conducting too much strategical thought. He could solve the troubles therein by exploiting simplistic monster groupthink. 
+
+It was when he wasn't strategizing that he knew he had reached the point where things were happening smoothly and where he didn't have to improvise as much due to his growing system of influence, connections, knowledge, and comprehensiveness of experience.
+
+Because he finally proved capable of mustering a coalition over a wide but disconnected portion of the local region, he was being sent to fight in larger, deeper floors of dungeons where stronger enemies resided. He was still in the lowest rank Iron, so it would take some time before he moved to boss monsters and ascended to Bronze.
+
+Eventually, after engaging in a few coalition-level quests, Matthew was sent to a new group of senior adventurers who accepted him into their group. Furthermore, he was officially being detached from his leader role within the coalition. The goal was for him to begin ascending up the ranks more and testing areas where he needed improvement.
+
+They sighted an enemy, making their way around, warding on sides and keeping right and left side free of enemies by maintaining vision and control over the area. 
+
+Alongside a mobile mage and a tank, the diver of the senior adventurer team moved close to several hobgoblins before backing off because they knew that one of the goblins likely hid a strong area-of-effect skill.
+
+Matthew was playing support role right now, as he was there to learn, carrying a bag of wards that he placed around and run around with the team's speed-boosting artifact. When he was poked with magical attacks, he used [Phantom Shield]. The hobgoblins he passed didn't want to force an engage at him, because their info told them that Matthew had powerful area-of-effect abilities. However, that was no longer true.
+
+The adventurer team was able to force an engage, crushing them and chasing the retreating hobgoblins.
+
+Matthew was just taking in XP as a member of this team. He didn't need to kill a hobgoblin to gain experience, as the party was signed with a contract that shared XP.
+
+He was sent to a new part of the city; one with a lot more empty space. And it was harder to get into the streets that he used to travel before. He would be made to ride a giant crocodile every time he went outside. This made him more like a noble, but that was because of the adventurer-centric system of this city.
+
+After relaxing for a while, he was sent to the senior adventurer guild to do some paperwork now that he was confirmed capable of handling a dungeon raid at their level. Though, it felt like a formality, given that he didn't need to expend too much effort.
+
+After doing this, he visited several people, including a familiar umbrella-maker, whom he showed his umbrella.
+
+He did this to find loyalty among the masses, and past connections and acquaintances from a long time ago were priceless.
+
+He had them put together as part of a outing, establishing them as a more permanent aspect of himself.
+
+He visited a dungeon where he lost once again the giant ants, bringing Zoey with him. He noticed various vulnerabilities that could be exploited if a fight were to occur here and he was on the defender's side with the enemy being the invaders outside the dungeon. He wanted to create a place where the goblins could stay here, and he intended to gather monsters and have Tamer and other fellow tamers turn them into friendlies. He soon directed the creation of a zoo here.
+
+He visited three controlled dungeons where he began bringing blue goblins into the zoo to test things out.
+
+After refining the zoo while inspecting the blue goblins as well, he informed Zoey about it more and more with the goal of having her [Master of the Basics] role be a lot more sophisticated. If he could get her to understand this, then having someone tailored to the role of managing this would be good.
+
+He was earning more money than he had ever earned before, and even if he was no longer officially a coalition leader, he still had the influence of one.
+
+He check out various spots that he recalled—including the golem-maker's goblin ambush location, the blades' headquarters, Block & Bed Tavern, his first dungeon steps, the tanner's workshop at the City of Power, the guild there, and the shelter, Greenfield, the beginner adventurer areas, and the coastal area.
+
+Even with growing connectivity, he still maintained his loyalty to these locations, allowing him to visualize a way for events to transpire with him quickly on board.
+
+**+10 XP for enhancing your cognitive abilities by 1%!**
 
