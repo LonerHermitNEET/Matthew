@@ -11211,3 +11211,10 @@ Even with growing connectivity, he still maintained his loyalty to these locatio
 
 **+10 XP for enhancing your cognitive abilities by 1%!**
 
+
+Author's Note:
+
+[The Github version history link for those interested in seeing revisions to the story.](https://github.com/LonerHermitNEET/Matthew/commits/main/)
+
+
+# Chapter 60
