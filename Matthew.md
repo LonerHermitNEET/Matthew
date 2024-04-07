@@ -1,6 +1,6 @@
 # Chapter 1 - A World Apart
 
-The goblin stood in front of him, and his face was sure and committed, his heart pumping without pause, the blade begging to make a sound without tire. This was the epitome of beauty he was talking about. This was it.
+The goblin stood in front of him, and Matthew's face was sure and committed, his heart pumping without pause, the blade begging to make a sound without tire. This was the epitome of beauty he was talking about. This was it.
 
 He smiled vaguely.
 
