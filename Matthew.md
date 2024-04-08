@@ -22,11 +22,9 @@ Before this month, things were different, so different. If Matthew only knew, if
 
 He was daydreaming indeed, his thoughts a hurricane of imagination and considerations like a scholar reading bookshelves-worth of information within any given year. It was excessive. It was wonderful. And it was nonsensical.
 
-He read his own thoughts.
+Moving into that daydreaming mind of his, sounds and pops emerged rectilinearly throughout, a process comparable to the connection between someone riding a horse into the sea and the over-beeping of a car horn. It was strange and excessive with little synchrony in between them, except for that sensation that they came in lines, similar to tasting orange after seeing a cloud when tripping out on hallucinogens. It didn't have the same energy as someone fighting with a blade or crushing an opponent in a life-or-death situation. It was just him making empty ideas in his brain in an imaginative way.
 
-Moving into his mind, sounds and pops emerged rectilinearly throughout, a process comparable to the connection between someone riding a horse into the sea and the over-beeping of a car horn. It was strange and excessive with little synchrony in between them, except for that sensation that they came in lines, similar to tasting orange after seeing a cloud when tripping out on hallucinogens. It didn't have the same energy as someone fighting with a blade or crushing an opponent in a life-or-death situation. It was just him making empty ideas in his brain in an imaginative way.
-
-To explore his imaginative mind, one could start with this bundle of ideas: "The briefness of flight and the sky hiding above—they all gather together to form my presence. My eyes know that I am alive."
+To explore his imaginative mind further, one could start with this bundle of ideas: "The briefness of flight and the sky hiding above—they all gather together to form my presence. My eyes know that I am alive."
 
 Then, furthermore, this mind could be found more surreal and riveting with this statement: "A drop of ice cubes almost clanked in his ear before he was taken back to reality, where sounds zoomed and tore through the air. This could be likened to artistic noise cycling over a spreadsheet. With all of this poking his senses, he wanted to escape into his mind."
 
