@@ -10,6 +10,8 @@ The main character starts off as a "tilted loser," which is a primary theme of t
 
 [The blog for status reports](https://lonerhermitneet.github.io/)
 
+
+
 To begin, the goblin stood in front of Matthew, whose face was sure and committed, his breath cycling without pause, and the blade he held thirsty for a syrupy strike.
 
 Even now, Matthew grinned; a vague multifaceted impression of intentions lingering behind his expression—time would not pause for him.
@@ -11221,11 +11223,76 @@ Even with growing connectivity, he still maintained his loyalty to these locatio
 
 **+10 XP for enhancing your cognitive abilities by 1%!**
 
-
-Author's Note:
-
-[The Github version history link for those interested in seeing revisions to the story.](https://github.com/LonerHermitNEET/Matthew/commits/main/)
-
-
 # Chapter 60
 
+Matthew stared at the silence, not a single emotion-inspired thought growing in his mind, the ideas flowing like river streams shallow enough to wade through but cold and wet enough to warrant a changing.
+
+It was emotion that had left him.
+
+So he sat there like a man without breath or soul. The lacking nature of his reclusiveness into pragmatism was something he pondered.
+
+With strategy came the necessity to wonder and think up creative and innovative means of dismantling and defeating an opponent, and that tended to encompass the reflection of past events and naturally, the self that witnessed these events limitedly.
+
+So even with the emotions that the [System] removed from him, he experienced self-awareness and the recognition of this loss and what that meant moving forward.
+
+He allied himself with the thoughts that pierced through the veil of confusion, stepping up heel by heel, leg by leg, and body by body.
+
+The forces that amassed under him were complex in formation; now, all he had to do was reuse them again and again until their minds were streamlined like his was. This way, he could focus their efforts toward better goals.
+
+Though, it was not a problem of consistency or the time he spent reflecting upon this clear need.
+
+It was just that today was an optimal day to rest and reinforce previous patterns in the realm of learning.
+
+Stress was something even psychopaths underwent.
+
+Shifting to a goal-oriented level, he raised a goblin farm, putting together a group of studious adventurers to study the blue goblins and the new green goblins he had placed in a separate enclosure. To conclude, his novel pursuit was to bring light into the nutritional strategy and social environment of the goblin species, but more than that, in simple terms, he wanted to find out how to beat them and every other monster, including humans who had found out how to turn themselves metaphorically into monsters via the [System], skills, spells, levels, items, and artifacts. He was investing into creating a controlled region where everything would be simply reported, referenced, and managed.
+
+But that was already underway, Desmond Leroy coming in clutch, among many other individuals reporting direclty alongside him and under him.
+
+He had won, but at what cost?
+
+However, even if he emphasized his ownership over this big idea that he had, he was only a mere bread-holder, someone who contributed as a part of a large whole filled with other contributors like him.
+
+He knew that there was no turning back from this point. 
+
+He had to go all the way and throw everything into this new era.
+
+A fortunate thing was that he wasn't limited to higher-level activities due to the authorities' decision to promote him to a higher rank. When it came to ranks, even if Sophia had been rank 660 at one point, she wasn't exactly strong. The ranks were very top-heavy, so anybody past rank 100 was incredibly powerful relative to those above rank 100. And ranking up could be done by relying exclusively on a singular approach—a one-trick pony—which didn't exactly translate to actual on-site combat competence.
+
+So he was being placed among the higher ranks, which was why he was a part of an "official" group now unlike before, one whose members were broadcasted at the board in the adventerer guild, including him. He was now officially an "Adventurer."
+
+In other words, he was a pro, and his debut quest was coming soon.
+
+For now, he would be taking his time exploring the new advantages provided and the environment he was now situated in.
+
+The [System] appeared to him, and they began a discussion.
+
+[System] said: "How do you suppose you'll be managing that?"
+
+Matthew said: "I don't know, have you seen the daylights ringing? I'm not exactly the first one who's tried that.
+
+"Well I don't know. It really seems as if you're the one pulling the strings. Remember Desmond. He doesn't seem too adamant about it, but he's been the one letting you take the reins. I'm not saying you're leader-leader. I'm just saying that if Desmond really was the one at the steering wheel, he'd be the one commanding you."
+
+Matthew frowned, squinted, and shook his head. "Look I get it. But at the same time, right now is kind of a precious time. If we start slacking and start doing all this mental gymnastics all over the people we should be relying on, things'll be difficult. I don't want to have another repeat of those previous exits. I am not willing to do that. Don't insert doubt in me. I don't need to pay that sentiment any kind of attention, okay? So just listen to me. We have to finish up a little on the corner here and there, and I'll be managing the finances and taking care of some of the people involved in the zoo project. If they think it's a good idea, we can proceed with it. The blue goblins aren't going anywhere, and the adventurers who manage them are also on my side. I've given them what they need. I've told them my goals, and all I really need is to make sure their signatures are lined up pretty nicely on that contract. We've already got seven of them signed. Only two more to go. But that's besides the point. With the blue goblins already in the bag, I'm going to be arranging the different elements of the table, putting together lists of places. And you'll pretty much see it all laid down visually. I've gathered the information-organizing resources. Zoey doesn't know much about it, but she said she's in contact with the scribes I used to work with. So it's a definite that we'll begin erasing and making changes and revising things. The whole plan will be much more better than those scribbles I made earlier. Hopefully, this works. I haven't been here for too long, and I already know we're going to be heading down a painful path."
+
+"That's right. But do be careful. You're going to be dealing with Mischanti and Kariyosa, too definitely nasty fellows you want to avoid. They're not exactly mean or dangerous, but they do waste time. They don't really know what else to do but relax, and they've been ordering up various goblins from across the land just to have intercourse with. They're really not your forte, I'm telling you. I even heard that one of the adventurers you're currently working with has been involved with abuse with his spouse. I don't want to act like this is some easy quest. You're going to be dealing with a whole lot of losers and winners. They're a mix of both, full of themselves and yet unable to truly reach divinity, if you know what I mean. We're going to want you to follow up with us by first taking care of one of the female adventurers with you. She'll be sharing information, and she's not exactly dying or anything. She'll be needing your attention for a new quest, and she hopes to get newbies. It has taken 3 years for her, since there's practically no people coming over to the higher ranks. You're her beacon of hope. Help her. She hasn't been able to level up much, since her level is too high. She is serious about getting promoted, but because she hasn't been able to check off this one requirement, they haven't given her the time. And it's been a 3 years, like I said."
+
+Matthew nodded. "What can we do? Some of our forces are already moving west, south, and they've made contact with the goblin tribes and groups. I don't want to have to break open another cannister of worms here. If we're balling, we're balling. But I haven't exactly determined whether this'll be the right decision to make given the current deal with Sophia's friends. They've been against our rallying and unifying since five days ago, and Deathbringer is suddenly convinced he didn't really need to be there in Sumpera." For context, "Sumpera" was the place of one of the quests they took several days ago. They had taken many quests during the time Matthew progressed to his current status. "I haven't delegated Marcher's friend yet. But since he has the bazaar under his fingers, being the owner—I really want to have him organize the boys that we got delivered from Los Bin." For context, the boys he was referring to were the goblin friends sent by the goblin tournament-taking companions currently under his leadership. "Also, yesterday, if we hadn't led with that first, it would have been a total loss." To give context, he was referring to the boat method belonging to the 100-man adventurer team that were now part of a larger structure under his control. "Even now, it's still functioning well."
+
+The [System] showed his true colors. "Honestly, fuck the forces for now. Focus on gathering your strength. It's better to leave them in check-and-see duty first. If we haven't spent enough time gathering the Sumpera loot yet, then we can also move some of them there."
+
+"Alright."
+
+Matthew's relationship with the [System] had improved since he was given the title [Hollowed Heart].
+
+Matthew reached his current board of advisors and made sure to keep his mouth shut until he could get his thoughts in order. When it came to the [System], he went full-force with details and tracing certain plans and ideas because the [System] was a personal assistant to him at this point. But when it came to the board, he was very careful about what he said because if it was revealed that he was hiding things from them, then they could easily demand his removal. The reason he reached this point in the first place was because of his ascension through the ranks, and since no one had reached his level of influence, they had him take on bigger roles until his friends transitioned to that of a more formal structure with oversight from the authorities of course.
+
+But with all his planning, he knew when to strike the wound deep and when to adjust for a better angle of attack. This was why even now, he could transfer his cognition between physical combat and strategic dialogue.
+
+Later, instead of the planned meeting with Deathbringer, Michel's friends came instead.
+
+One of them informed Matthew: "Tamer has been busy recently with the aftershocks with the earthquake at Threadnaut Hill. 
+
+Matthew replied: "If she's the one being made to advance the new *birdmonsters*, then that's good too."
+
+That was it. That was the end of the meeting. They really had little to share since they were still testing the waters and avoiding any chance the other party could call offence or imbalance of power. Magic made things very dangerous in terms of how information was spread, because spells like changing voice existed. If two parties could converse easily without magic being a potential threat to integrity and honesty, then care had to be prioritized when encountering new communication structures, that which Michel's friends and Matthew, as two novel interlocutors, brought to the table.
