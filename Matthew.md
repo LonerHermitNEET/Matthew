@@ -8,59 +8,67 @@ The main character starts off as a "tilted loser," which is a primary theme of t
 
 
 
-The goblin stood in front of him, and Matthew's face was sure and committed, his heart pumping without pause, the blade begging to make a sound without tire. This was the epitome of beauty he was talking about. This was it.
+The goblin stood in front of him. His face sure and committed, Matthew's breath cycling without pause, the blade he held thirsty for a syrupy strike. 
 
-He smiled vaguely.
+Even now, he grinned; a vague multifaceted impression of intentions lingering behind his expression—time would not pause for him.
+
+He would have to guide it himself, his grip fiery in form, the edges twanging endlessly for justification. Hidden with him lay thoughts of self-assuredness and the concept of being or becoming the epitome of grace and beauty—a demanding process that needed both external and internal affirmation like two beggars on the streets glancing from side to side.
+
+With these thoughts laid out in the open, he raised his blade as if to slash.
 
 ***
 
 Before this month, things were different, so different. If Matthew only knew, if he did, he wouldn't be thinking the way he was now, stuck in contemplation like some stuck-up little nobody too involved with his daydreams.
 
-In his mind, it was all sounds and pops like someone riding a horse into the sea or beeping that car horn a little way too much. It didn't have the same energy as someone fighting with a blade or crushing an opponent in a life-or-death situation. It was just him making empty ideas in his brain, imaginitively.
+He was daydreaming indeed, his thoughts a hurricane of imagination and considerations like a scholar reading bookshelves-worth of information within any given year. It was excessive. It was wonderful. And it was nonsensical.
 
-If he was talking out loud, he would say in words: "The briefness of flight and the sky hiding above—they all gather together to form my presence. My eyes know that I am alive."
+He read his own thoughts.
 
-It was a strange sentiment, one disturbed by the chorus of voices around his room. It was exciting and reveling because everywhere around him, it was typical day-to-day life here on Earth.
+Moving into his mind, sounds and pops emerged rectilinearly throughout, a process comparable to the connection between someone riding a horse into the sea and the over-beeping of a car horn. It was strange and excessive with little synchrony in between them, except for that sensation that they came in lines, similar to tasting orange after seeing a cloud when tripping out on hallucinogens. It didn't have the same energy as someone fighting with a blade or crushing an opponent in a life-or-death situation. It was just him making empty ideas in his brain in an imaginative way.
 
-Shifting to a more surreal tone, a drop of ice cubes almost clanked in his ear before he was taken back to reality, where sounds zoomed and tore through the air. This could be likened to artistic noise cycling over a spreadsheet. With all of this poking his senses, he wanted to escape into his mind.
+To explore his imaginative mind, one could start with this bundle of ideas: "The briefness of flight and the sky hiding above—they all gather together to form my presence. My eyes know that I am alive."
 
-Morning, night. It could be any other day. But today was different. He was here at home, eating breakfast. That was what separated his life from everyone else—he was who he was right now.
+Then, furthermore, this mind could be found more surreal and riveting with this statement: "A drop of ice cubes almost clanked in his ear before he was taken back to reality, where sounds zoomed and tore through the air. This could be likened to artistic noise cycling over a spreadsheet. With all of this poking his senses, he wanted to escape into his mind."
 
-He looked behind him, in front of him, and all around because this place was familiar and it was everything that he knew. If something took it all away, then he would lose his mind.
+It kept going and going, not a single breath wasted. All energy was devoted to this cause of inspiration.
 
-This was his mental state, clear and unhindered, carrying out its duties as a soul would. This was his hope and his mind. This was where he placed himself consciously with ebbs and flows. This was self-awareness—the knowledge that as a consequence of his own thought, he existed.
+"Morning, night. It could be any other day. But today was different. He was here at home, eating breakfast. That was what separated his life from everyone else—he was who he was right now."
 
-Breaking apart from this philosophical reflection, a quiet, magical song progressively intensified in the background like a green monster stalking in the shadows.
+"He looked behind him, in front of him, and all around because this place was familiar and it was everything that he knew. If something took it all away, then he would lose his mind."
 
-Time passed. It was only a few seconds, but it was enough to make someone feel hurt and pain. It was enough to break a soul.
+"This was his mental state, clear and unhindered, carrying out its duties as a soul would. This was his hope and his mind. This was where he placed himself consciously with ebbs and flows. This was self-awareness—the knowledge that as a consequence of his own thought, he existed."
 
-He was here, and everywhere around him, there was life.
+"Breaking apart from this philosophical reflection, a quiet, magical song progressively intensified in the background like a green monster stalking in the shadows."
 
-From his left, cheers of excitement flew throughout the home, contrasting the possibilities of death staining this world.
+"Time passed. It was only a few seconds, but it was enough to make someone feel hurt and pain. It was enough to break a soul."
 
-To his right, words about games oozed with hearty pleasure, taking the form of tangible sounds that conflicted with existential hardship.
+"He was here, and everywhere around him, there was life."
 
-All around him, these voices echoed, mimicking the anticipation a student felt before their test results.
+"From his left, cheers of excitement flew throughout the home, contrasting the possibilities of death staining this world."
 
-When they did, they passed each point of the house.
+"To his right, words about games oozed with hearty pleasure, taking the form of tangible sounds that conflicted with existential hardship."
 
-And at each point, the various memories associated with it bloomed, imbuing Matthew with a nostalgic fondness for how temporary things could be.
+"All around him, these voices echoed, mimicking the anticipation a student felt before their test results.:
 
-The silence continued to draw forth Matthew's introspection with whirling winds.
+"When they did, they passed each point of the house."
 
-Shifting to his expression, a smile stretched across his lips, holding up his light-weight cheeks.
+"And at each point, the various memories associated with it bloomed, imbuing Matthew with a nostalgic fondness for how temporary things could be."
 
-Nevertheless, he continued his assessment of his environment, imagining himself with his family forever and the feeling of losing them.
+"The silence continued to draw forth Matthew's introspection with whirling winds."
 
-The final touch of his thoughts involved the scent of acrylic wafting close. It hailed from the remains of an unfinished blue paint job. With a nearby sniff, it gloated with characteristics like honey and of a coming sourness.
+"Shifting to his expression, a smile stretched across his lips, holding up his light-weight cheeks."
 
-In the end, he found love in the people around him.
+"Nevertheless, he continued his assessment of his environment, imagining himself with his family forever and the feeling of losing them."
 
-As the silence came to a close, so did his introspection. Real life came into view, and it was loud.
+"The final touch of his thoughts involved the scent of acrylic wafting close. It hailed from the remains of an unfinished blue paint job. With a nearby sniff, it gloated with characteristics like honey and of a coming sourness."
 
-"Yeah! and the fact that they used that champion is what scared me the most!" said the youngest, Jerome. "I already knew that game was over!"
+"In the end, he found love in the people around him."
 
-"Yeah!" said Mark, Matthew's second-to-youngest brother, headphones slithering around his neck as it fell. But he caught it before his smile dampened.
+"As the silence came to a close, so did his introspection. Real life came into view, and it was loud."
+
+"Yeah! and the fact that they used that champion is what scared me the most!" said Matthew's youngest brother, Jerome. "I already knew that game was over!"
+
+"Yeah!" said Mark, the second-to-youngest brother, headphones slithering around his neck as it fell. But he caught it before his smile dampened.
 
 Another voice pitched in, another of Matthew's brothers: "Do they even read patch notes? I'm honestly confuddled!"
 
@@ -11218,3 +11226,4 @@ Author's Note:
 
 
 # Chapter 60
+
