@@ -8,7 +8,7 @@ The main character starts off as a "tilted loser," which is a primary theme of t
 
 
 
-The goblin stood in front of him. His face sure and committed, Matthew's breath cycling without pause, the blade he held thirsty for a syrupy strike. 
+The goblin stood in front of Matthew, whose face was sure and committed, his breath cycling without pause, and the blade he held thirsty for a syrupy strike.
 
 Even now, he grinned; a vague multifaceted impression of intentions lingering behind his expression—time would not pause for him.
 
