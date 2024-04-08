@@ -11257,7 +11257,9 @@ He knew that there was no turning back from this point.
 
 He had to go all the way and throw everything into this new era.
 
-A fortunate thing was that he wasn't limited to higher-level activities due to the authorities' decision to promote him to a higher rank. When it came to ranks, even if Sophia had been rank 660 at one point, she wasn't exactly strong. The ranks were very top-heavy, so anybody past rank 100 was incredibly powerful relative to those above rank 100. And ranking up could be done by relying exclusively on a singular approach—a one-trick pony—which didn't exactly translate to actual on-site combat competence.
+A fortunate thing was that he wasn't limited to distant strategic activities due to the authorities' decision to promote him to a higher rank where the playing ground was more immediate and face-to-face with monsters that could match him in a fist fight. 
+
+When it came to ranks, though Sophia had been rank 660 at one point, she wasn't exactly strong. The ranks were very top-heavy, so anybody past rank 100 was incredibly powerful relative to those above rank 100. And ranking up could be done by relying exclusively on a singular approach—a one-trick pony—which didn't exactly translate to actual on-site combat competence.
 
 So he was being placed among the higher ranks, which was why he was a part of an "official" group now unlike before, one whose members were broadcasted at the board in the adventerer guild, including him. He was now officially an "Adventurer."
 
@@ -11295,4 +11297,4 @@ One of them informed Matthew: "Tamer has been busy recently with the aftershocks
 
 Matthew replied: "If she's the one being made to advance the new *birdmonsters*, then that's good too."
 
-That was it. That was the end of the meeting. They really had little to share since they were still testing the waters and avoiding any chance the other party could call offence or imbalance of power. Magic made things very dangerous in terms of how information was spread, because spells like changing voice existed. If two parties could converse easily without magic being a potential threat to integrity and honesty, then care had to be prioritized when encountering new communication structures, that which Michel's friends and Matthew, as two novel interlocutors, brought to the table.
+That was it. That was the end of the meeting. They really had little to share since they were still testing the waters and avoiding any chance the other party could call offence or imbalance of power. Magic made things very dangerous in terms of how information was spread, because spells like changing voice existed. If two parties could converse easily without magic being a potential threat to integrity and honesty, then care still had to be prioritized when encountering new communication structures, that which Michel's friends and Matthew, as two novel interlocutors, brought to the table.
