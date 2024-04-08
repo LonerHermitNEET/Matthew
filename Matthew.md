@@ -10,7 +10,7 @@ The main character starts off as a "tilted loser," which is a primary theme of t
 
 The goblin stood in front of Matthew, whose face was sure and committed, his breath cycling without pause, and the blade he held thirsty for a syrupy strike.
 
-Even now, he grinned; a vague multifaceted impression of intentions lingering behind his expression—time would not pause for him.
+Even now, Matthew grinned; a vague multifaceted impression of intentions lingering behind his expression—time would not pause for him.
 
 He would have to guide it himself, his grip fiery in form, the edges twanging endlessly for justification. Hidden with him lay thoughts of self-assuredness and the concept of being or becoming the epitome of grace and beauty—a demanding process that needed both external and internal affirmation like two beggars on the streets glancing from side to side.
 
