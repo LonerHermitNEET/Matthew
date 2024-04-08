@@ -8,7 +8,7 @@ The main character starts off as a "tilted loser," which is a primary theme of t
 
 [The Github commit page for funsies](https://github.com/LonerHermitNEET/Matthew/commits/main/)
 
-
+[The blog for status reports](https://lonerhermitneet.github.io/)
 
 To begin, the goblin stood in front of Matthew, whose face was sure and committed, his breath cycling without pause, and the blade he held thirsty for a syrupy strike.
 
