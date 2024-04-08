@@ -64,7 +64,9 @@ It kept going and going, not a single breath wasted. All energy was devoted to t
 
 "In the end, he found love in the people around him."
 
-"As the silence came to a close, so did his introspection. Real life came into view, and it was loud."
+His thoughts continued on and on, and it never ended.
+
+Meanwhile, Matthew's siblings at the same table were engaged in a conversation about a game.
 
 "Yeah! and the fact that they used that champion is what scared me the most!" said Matthew's youngest brother, Jerome. "I already knew that game was over!"
 
