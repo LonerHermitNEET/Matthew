@@ -6,6 +6,8 @@ For those who aren't sure if they'll like it:
 
 The main character starts off as a "tilted loser," which is a primary theme of the first arc, but he'll eventually learn how to play the game. As for the meaning of the word "intellectual" when referring to him, it includes having a tendency of being rational and detached when necessary, not necessarily a cold and hyper-analytical personality. When it comes to his emotions, they will play a huge role, but I will keep much of the focus on exploration and progressively speeding up the plot, especially in the second arc, so even though the main character does struggle emotionally, he is relatively high-functioning. Emotions are not a monolith in this case. Regarding his experiences as a gamer, they help him get used to the new world and its [System], and he will benefit from them later on in the second arc once his agency grows significantly. However, do expect both red herrings and foreshadowings throughout the plot. More urgently, the surreal experiences of this first chapter set up his fundamental characterization moving forward and how being transported affects him to a great extent. Lastly, as mentioned earlier, due to the first arc's identity as one of adjustment, the LitRPG aspect will not be a significant part of the plot until later on, but it is present. In conclusion, this presents a roadmap weighing in the points given by some of the casual readers thus far.
 
+[The Github commit page for funsies](https://github.com/LonerHermitNEET/Matthew/commits/main/)
+
 
 
 To begin, the goblin stood in front of Matthew, whose face was sure and committed, his breath cycling without pause, and the blade he held thirsty for a syrupy strike.
