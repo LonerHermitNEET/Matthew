@@ -2,14 +2,9 @@
 
 Author's note
 
-For those who aren't sure if they'll like it:
-
-The main character starts off as a "tilted loser," which is a primary theme of the first arc, but he'll eventually learn how to play the game. As for the meaning of the word "intellectual" when referring to him, it includes having a tendency of being rational and detached when necessary, not necessarily a cold and hyper-analytical personality. When it comes to his emotions, they will play a huge role, but I will keep much of the focus on exploration and progressively speeding up the plot, especially in the second arc, so even though the main character does struggle emotionally, he is relatively high-functioning. Emotions are not a monolith in this case. Regarding his experiences as a gamer, they help him get used to the new world and its [System], and he will benefit from them later on in the second arc once his agency grows significantly. However, do expect both red herrings and foreshadowings throughout the plot. More urgently, the surreal experiences of this first chapter set up his fundamental characterization moving forward and how being transported affects him to a great extent. Lastly, as mentioned earlier, due to the first arc's identity as one of adjustment, the LitRPG aspect will not be a significant part of the plot until later on, but it is present. In conclusion, this presents a roadmap weighing in the points given by some of the casual readers thus far.
-
 [The Github commit page for funsies](https://github.com/LonerHermitNEET/Matthew/commits/main/)
 
 [The blog for status reports](https://lonerhermitneet.github.io/)
-
 
 
 To begin, the goblin stood in front of Matthew, whose face was sure and committed, his breath cycling without pause, and the blade he held thirsty for a syrupy strike.
@@ -1671,11 +1666,6 @@ In the repurposed hobgoblin camp, Matthew had a reunion with Deathbringer, Sophi
 
 # Chapter 9 - Paths Converge: Bonds, Quests, and Shared Endeavors
 
-
-A note from LonerHermitNEET
-
-This is my thickest # Chapter to date. I thought it was time to expand on some stuff, so the next # Chapters should reflect that as well.
-
 Matthew stared at Deathbringer. "How are we managing?" he said.
 
 Deathbringer nodded with a weary smile, pressing his hands together. "Fine, we can arrange for a dinner later," he said, "but you're still participating."
@@ -2387,13 +2377,6 @@ When they walked up to Rodney, they side-eyed Matthew up and down.
 Meanwhile, Matthew tried to straighten himself more than he already was, thinking that he might have been accidentally lying down carelessly without realizing. If he missed the opportunity to gain their approval, he would isolated in his concerns again, so he looked like the very shy, shaky, introverted boy he was as a child.
 
 # Chapter 12 - The Path to Discovery: Unveiling Magic and Inner Struggles
-
-
-A note from LonerHermitNEET
-
-Content Warning: Suicide, Self-Harm, and Trauma
-
-This # Chapter addresses sensitive themes such as suicide, self-harm, and trauma, which may be distressing or triggering. If you or someone you know needs support, reach out to a trusted individual or professional. Reader discretion advised.
 
 Accompanied by his usual mix of nervousness and determination, Matthew said, "I want to know about magic."
 
@@ -4812,11 +4795,6 @@ He didn't want to linger about in thought. The dimly orange-lit room already dre
 
 # Chapter 25 - The Depths of Desperation
 
-
-A note from LonerHermitNEET
-
-Warning: This content may contain references to suicide, trauma, and self-harm. Such topics can be sensitive and triggering for some individuals. If you are struggling with thoughts of suicide or self-harm, or if you have experienced trauma, please seek help from a qualified professional or contact a crisis hotline immediately. Remember, you are not alone, and there are people who care about you and want to help.
-
 Several goblins walked up to Witchman's cottage, waiting for him. They were hoping to see him before they got demotivated. They wanted to be a part of his group along with the goblin Witchman had contracted.
 
 Meanwhile, Witchman kept pace with Lumi's growing confidence as she spoke about artifacts.
@@ -6767,11 +6745,6 @@ He had to be stopped. The [System] appeared, accompanying him. Shit.
 
 # Chapter 36 - The Epitome of Grace and Beauty
 
-
-A note from LonerHermitNEET
-
-Content Advisory: This narrative contains references to suicide, emotional distress, violence, and mental health struggles. Reader discretion is advised, as these themes may be distressing or triggering for some individuals.
-
 Matthew/Witchman/Scrappy stood up in front of the [System], saying, "What is it?"
 
 The [System] opened his cloak and showed Matthew a floating holographic screen that featured a carnival-colored wheel that one spun to receive a random prize.
@@ -7168,14 +7141,6 @@ Matthew mentioned about that, so it was nice to see Deathbringer being so open a
 He was free from [The System], and now he could focus on relaxing and having a good time.
 
 (End of the First Arc "The Trials of a Displaced Soul")
-
-A note from LonerHermitNEET
-
-If you prefer a more traditional, hands-off narrative experience, you may ignore this author note and this spoiler tag. It is also written in an informal style.
-
-Welcome everyone and goodbye, because this will be the ending for many readers. However, I provide a small chance here for you to see what I have in store. Continuing the story, I have prepared so many things. I will address so many other things in the story with the world. I will explore so many different things and show my more positive-leaning growth. I will also slowly integrate more characters and develop pre-existing characters, slowly morphing the story into the protagonist's rise to power but on a more positive note instead of trauma and intentional evil. It will be with the intention to share knowledge and skills to the world in a good way. This will be much more linear and make more sense as a fantasy action story. It could wind up diluting what came before. A very unique story turned into an average generic one?
-
-And levels and skills. He will get stronger in terms of levels and skills, and he will return to tactics and strategy, potentially becoming an effective leader in that regard. It will be so cool seeing him making grandiose statements that stem from his traumatic and dark background and experiences, showing that he had overcome that and is now a showman of some sorts, sort of like what Caesar was and how he rose to power. It will be so cool seeing his growth beyond this point actually, because I will continue to be very involved with the following things: levels, skills, tactics, strategies, and a very showman-like persona or personality. He will amaze and be awesome.
 
 # Chapter 38 - From Novice to Knowledge-Seeker: Exploring the Depths of Magic
 
@@ -9094,10 +9059,6 @@ To sum, it was never his levels and skills that drew people to him. It was his c
 # Chapter 49 - The Witchman's Grace: A Symphony of Destruction and Redemption
 
 
-A note from LonerHermitNEET
-
-I apologize for the 33-min delay. I appreciate your understanding.
-
 Matthew's coalition began moving, their steps careful, their eyes engaged, and their soul brimming with fervor, one backed by patience and a sense of purpose. Matthew united them under a common banner of having known him and seen him perform.
 
 He was a dancer with a choir, and they were his choir, singing his songs and performing until he was fully done.
@@ -9284,10 +9245,6 @@ Soon enough, he found himself smirking alongside the men and women at the table,
 
 # Chapter 50 - Harnessing Lightning and Mastering the Fabric: Matthew's Evolution as a Strategist
 
-
-A note from LonerHermitNEET
-
-The schedule is now 8 AM EST. I appreciate your understanding.
 
 Matthew watched the fall of a giant statue, seeing the adventurers pulling at it. This was a party event, but it looked like societal collapse.
 
@@ -10156,12 +10113,7 @@ The [System] emerged and said: "Oh, sorry, that's the wrong status page. We'll f
 
 Eventually, Matthew clasped hands with the [System] again, making a big smile on his face. He was in a good mood.
 
-A note from LonerHermitNEET
-
-Read Don - Monster Fantasy Journey Novel now!
-
 # Chapter 55 - The Coalition Rises: Uniting Against Grimtusk
-
 
 Shifting to a sudden breakdown of the gates of a remote village, villagers ran, embracing the wind.
 
@@ -11105,18 +11057,6 @@ Even if Matthew lost his emotions, he never lost the sense of divinity.
 
 To finish, [Hollowed Heart] was changing everything fast. Matthew was right to change things and make things better to remove the cognitive dissonance between a broken displaced man and a powerful intellectual creature. And [Hollowed Heart] was cancelling out the former. But whatever happened from now on was out of any outsider's hands, except for the gods maybe.
 
-
-Author's Note:
-
-
-Unnecessary note if you're already chill with the story. Anyway, I believe this author's note acknowledges the concerns of readers who stopped reading around the 1st arc, but I will not be moving this to chapter 1 or chapter 37, which is the final chapter of arc 1, until further notice:
-
-The readers have the right to be frustrated and angry with Matthew's internal stagnancy and deterioration despite his overall growth externally and his show of high cognitive skill through strategy, tactics, fighting scenes, and vivid emotional fervor and motivation. It feels almost contradictory at times, but that is who Matthew is, as many people tend to be, even if absent in positions of self-evidently great authority, power, and influence. In other words, this internal conflict is what this story was intending to be. But if the readers feel that the story is bad, that is valid. I understand why that might be the case for many of them. I also would not read this story unless I was fully prepared to watch the main character go through it. It has the basic elements of a power fantasy, but it also has the fundamentals of a psychological exploration of a broken (traumatized and mentally unwell) main character. It is experimental in that sense, and I am also testing the limits of what is considered too much or bearable in terms of boldness of narrative styles and choices, given that I have never written anything beyond 100 chapters (with 2,500 words per chapter). I don't like writing generic stories, so all of my stories will be written with varying degrees of boldness, which for now, will mean polarization between readers who enjoy its uniqueness and readers who are repulsed by it. But that's fine. I enjoy the critique, because I am here to learn. I can't promise rewriting everything, but I can guarantee that the longer I publish chapters and write new stories, the more I learn about what is too much and what is too little in terms of boldness. Thanks for reading and taking the time to hear my thoughts. If the readers are wondering if I enjoy my own stories, I do feel content when I write them. If not, I would never post them, but that's the point. Posting them stimulates growth through reader feedback. All in all, that's constructive.
-
-This chapter sees Matthew in a new stage of his life and of this second arc, one unladen by internal conflict, but composed of utilitarian, likely uncompromising ruthlessness with the help of magic and a choice. This was not sudden or out of pressure; in fact, this had been planned for tens of chapters now. I wanted to have Matthew fully realize his external potential, but I knew that his emotions would prove to be a detriment. And that is the reason why the first arc saw that in heavy detail, while the second arc emphasized on promising great rewards for Matthew if he kept on in his external path of growth and discarded the internal conflict that tied him down. I couldn't cut away Matthew's emotions immediately, as that was not my goal. I wanted to give him time to grow gradually character-wise in proportion to his changing circumstances and external progression; of course, whether this chapter came too late or too early is up to the reader to decide. I love writing characters that have to struggle to break away from guilt. Some are shown succeeding quickly in only one chapter; some are detailed and extended across tens of chapters. In short, I like to push boundaries, and I expect polarization. But there's a limit to pushing boundaries, and I am using reader feedback to find that.
-
-Speaking of passages like these, I aim to be transparent and communicative, but author notes are definitely limited in accomplishing that. Replying to comments are even more limited, because they are much less official due to their limited visibility; many readers tending to skip the comment section altogether save for the first comment. This is why I intend on taking new approaches of achieving this goal, and that might include offering a link to a version history of revisions in a public Github repository of the story or a blog providing editorial posts about the story, whether it be detailing each chapter or aspects of the whole story. But that idea is not final, and it could very well not go through. In the end, the point of this passage is to underscore my intentions not just as an author that pens lines, but as one that publishes serials.
-
 # Chapter 59
 
 Matthew was all alone in a vast landscape, and he walked around again and again.
@@ -11300,3 +11240,314 @@ Matthew replied: "If she's the one being made to advance the new *birdmonsters*,
 That was it. That was the end of the meeting. They really had little to share since they were still testing the waters and avoiding any chance the other party could call offence or imbalance of power. Magic made things very dangerous in terms of how information was spread, because spells like changing voice existed. If two parties could converse easily without magic being a potential threat to integrity and honesty, then care still had to be prioritized when encountering new communication structures, that which Michel's friends and Matthew, as two novel interlocutors, brought to the table.
 
 # Chapter 61
+
+Matthew put together hundreds of men and assembled them with armor, tools, unique artifacts, and goals in mind. The point was to make sure that everything around him could find rest in the seat of power in their own way. He rewarded them with power by enabling a culture of camaraderie, one already supported by adventurism. He just made it many more times efficient at that job by making it easier for New Adventurers. Truly, he worked with Desmond to help New Adventurers, making sure he appeared to motivate the new entrants.
+
+And for the senior adventurers, he kept his head low, but he did make sure that even now, they were being treated with new stuff.
+
+Matthew appeared before them.
+
+In the eyes of his compatriots, they saw the grace of the Lord in that form, a form glazing with glory. He moved with purpose, demanding things from them, and they obeyed because they had seen his mighty works. He was slow to anger, and great in power, and would not at all acquit the wicked: he had his way in the whirlwind and in the storm, and the clouds were the dust of his feet. Great was he, and greatly to be praised in the city of their God, in the mountain of his holiness. Forasmuch as there was none like unto him.
+
+The compatriots, the soldiers of righteousness, ran about, committing great acts of justice by turning the goblins into men of their alliance and destroying monsters. They were wary of dogs, wary of evil workers, and wary of mutilators of the flesh.
+
+For dogs had encompassed them: the assembly of the wicked had inclosed them: they pierced their hands and their feet. The soldiers of righteousness might tell their bones: the wicked looked and stared upon them. They part their garments among them, and cast lots upon their vesture.
+
+But the wicked would perish: Though Matthew's enemies were like the flowers of the field, they would be consumed, they would go up in smoke.
+
+Matthew stood in front of his compatriots, and he dragged along his arms when he moved among them. The greatness that he had hidden belonged to them also.
+
+The work that he had done when he was still creating this persona and enigma before he cast out his emotions had a great impact now that it was supplemented by actual competence.
+
+Matthew, or Witchman, began his march toward creating oblivion.
+
+His rise to power set off alarm bells.
+
+First, the giant spiders ran about, checking their fellows and contacting their communities, Matthew's shadow stretching across their dungeons.
+
+Second, the giant ants began conversing with each other and with their leader who had guided them into human land, a looming threat in the distance shaped like Matthew.
+
+Third, goblin tribes sent messengers to each other to inform them of the coming Witchman.
+
+Fourth, Mawkery had claimed a powerful space-controlling skill and similarly powerful artifacts, hoping to meet this Witchman.
+
+Fifth, Grimtusk, who had been able to escape from the adventurers, was now in hiding, worried that Matthew, who begun the coalition against him before, would come for him first. He hid in a cave like a fugitive.
+
+Shifting to an exploration of each party, a giant spider, Razuki, was handling crates and putting together various items that they had taken from a village raid into their compartments, having created various room-shaped webs to help separate their things. They used the fact that they could climb and had the rooms be located anywhere in the walls; they collaborated with the giant molerats to make sure that they could dig the rooms easily.
+
+Razuki signalled another sub-group of giant spiders, Losanta, Broklato, Santala, and Apaz, to begin creating arrangements here and there, which meant selecting a list of spiders to handle the potential threat of Matthew forces checking out their spot from the vantage point on the surface. They were currently inside a dungeon, but they knew well the strategic points in their environment, having explored around a lot.
+
+Losanta said, "We haven't arranged the little things so far. What do you think we should be doing?"
+
+Broklato said: "That's surely going to take a while. We can have Apazoto and Ricalufusta have the opportunity to have it slowly progress."
+
+Apaz said: "I haven't really taken care of the Machuchu, but there's been concerns over whether or not they're a threat. The current limitations are severe, and we wouldn't have to repeat Lavuske incident."
+
+Razuki gave the equivalent of a nod. "Right, we can have the Machuchu just put there over the corner. It should be enough the poison spell to keep them at a distance. Then, we can Fairy do the rest of their work."
+
+Apaz said, "How about Barkada and Flower Ranger?"
+
+Razuki continued: "There's been loose stands between both parties involved. We can have Zamboanga loosen up the caroto-bangs."
+
+Each species had their own items of concern, including Machuchu, Lavuske incident, Barkada, Flower Ranger, and caroto-bangs. Moreover, Zamboanga, Fairy, Apazoto and Ricalufusta were code names of units.
+
+Returning to Matthew on an intellectual perspective, he knew he was very limited, even if he had reached this point. He only knew as much as a young master knew about the plights of the plebeians. He was limited to his experience of life as one who had come from Earth, but he was also enabled by it. It allowed him to reach heights, even if inevitably, he didn't actually know that much. He might have been powerful in several prongs of operation- and organization-order combat competencies. But besides that, he was a fitted tool on an already perfect hand or a fitted boot on an already perfect foot. Without the environment, society, and system that enabled him to pursue this singular goal of perfection, both in the realm of persona and actual profiency, he would be a drifting, broken man, and there had been hundreds of people like him, talented and hard-working, but they didn't succeed. Why? Because they weren't in the right place at the right time. Even if they would take the opportunity once it presented itself, they were given lesser opportunities and lesser chances at success. This was what Matthew was. He was a representation of what would happen if the right people were given the right tools, or maybe in this case, if the wrong people were given the best tools, considering how dangerous and volatile Matthew had been as someone given chances upon chances and power to reflect upon his success enough that he could do it all over again in progressively increasing degrees. People like Matthew exist all around the world, and it was their job to live the lives that many people sought. He drained his dreams, hopes, ideas, and personality into this one pursuit, becoming the epitome of grace and beauty—their every want and need coalesced.
+
+He was the fantasy that people wanted, but inside, he was dying to become human again. But that was no longer the case, especially with [Hollowed Heart]. The [System] had made it very clear that Matthew could be this Idea. But that would take a lot of fine-tuning, which was why it was a patient process, one marked by confusion, disjointedness, and a sense of awe and wonder at the seeming suddenness in which pivotal events came about; comparable to a dove being struck by spears of God at a time when all plants were supposed to fly with wings. Indeed, that metaphor alone expressed how unyieldingly complicated his life was and, to that extent, he was. He could only march a long path along a narrow road, which grew narrower and narrower as his options dissipated, and the only answer left was to live a life, one that wasn't his own.
+
+But he had accepted it now. He was becoming this Person, this Personhood, this Epitome.
+
+In this manner, he was a science project of a juvenile mind—[The System].
+
+Even with this, he could only sit down and appreciate the night sky, not in a manner given to Emotion, but one given to the glory of patience and cognitive similarization. He knew the patterns that struck each other like hammers at the forge. He knew the details that colluded within a cabal. He knew the marching agents that all abided by his rule as a young master. He knew just how well he spoke when the time came.
+
+He was irrationally beautiful, a product of nature and nurture; time had spoken again and again that humans were capable of great acts of violence, whether or not they protested against its essence of meaning.
+
+This was Matthew at his best; a complete evolution toward utter disdain, not anger or emotional rage but a pragmatism so volatile in its decision-making due to its nature as an exception from all the other societal members that projected emotion-driven acts.
+
+This was Matthew, the epitome of grace and beauty, the idealism.
+
+Moving into a potential future, it saw Matthew very differently. In this vision, he shocked the world by falling apart; as soon as his units reached a sense of highest might, they broke apart like a metal line between two towers. It soon faded into obscurity, along with the concept of Matthew as this essential Thing.
+
+He fell to the ground, hugging the earth, crawling upon its interstices, hoping to drain into them the pragmatism that knew only what it had gained and not what it had lost—emotion, drive, and the ability to take oneself and recognize the beauty of life within its appreciative cognition, that often attributed to "psychology" when, without the traditional demarcation between psychology and cognition, it was an essential constituent of this brain that made humans human.
+
+In this reality, this world that he had built through pragmatism soon faded, because what pragmatism asked for were the ability to navigate a world full of fluctuations and learning that the most optimal solutions often involved dissolution, resetting, and starting over with a new stratum of refinement. Emotion wouldn't have saved it, but it would have made the experience of having built it much more tangibly felt. Emotion was sight to the humans all around, analogous to actual sight. Pragmatism had only shown him that the path to success was marked by humanity, because to be superior above other humans was to recognize the weight they held as people. Ignorant superiority was dependent upon a superficial and unsustainable idea of success, one not grounded in reality (and by extension, pragmatism), as the very idea of success was dictated by human beings. In other words, success could not be divorced from its social and human context, because the desire to succeed was inevitably human, epitomized by the emotions that drove individuals to ambition and feats beyond any common man would achieve on their own, coupled with the pragmatism merely equipped (as a tool) to achieve that. Furthermore, notions that living a life wholly rational to succeed didn't take into account that the desire to succeed was intertwined with emotional processes.
+
+God might have blessed his pursuit, but Matthew himself had abandoned the righteousness inherent in internal (emotional) integrity.
+
+He had forced himself into a brick wall basically, hoping that he could become this Ideal without the sense organ that saw the hard and emotional societal factors necessary for its emergence and stability. The conceptual understanding of emotions wasn't sufficient to access the wealth of emotion-tinged memories that made him the larger-than-life person he had become. Emotional understanding necessitated feeling on the understander's part—also known as empathy—and the loss of this was what led to his downfall.
+
+He couldn't see people, and that made him a bad guide, immediately depleting the spike of short-lived resources gained from pragmatism and exhausting the lasting resources he had gained as an emotional man.
+
+People wanted to believe in something, and if the leader themselves didn't feel so irrational in believing that very thing with all the emotions that it entailed, then they would depart, realizing that they needed someone even more irrational, even more disillusioned, and even more reckless and uncompromising, not someone only given to solutions that had already worked and working within a stable limit. Sometimes, bursts of emotion left people in awe, like a populist declaring the charisma of genuine outrage at a speech podium. It was irrational yes, but it was very real. And if irrational things dictated rational results, then wouldn't that be considered rational as well?
+
+These were the hypothesis and conclusions Matthew made; though, much of it leaned toward his subjective understanding of the matter.
+
+Zooming in to the present moment, Matthew stared at the sun, asking the wind for a sign. He was determined to remove himself from this world temporarily until he resolved the issue with the [System], who neglected to answer him.
+
+"When are you coming back?" he said.
+
+Silence greeted him, saying hi.
+
+He worded his thoughts in an absentminded, meditative way.
+
+Silence sat down beside him, asking for a foot rest. She placed her leg on his lap, using the back of a wooden wall as support for her neck and back.
+
+Matthew frowned, trying to return some emotions that he had lost. But he wasn't truly frowning, and he wasn't sad.
+
+Silence took a deep breath, asking him if he had seen anyone around here.
+
+Matthew shook his head.
+
+"There's no one around him," he said simply, referring to himself in third person.
+
+Silence watched him try to make expressions, ultimately laughing at him and saying that it was okay to learn.
+
+He would have widened his eyes with shock if he felt something. But he dispassionately knew that he was learning again to feel and process things emotionally.
+
+Becoming purely rational had left him in paused time, because those emotional past events and details weren't going to process themselves.
+
+Silence left, as the [System] appeared.
+
+"Hi," he said.
+
+# Chapter 62
+
+Matthew plunged his arm against a quiet throat, making sure that every single ounce of power was delivered in full. This was actual, and this was how rhythmic he was with murder even.
+
+He was focused in killing a member of a party of adventurer-bandits who had gotten in his space too hard and began threatening him.
+
+In the meantime, the adventurer-bandits saw a rhythmic agent that foresaw their destruction. They ran, fleeing the terror involved with this machination—a machine capable of terrifying acts of brutality despite a past history of weakness and reliance on his connections and ability to navigate them effectively.
+
+Matthew struck them with a beating, tearing away their emotions. In the process, they physically died.
+
+Earlier, one bandit tried to stab him in the gut, but Matthew grabbed him and beat him again and again, showing that no matter what happened, he was there.
+
+The distractions and hesitations they had were overshadowed by his ruthless quickness toward violence.
+
+Another bandit tried to spear him, but Matthew banged his head with a blunt weapon, crushing the skull that knew only fear.
+
+He made the man a slave before him and then chained him to everlasting silence—death.
+
+The other bandits stood awkwardly and stared in silence.
+
+Matthew ran at them before sweeping them away from their lives and into darkness; the blood spilling all over the floor clumsily.
+
+The bandits flew into heaven's embrace, their hearts aligned with hope and dreams, never a single thought of ruthless violence having entered their minds. They only stole and never killed, but their actions were still evil. But it was never to the degree that it was unforgivable, because a crucified thief could ask for forgiveness and be saved.
+
+Matthew had blasphemed the Holy Ghost.
+
+He abided in the realm of moral invalidation.
+
+He removed the sacred texts after defiling them. He drew on them also.
+
+He struck, and he struck, and he struck, making his way into his own embrace—a Godhood created specifically for him, which only he confirmed as valid.
+
+He was self-justified and self-rationalized, self-accepting and self-caring.
+
+He selfishly defied the gods, making his way down the steps of destruction.
+
+He abused the men and made attempts to destroy their souls.
+
+But the men had been saved by Grace, a line of scarlet thread in each of their windows.
+
+Matthew did not roar or bark in indignation. He merely gazed like a beast that even real beasts couldn't compare.
+
+He created creation through his acts, the blood spilling again and again in rhythmic waves.
+
+Droves of goblins, adventurer-bandits, giant ants, giant spiders, and all sorts of creatures and monster-kin entered into his range, and he spilled again and again until the days were over, not a single day wasted, not a single day inefficient, because he acted with the help of his authority and of his power.
+
+The power that he never had as an emotional man.
+
+The blood was upon their own heads. He was guiltless.
+
+He rubbed his hands with water and soap, but the blood remained, staining them permanently. 
+
+He walked around, blood on his hands, blood on his clothes, blood on his armor, blood on his weapons, and blood staining his spirit. Abel, where were you?
+
+When humanoid monsters came clumsily like children trying to catch a bird, he struck again and again, beating the piss out of these mule boys.
+
+And the issue was that with these acts of violence, he was fine-tuning his ability to fight suddenly and with abruptness, preparing for attacks similar to the older man who had deprived him of his levels and skills and the disgusting man who had traumatized him.
+
+He was working to reduce the chances of those two instances happening ever again. He didn't want to be left in a pond wading quietly until he drowned.
+
+He would cast the bait firsthand. This way, he didn't let his enemies attack him when he was most unprepared.
+
+He struck like a doctor, inserting a sword and spilling floods of blood.
+
+[Michel's Ghost Sword] was purposeful in this conquest.
+
+He loved the world, and this was his love, his version of appreciation, one marred by the [System]'s antics. It was one big joke! It really was!
+
+He had given up his emotions out of love.
+
+The [System] chuckled and guffawed all the while.
+
+Matthew looked at him, almost offended, but he wasn't and couldn't feel much, if at all, except for a feeling of ease and smoothness usually unassociated with callused callousness.
+
+But the thing was that it didn't matter whether he killed the goblins with a sword or by commanding one of the adventurers to do it. He didn't feel self-justified, because he didn't feel the need to do so.
+
+He just was, and he didn't feel anything about that.
+
+It was more so just taking things and going by.
+
+It wasn't relaxation.
+
+It wasn't stress.
+
+It was nothingness, something everyone could experience, but while everyone closed their eyes, he couldn't see.
+
+After killing for a while, he returned to his goblin zoo project and communicated with them as a cat would play with his food.
+
+He sat down and relaxed beside them. "How are you guys?" he said casually like one of the youth leaders in a church.
+
+The goblins were staring at him, trying not to say a word, but Matthew didn't look too dangerous, especially with how comfortable and relaxed he was without looking closed and self-satisfied. He looked curious like a child and open to fresh ideas. "What do you want?" one of them said, Grumblegut, sitting behind a cage.
+
+"I just want to ask whether you guys are going fine. I was hoping you'd answer me because if you're not, I can have them give you guys more food or more water or more of anything. Just tell me."
+
+The goblins knew that Matthew was the boss, but they were surprised again as if it was the first time they had heard evidence of Matthew's status.
+
+One of them, Snaggletooth said: "Sure, please give us some food, thank you. I want sisig, the one you gave me last time."
+
+"Right... one of our cooks can do that, but I'm tired. So I'll only give you half a plate, because if you guys eat too much, I won't be there to watch you eat it all. I was hoping to start a streak of watching you guys. I know you guys mind, but do say what you'd prefer?"
+
+"What do you mean?" said Gristlebelly.
+
+"What kind of format? Do you want the cage to be here? Do you want the cage to look like this? I'm trying to give you options. If you guys feel too discontent, then this'll be difficult. I was hoping to help you guys find some kind of compromise with me. What do you guys think?'
+
+"We want a green cage," said Bogwoggle.
+
+"Sure!" said Matthew.
+
+"A black cage?" said Gristlebelly. "I want a black cage, Bogwoggle."
+
+Snaggletooth said: "I want a black cage too! Why a green cage!"
+
+Grumblegut said: "Me too!"
+
+Matthew stood up and said: "You guys are in different cages! Relax!"
+
+The goblins were surprised, not just because he raised his voice, but also because they weren't scared of him. He didn't sound malicious or annoyed. He didn't sound angry or tired. He just sounded perfunctory but in a way that felt caring and like they were all in one cage together as a team. Matthew had made them forget they were in different cages with the way he smooth-talked them. They thought they were all in a room-cage sitting comfortably together.
+
+Bogwoggle said: "Cage, cage! Can we move to a different cage! I want a big cage, bigger than his."
+
+Matthew said: "Sure! I made your cages intentionally small because I was expecting that."
+
+That didn't sound like an admission of guilt to Bogwoggle, who looked happy instead.
+
+When Matthew finally got a team to make a cage for Bogwoggle, the other goblins were discontent. 
+
+Gristlebelly said: "What's this? Cage 2.0? Where's my special cage that no one can beat!"
+
+Matthew said: "Are you guys hungry? Let's eat first. The food's here." Several people handed him food, which he then handed to the goblins by hand through the bars of the cage.
+
+The goblins accepted it one by one, seeing that the sisig they were given was only half a plate each as Matthew promised earlier. This set a precedent of continuity and trust. It was the beginning of many actions that said: "Matthew is not a goblin, that he should lie; neither the son of goblin, that he should repent: hath he said, and shall he not do it? or hath he spoken, and shall he not make it good?"
+
+After they finished eating, Matthew got up and left in the manner of a parent who would shortly return after buying food gifts and souvenirs to bring home—*pasalubong*.
+
+Later, the goblins saw Matthew return with a bunch of stuff in a bag. He put it down and showed them different kinds of food, toys, and drawing pads. The drawing pads were expensive, but he had never seen a goblin draw on coloring pages before. So he payed an artist specifically for the role of creating outlines of animals just for the goblins to fill them with color. He had gotten the resources, being various pigments, chalks, and pastels, from artists so that the goblins could draw. This was basically the same thing he experienced growing up in Sunday school for kids in church.
+
+He made them experience what he had enjoyed so much. So even now, he was feeling nostalgic and particularly human today.
+
+The food—*lugaw*, a glutinous rice dish—would be given after they were done drawing and listening to him tell stories of his experiences from Earth. 
+
+The toys were given as a prize for winning outdoor team games, so he hadn't forgotten his roots.
+
+When the goblins began drawing, two of them fought over certain coloring materials, and Matthew was quick to show them that they could still share while getting what they wanted. However, they ended up wanting those coloring materials even more than they did before fighting, just like adults with politics. Matthew attempted to show them different colors, but it didn't work. So he told them to wait while he got more of what they wanted.
+
+After the goblins finally got it, they were content and minded their own business.
+
+The coloring continued, with older goblins helping the younger ones with difficult parts.
+
+As soon as it finished, Matthew began singing religious songs for children, and he remembered them by heart. He made the goblins follow along, and soon enough, they all began singing together.
+
+After the singing ended, he began preaching, using his past experiences on Earth as fuel. The children were very obedient and respectful, even following Matthew's lead in putting their palms together to symbolize prayer when they prayed devoutly.
+
+Then, after the preaching was done, he had them play outdoor team games like *patintero*, musical chairs, and hide and seek. As for how he did this given the circumstances, in order to get them playing these games, he opened their cages for the duration. Though the large cave-dungeon they were in was not suitable for hide and seek, the goblins were still creative. 
+
+Then, the food arrived, and the goblins were excited to see the food and began eating with each other. If they were kids, one of them would be sitting on the lap of their older sibling and then being spoon-fed.
+
+When all was said and done, they returned to their cages as they would with a personal room if they had one. The fact that one cage was green and another cage had a different size illustrated this point.
+
+In the end, the goblins didn't understand how ruthlessly violent Matthew was. They had hit each other and banged each other against trees several times in their lives, but it was never out of malice, only childish impulsion. Matthew had recently done it with premeditation despite having lived a great life back on Earth.
+
+It took only about 8 months of agony and camaraderie with goblin-murdering adventurers in this new fantastical, magical, mystical realm for Matthew to reach this point.
+
+Earlier, he prayed before they could eat: "Lord, thank you for the food. Thank you for everything you've given us. I thank, we thank you for everything you've given us today. I pray that our food sustains and gives us light and shows us that you matter... more than anything. Please bless this day, in the name of Jesus, amen." He was hoping to make it longer, but he kept it short because the goblins already looked hungry.
+
+Matthew was not purely pragmatic: he was crazy.
+
+Being purely pragmatic was never a monolith, and many people would find successful pragmatism in many different results and approaches.
+
+This was Matthew's version of pure pragmatism, limited by his own subjective perspective.
+
+If he was God, then maybe the world revolved around him, and with omnipotence, omniscience, and omnipresence, he would achieve true pragmatism.
+
+But he was only human living in a vast world, and not everything he did made sense to a linear journey seeming to maximize fun.
+
+In the end, his life, as complex as it was, would never stand on a definition that made sense. All the definitions he used were incredibly tainted by personal biases and perspective.
+
+His idea of emotion and pragmatism were so skewed to his sense, and no scientific analysis could easily decide for someone how to live their life, especially in respect to how words rarely were enough to communicate ideals, wants, and needs. Context was necessary, and everyone fell on a vastly different context even if they lived in the same home as someone else.
+
+Matthew had seen the most arrogant people become losers with a big head just after spending years studying and learning. They never changed, but it was his perspective that was elucidated. These people were big mouths who convinced people to their side, but ultimately, they were a bunch of losers who spoke loudly and never took the time to learn outside their perspective, resulting in prejucies, biases, and a false sense of invulnerability when they were just insecure people who put on a self-convinced front. Reality spoke differently, and it was funny seeing these people do their little people things. In the end, he just left them alone.
+
+So his definition of this world and his perspective would remain inscrutinable for ever and ever.
+
+No matter how much he tried, no one else could be him to teach him how to live. Only he could do that.
+
+All these voices telling him that that this current him wasn't who he was. That he was gifted or talented was wrong. He was just a regular person in the end, and people who kept trying to control him and put him in a box by demanding that this wasn't who he was and that this wasn't consistent with their idea of him were wasting his time.
+
+The thing was that the voices he mentioned didn't exist. They were pressures and expectations from a long time ago back on Earth when he was growing up, and he characterized the adventurers' gazes and cultural expectations, duties, and responsibilities, especially with him as a peer, as these same voices; his upbringing playing a huge role into how he determined people's views on him (as "voices") even without their explicit expression. This was why he had mentioned being a male monster because the notion that males were monsters was subtly ingrained into him back on Earth. Overall, the interplay of Earth notions and the notions of this world exerted influence on his overall decision-making. Furthermore, his layman's idea of pure pragmatism was only an ideal born out of notions, whether cultural, personal, or more spiritual. Finally, the [System] never truly removed his emotions for good, having only done the same thing he did before when he magically numbed Matthew's emotions. That was the truth.
+
+Moreover, the arrogant people he was talking about actually referred only to three enduring entities at most, so despite having acquainted or befriended over a thousand people back on Earth, these three entities contributed significantly to his self-perception.
+
+In brief, three statements outlined these previous ideas and points.
+
+First, in spite of everything, that didn't stop his path in the realm of what he could only describe as utter rationality. 
+
+Second, with an intellectual gearset came the need to neutralize its demanding effects.
+
+Lastly, he was not changing into an idea. He was chasing after an idea with all the complexities that entailed for him.
+
+# Chapter 63
+
