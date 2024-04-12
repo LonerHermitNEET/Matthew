@@ -11009,7 +11009,7 @@ Matthew nodded, embracing the [System]'s feet, tears dripping down onto them.
 
 The [System] grinned devilishly, as magical particles swirled around Matthew, removing that cognitive dissonance within him and making him truly perfect.
 
-He gained a new title from the Overlord who handed him the title [Overlord's Blessing] before.
+He gained a new title from the Overlord who handed him the title [Overlord's Gifted] before.
 
 **[Hollowed Heart] increases all divine attributes by 25% when in any state marked by grandiose delusions.**
 
@@ -11551,3 +11551,260 @@ Lastly, he was not changing into an idea. He was chasing after an idea with all 
 
 # Chapter 63
 
+Matthew sat down, his mind a temple of peace.
+
+He couldn't divorce himself from his past.
+
+But for now, he sat down, relaxing in front of the goblins. All the plans and goals people had for him fell away, like flakes of dead skin.
+
+He got up and went out, entering Dungeon Astaroth.
+
+He was part of a network of dungeons, and this was one of the main dungeons. So this led to an even more complex array of *sub-dungeons*. Things got more intricate, and the people who did try to organize this were very diligent, making it easy for people like Matthew to rise to power.
+
+But Matthew was a gear in a machine, amid his defiance and his attempts at asserting his greatness.
+
+He dispassionately struck goblins again and again, clearing away the earth.
+
+Everything was easy, but he was also avoiding everything difficult. It was too challenging for him to hold on to the strands of fate any longer.
+
+But he had to be patient.
+
+He didn't want another repeat of his loss.
+
+He was playing carefully.
+
+More importantly, he wished the [System] would just break his emotions and remove it entirely. He wanted to fulfill the wishes, fantasies, and ideals of the people, but he was imperfect and human. He wished he could just break himself and become Perfection, become God, and become Everything.
+
+But he was inevitably human.
+
+He hated himself for being so weak.
+
+But he didn't hate himself.
+
+This was Heaven.
+
+He laughed, guffawing, attempting to restore that emotional front of arrogance, superiority, and god complex.
+
+But he was human.
+
+He tried again.
+
+"Come one! Be the sociopath! Be the psychopath that this world needs!"
+
+"Come on! You have to become the epitome of grace and beauty. Become the murderer! Kill! Kill! Kill! Destroy them all! Murder every last of them. You are justified! Do it! Do it!"
+
+He didn't believe what he said. He didn't believe truly that it was okay to hurt people, and even if he did believe it when he was emotional, deep inside, he truly cared.
+
+But he cared so much he wished he was a psychopath.
+
+He wished he didn't have emotions.
+
+If only... If only...
+
+Why did he have to be this way? To be so hateable...
+
+He laughed. This was reality, wasn't it? To be hated.
+
+To be mocked and told that he wasn't really a person.
+
+That his emotions were invalid. That his humanity was just a dream.
+
+That his soul was just made up.
+
+All that pain and suffering just a fabric of imagination.
+
+He fell to the earth.
+
+He couldn't be perfect.
+
+He could only be himself.
+
+He would be hated for ever and ever.
+
+He closed his eyes.
+
+He slashed and gripped his hand, shaking while he did so, and he began to aim it at the monsters.
+
+"I hate you all..." He didn't hate them. He never truly did.
+
+"I am... a monster..." He did believe that, but his emotions said otherwise. He was still human deep down.
+
+"I have to become the epitome of grace and beauty..." He did believe he had to become so. It was the expectations of society and everyone around him that led him to believe this. The expectations of his first adventurer party who had helped him without pragmatic reason and enabled him to reach his current level of success.
+
+He laughed.
+
+This was reality.
+
+He slashed a monster, breaking it apart. "I am God alone on Earth and in Heaven. I am the son of Everything! You will not stop me!" He was being speared again and again by kobolds.
+
+He pretended to collapse before standing up. "You will not stop me! I couldn't even kill myself! How will you be able to do so!"
+
+He guffawed in a strange sense of empowerment.
+
+"I am God here and on Earth!"
+
+He raged upon the streets of Zaun, crashing himself into tens of monsters.
+
+The world was peaceful. Every moment magical.
+
+The night sky never faded.
+
+He was destroying lives beautifully.
+
+He slashed and he skewered, making sure that impact was ravenous and tasty.
+
+He moved and moved, striking the beast upon its head.
+
+He was the God that moved mountains.
+
+He had faith as small as a mustard seed. God could save him.
+
+The monsters struck him and beat him.
+
+He prayed for help.
+
+**[Overlord: What the fuck are you doing?]**
+
+Matthew jumped in shock. "W-who are you, Sir?"
+
+**[Stop whining. Get the fuck out of my sight. You're currently in my realm. Your voice called up to me. I can still see your irritating form. Get out! I'm having sex with my wife!]**
+
+Matthew shook his head in confusion. "Who the hell... What's this..."
+
+The monsters ran away from him, terrified of the Overlord's Presence.
+
+"Why would say he was having... What is happening? Is he... Oh shit! He is! He's the Overlord. [System]! [System]!"
+
+The [System] appeared, looking at him with subtle disappointment and discomfort, not wanting to be in the same room as Matthew. "What?" he said smally.
+
+Matthew was too scary in a way he couldn't explain.
+
+The [System] shook his head instinctively, grimacing. "What?" he repeated.
+
+Matthew was glancing around, concerned that the monsters would ambush him while he was talking to the [System]. "Look!" He pointed up at the magical particles of the Overlord's Presence. "Those are... the Overlord..."
+
+The [System] nodded, maintaining his outward revulsion toward Matthew. "Yeah, I know... What the hell are you doing?"
+
+"What?" Matthew was genuinely confused.
+
+"Why were you doing this?"
+
+Matthew shook his head in surprise. "What do you mean?"
+
+"You were mentally doing shit that isn't really... you know... normal..."
+
+"Huh? Why're you surprised? Anyway, what was that about? The Overlord was here. It's crazy, you know. I've never seen the Overlord like this. Actually, I've never seen the Overlord at all. W-what was that—what was the reason?"
+
+"He was contacted by a spirit... and you somehow contacted him instead. You interrupted a messenger that was supposed to be sent to him. You were praying, weren't you?"
+
+"Yeah. To God."
+
+"To not-God. That's God. Whatever you think is God, that's not God."
+
+"What? I mean, I was just praying. It's not that crazy. Why are you... about it, you know?"
+
+"I'm just saying you prayed to the wrong God."
+
+"Who did I pray to?"
+
+"You prayed to the Person that just came here and is now telling me... magically... that... you... should... rescind... your... blessing..."
+
+"Which one?"
+
+"The one... he gave you..."
+
+"The Overlord one?"
+
+"Yes."
+
+"But... okay, sure... Okay."
+
+"Yeah..."
+
+"You see... What you're doing is not normal... I don't even know how you even do this. What is going through your mind?" He said, laughing: "Are you... struggling with something?"
+
+Matthew furrowed his brows.
+
+"I'm just saying, you know," continued the [System]. "I've been trying really hard to make it easier for you, but *you are* not *okay*."
+
+"Yeah, I guess... I guess I am not..." Matthew replied.
+
+"Yeah... Do you want to do something more productive than being a whiny little whiny little fucking loser?"
+
+"What?"
+
+"You are taking so much of my energy, you know, the magic stuff, and I'm wasting it all on you. I thought you had something going on. But you are so weak and mentally deranged that I just... can't... You're funny, real funny. You make it laugh, and I just can't do it anymore."
+
+The [System] disappeared.
+
+Matthew stared. "What?" He said, giggling, "What?" His voice became serious and scared: "What?"
+
+"W-w-what was that? Why! Why! No, no, no, no, no, no! No! Please... No! No! No! No! Wait! Please! Don't! Please! Please!" He drew out that last word, tears dripping down his face. "I can't do this! I can't live like this! Please help!"
+
+Matthew fell away.
+
+A darkness overcoming him.
+
+His eyes were widened with a grave intensity.
+
+He walked back home.
+
+He then sat down, shaking hands with the older man who had taken away his levels and skills.
+
+"Hey..." he said. "I want to help you. Can I be your apprentice or companion or some sort?"
+
+The older man nodded with curious eyes.
+
+Matthew was now tasked to kill human soldiers in combat.
+
+The older man was a soldier who played around when he was relaxing back at home, which was why he played with Matthew and made him lose his spells, because he felt that the arrogant young man needed punishing. He also wasn't really serious about it, he'd say.
+
+He just was surprised to see the same young man come to him for a job. He would actually help him, because if this man became a prodigy in combat, then he might get serious for once.
+
+He didn't know yet though.
+
+Sooner or later, Mattew sat down on a wagon, his heart beating thunderously, his mind blaring.
+
+The older man couldn't see him as the same younger man with whom he had played around. He was a broken man, reminiscient of people who had come from long combat.
+
+In his eyes, it was nice to see such an arrogant young man finally come to his senses. This brokenness was maturity.
+
+Matthew stared, his eyes attached to the goblin refugees on the road, as their wagon passed by. Nearby, a village burned, as adventurers poured mana stones that exploded.
+
+The refugees were being separated for later enslavement.
+
+Matthew's eyes intensified, and his hand on his hip gripped harder. He wanted to kill adventurers, he thought.
+
+An urge. It was only an urge.
+
+The older man was relaxed, not wanting to bother the young man or have any distraction distub his sleep.
+
+He woke up, finding the younger man tapping him.
+
+A group of bandits had come.
+
+The wagon was being targeted.
+
+The older man leapt and did a front flip to get into position, levitating through the air for a few seconds before landing and casting tens of spells back-to-back within only a single second.
+
+The Witchman was surprised, but he ended up dispatching several bandits, his hands smooth and fine, sweat only making it easier to kill.
+
+The older man congratulated him, firmly shaking his hand. It was weird shaking the hand of an arrogant person. But he had become reformed. So even now, he was glad to have met him in his current level of transformation. He would love to foster this young boy delicately until he was a ripe soldier—the grooming into war.
+
+He laughed. It was just a joke, a joke.
+
+Matthew didn't know why he was laughing, but he shrugged and went on his way, dragging the bandits' bodies and dumping them out of the road, as the wagon began trolling along.
+
+They got back on the wagon and on track.
+
+They were swift and efficient, being very powerful agents in their own right. Though, the older man was much stronger, just pretending to be weak, even with all his magical demonstrations of power.
+
+Matthew smiled, finding this assortment funny.
+
+One of the bandits stood up and tried to attack them with a special ability he wasn't able to cast during the fight..
+
+He tripped on a rock and fell unconscious.
+
+Matthew burst into laugher, joined by the older man. They laughed simultaneously, unable to contain themselves with how tense things had been.
+
+It was because things had become so tense that they couldn't help it at the first opportunity.
