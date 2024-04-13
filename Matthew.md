@@ -10655,7 +10655,7 @@ Matthew raised his brows subtly before walking out awkwardly, without looking at
 
 In the meantime, Cornelius glanced at Ignatius, motioning him in with a hand gesture. "Why didn't you give him food? Why did you throw it on the table?"
 
-Ignatius was quiet.
+Ignatius was quiet. 
 
 Cornelius smiled slightly before he showed Ignatius an aged, faded, and tattered map. "Go to Asuta. We want you there, quickly." His voice sounded urgent, but it felt like a guise.
 
@@ -11808,3 +11808,555 @@ He tripped on a rock and fell unconscious.
 Matthew burst into laugher, joined by the older man. They laughed simultaneously, unable to contain themselves with how tense things had been.
 
 It was because things had become so tense that they couldn't help it at the first opportunity.
+
+# Chapter 64
+
+Matthew remembered what it felt like to sit down in the morning. He remembered the signs of the times.
+
+He remembered waking up in the sun outside. He remembered removing the mud from his slippers by rubbing against the edge of a cement ground.
+
+He remembered being a child. He remembered being a teenager.
+
+He remembered being a young adult. Though, he was still a young adult, being 26. But he remembered being 20 years old. He was so troubled back then.
+
+Back now, things were much easier.
+
+He had power that he had never had before.
+
+Earth was a hellhole.
+
+This world was heaven.
+
+He could do anything he wanted.
+
+He was utterly justified.
+
+This was victory.
+
+He had become desensitized to the suffering of others.
+
+This new world was his personal playground.
+
+He grinned.
+
+He laughed, catching the attention of the older man, who found his reaction reminiscient of that arrogant young man that he thought he wasn't anymore.
+
+The older man shrugged and didn't mind it for now.
+
+Matthew felt so justified.
+
+No one had helped him. No one cared. He had been helpless for so long. And no one cared. It was all gone. Everything was gone.
+
+Because he was absolutely meaningless, he could do whatever the fuck he wanted.
+
+He beat a goblin's head into the wall.
+
+The older man smirked.
+
+He wasn't thinking anymore.
+
+All the intellectual thoughts were gone.
+
+With how powerful he was, it didn't matter how intelligent he was.
+
+The only thing that mattered was that he was there.
+
+He arrived, and all of a sudden, all he had to do was slam his fist against his enemies.
+
+But he was scared.
+
+The older man could kill him at any time.
+
+And he could have gone to Michel.
+
+But he didn't.
+
+He chose not to.
+
+He couldn't bear with the hypocrite feeling of being nice and kind and friendly while killing goblins. He would rather work with someone who was plainly themselves and honest for fucking once.
+
+He needed pure simple honesty.
+
+The older man berated, insulted, and mocked him at every turn.
+
+But that was the first time he felt calm.
+
+He was used to it.
+
+And he would rather live in reality and believe in another lie.
+
+All those people that he thought were friends were pretentious little hypocrites. He would kill them if he had to.
+
+He would do anything to protect this world that he lived in.
+
+He was so scared. So terrified.
+
+They all left him. He trusted them and put his faith in them. But they betrayed him. He thought they were kind and nice. But he realized that they were all liars. They deserved to go to hell.
+
+He couldn't believe he trusted them.
+
+He couldn't believe he saw them kill and thought it was okay.
+
+It was evil.
+
+And for the first time, he wasn't going to fight it.
+
+But if he was going to be evil, he'd rather admit it, unlike those disgusting hypocrites.
+
+He was evil.
+
+He couldn't even word out his thoughts properly.
+
+Everything.
+
+Ah.
+
+He didn't understand what he was doing.
+
+He shot.
+
+He shot.
+
+He shot.
+
+He killed.
+
+He fell to the ground, exhausted, his face still.
+
+The older man looked at him, nodding.
+
+Matthew smiled simply like a child with his father.
+
+He didn't know where he was.
+
+He knew that he was finally free.
+
+He was a human and monster killer.
+
+He was free.
+
+Just a boy.
+
+He loved flowers.
+
+He loved living.
+
+He loved the sun.
+
+He killed goblin 1.
+
+He killed goblin 2.
+
+He killed goblin 3.
+
+Several more goblins left.
+
+He slashed more and more.
+
+Yum.
+
+He ate with his dad.
+
+Dad was happy to see him.
+
+He said okay.
+
+He wanted to go home.
+
+Dad said okay.
+
+He went home.
+
+He laughed.
+
+He met Michel.
+
+Shifting to Michel, her eyes popping out of her head, her hands stiff on his shoulders, her eyes wet with tears, her expression that of shock, she said, "Are you okay?"
+
+Matthew looked at her. 
+
+"What?"
+
+Michel's dress was surprisingly simple, but the ornate symbols piled upon one another like messy sandwiches stacked inside a plastic bag. Her eyes were red, crystal in formation, and icicle-sharp in their focus. Her limbs pulled him inside her home, and she continued, "The hell's happened to you?"
+
+Offended, Matthew shrugged her hands away from her shoulder, gazing at her like a threatened predator.
+
+Michel hid her hurt and asked, "Are you okay?"
+
+Matthew stared and talked the same way he spoke the last time they spent time with each other: "I'm fine, I'm fine. I'm just learning how to keep my reflexes. It's a part of that kind-of learning process I have as an adventerer."
+
+"But are you fine?"
+
+Matthew repeated the same excuses, speaking as if nothing happened. But the stiffness and adamance despite the contrasting context surrounding him implied much.
+
+Michel didn't want to listen to him do this. He wanted him to sit down and relax and tell her everything that happened to him.
+
+But Matthew was not okay.
+
+Instead of admitting vulnerability, he recited after asking for permission: "Be strong and of a good courage, fear not, nor be afraid of them: for the LORD thy God, he that doth go with thee; he will not fail thee, nor forsake thee."
+
+Michel was confused. "Why... What's wrong with you?"
+
+Matthew was too strong to rely on lost causes.
+
+He would move forward.
+
+"How useful are you?" he said.
+
+Michel was offended. "What?"
+
+"I was just asking. My bad. I worded it wrong. Can we work together? I'm hoping to explore some strategies and plans that I've been wanting to implement." That intellectual side of him came back online.
+
+"Okay." Michel was confused.
+
+Matthew led the way, showing her to a landscape. "I've been hoping to integrate this into our larger network. It's been ongoing for a while right? I don't want to have to repeat these instructions. So I'm hoping you can contact Deathbringer and the rest of the Seepers. Then, we can have the meeting. I'll brainstorm, and you guys can brainstorm as well there." For context, "Seepers" referred to his trusted circle with whom he worked with respect to his organization.
+
+Later, something changed in him.
+
+He began exercising to help deal with his pain.
+
+He worked out and did some jogging sessions in the morning.
+
+He took deep breathing sessions and other forms of stretching and yoga-like positions.
+
+Even if Michel didn't directly help him, she did play a role in his shift toward self-care.
+
+Matthew stayed at home instead of going to work everyday.
+
+He prayed, helping him get into touch with his sense of self and beliefs.
+
+He asked for forgiveness, but he also begged not to be forgiven.
+
+He would continue to murder. That was his promise.
+
+In his mind, this was honesty.
+
+This was reality.
+
+He would continue to do evil works, not because he hated, but because he had to be honest with himself.
+
+If adventuring rested upon evil works, then he would stop pretending and accept his evil nature.
+
+He was evil.
+
+Even with all his self-care, he abided by his moral principles for honesty.
+
+He would become God. To be specific, he was not referring to God exactly, but more so the epitome of righteousness, goodness, and moral integrity. He wanted to be one with God. He wanted to become absolute.
+
+He wanted to remove the impurities within his soul.
+
+But in order to do that, he had to commit the act of complete adherence to a moral code.
+
+If that involved murder, then so be it.
+
+He chose this life, and if he wanted to change it, he would have to stop adventurers and goblins from killing each other.
+ 
+But if he couldn't stop it. Then like a soldier who believed in God, he would accept that this world and life involved evil acts and that in some way or form, he was evil.
+
+But he would continue to pray and ask for forgiveness; also, as mentioned earlier, he would simultaneously beg not to be absolved of his sins. He would carry the burden of those sins until the day he died if he was not forgiven.
+
+He would be honest for once in his life.
+
+He was a soldier that could and would kill.
+
+Like a God-fearing soldier, he would carry the price of his actions, because it involved neutralizing combatants.
+
+He would see to it that he removed himself from any sort of senselessness.
+
+That was why he had to remain present and adamant.
+
+This was his realistic view on how to become okay in a morally complex world that demanded monster "hunting" (murdering) and "taming" (enslavement) as an everyday, camaraderie-filled traditional practice.
+
+If slavery was still here... Well, slavery was here. And he was not directly explicitly confronting it for now, focusing on indirect means hopefully to abolish it in the future. This non-explicit resistance was what he argued Paul of Tarsus had done. Being an itinerant preacher and missionary, Paul had likely interacted with both slaves and slave masters, similar to how Matthew interacted with goblins and adventurers.
+
+In more practical terms, Matthew wouldn't begin striking adventurers down, but he decided to join the adventurers with the hope of gaining influence, even if it meant killing goblins in the monster-human war. With strong influence, he was hoping to contribute to a future world where monsters and humans could live together in harmony.
+
+He was just trying to make the world go round in a way where he could be sane.
+
+The older man represented his methodology that included keeping his enemies close. That was why he approached him, not just because he was impulsive due to the recent pivotal events, but also because he had a broader strategy in mind.
+
+He was still there, albeit smashed from time to time.
+
+Later, with Michel and the older man, he visited the hole at which he shot at skeletons earlier, laughing at how clumsy the skeletons sometimes looked.
+
+Michel planted her traps all around the edges of the giant hole.
+
+The older man kept her protected from the skeletons' projectiles and tridents with his perfectly square blocks.
+
+Matthew kept shooting, making sure to prioritize the counterattacking skeletons first.
+
+They worked well as a team.
+
+The older man—albeit a prankster who liked traumatizing little arrogant young men for fun—could work well with these more humble people. He felt that the Spirit was here, telling him to help these people grow.
+
+The traps were for the skeletons who tried climbing up, and they never really were able to. But Michel added the traps just in case, making sure to centralize her traps around the spots where the skeletons had achieved significant progress in climbing toward the top.
+
+Matthew didn't really know how to shoot a bow. So he missed more than 9 times out of 10. Most of the arrows relied more so on falling to the target rather than being aimed at a target far away. He had to move until his arrows were vertically aligned to hit the target before he shot. This made ten times easier.
+
+But it was good improvisation for now.
+
+Though, for future archery skill training, he needed to get the fundamentals down instead of trying to find sneaky ways of hitting a target like these.
+
+He reunited with Lumi, Thorne, and Elara. He was supposed to be with them for the next 5 months, but things didn't go as planned.
+
+It was becoming a trend. Every time he wanted things to change, it was him that needed to change. He was the reason things were changing in the first place, and if he didn't change himself to fit a certain chance he wanted, it would fail.
+
+He knew that, but he was still glad that things went the way they did. He was able to grow a lot even without Thorne's group.
+
+**Name: Matthew Cruz**
+
+**Level: 99**
+
+**Current experience: 50**
+
+**Species: Human**
+
+**Age: 26**
+
+**Skills: [Phantom Shield]**
+
+**Spells: None / None**
+
+**Vitality: 17**
+
+**Quests:**
+
+**Titles: [Goblin Deteriorator], [Skeleton Slayer]**
+
+**Unused stat points: 0**
+
+**Attack Damage🪓: 75**
+
+**Ability Power🔥: 27**
+
+**Armor🛡️: 57**
+
+**Magic Resistance🚫: 60**
+
+**Health🗿: 6510**
+
+**Mana💧: 350**
+
+**Mana regeneration💧 (per 10 minutes): 7**
+
+His health had grown from 2355 to 6510 before the Overlord or [System] took away the [Overlord's Gifted] title, so he was chilling right now actually.
+
+That was probably why the older man tolerated him, having a modicum of respect for him now.
+
+Anyway, he was also supposed to be doing something with the King of Mercy, but that also was postponed.
+
+He did so many things recently, and it was already the end of the eighth month.
+
+Even if he went crazy from time to time, his overall sensibilities, planning, operation, and organization was bing chilling.
+
+He was going right back to progress. Even Lumi, Deathbringer, and the rest of the gang was active and online.
+
+They were all coming over to his crib back at the cottage.
+
+It was all good.
+
+Though, to be honest, all that moral shit was serious stuff. He just had to chill it a bit and let everything fade into the background for a while. All that moral shit could just move away.
+
+But yeah, he had to be honest for once, or else he'd go crazy.
+
+People liked to highlight and focus on his crazy moments, but it was all good.
+
+He was just going through some stuff rn. *But yeah, we're back. We're so back.*
+
+# Chapter 65
+
+Seat in front of a busy street. Check. Breath in, tension out.
+
+Deathbringer placed his buttocks down on a wooden, nailed chair, his hairy arms pressing against the planks of the seat cautiously, having gotten his hair pinched between the edges and tight gaps before. His fingers flinched a bit before reaching out and grabbing a small piece of pie, dragging it through the air into his mouth, a gentle soothing wind tasting his forearms. He lounged, his hat nestled comfortably in the heart of his head.
+
+Looking around, as his teeth gnashed against the pie and his tongue got a soothing kiss of its sides, the inner walls of his mouth discharged drool for him to swallow comfortably, food bolus entering that peaceful stomach of his to be let out later.
+
+A whiff of finished pie entered his nostrils, as he poured floods of water into his tunnel of a mouth, their gushing sound bringing back the good times of being a child watching the large rain and mountains in the distance behind a large city.
+
+He watched Matthew from afar. Crowds bustled nearby, their voices of good cheer emanating like a giant magical hand crawling upon the street paths. Wagons and giant crocodiles strolled by, accompanied by many groups of body-odorous bystanders and passersby who viewed the landscape as a boring everyday thing. The excitement in the air looked made-up to them, but Deathbringer, for the first time in a long time, wondered where he was, as if this hadn't been the place he had been living in for his whole life. The present moment was a kiss' moment away, and all of those love and dreams faded abruptly like sand in a soon-to-be-desolate beach. The mud-scented gravel atop which the wagons moved crunched, inviting him to ponder the weight of this world.
+
+Vibrant-toned mountains loomed, rainforest trees joining together in disparate elements, the dynamism of the forest concealed under canopies, the animals that rushed through and across forgotten like puffs of smoke from a night-old campfire. 
+
+Returning his gaze to Matthew, the gait Deathbringer saw was strong, the arms marvelously tethered to that body of his, his clothes as a feathery as a sunlight's hug, the purple lines that shaped his outfit connecting the yellow shades nicely like friends in a reddened sunset glare, the breathless fine seamlessness treading each other again and again unto eternity's upset, the feeling of greatness pulsing like a sandy beach seeking precious old pearls—a sand-laden washed blanket that only brought a sense of entrapment.
+
+Matthew's eyes bounced like a song with a melody that strung the hearts of those who heard it without complacency and without too much ease—an unpredictability so tangible that it ravaged the sky above like a huricane until all men and women were freed. When he spoke, it was like dancing everywhere, the party of the air, the sun of the sky, the light of the doves shining by, hard broken stone rolling for revival, the light beating endlessly; God making his way through the hearts of many. His words were like smoking debris upon a shadowy meadow, the window emanating from his hands, a sign of hope, a sign of no trouble. He maketh rich and addeth no sorrow.
+
+Red and beaten were the boots upon his feet, blood and wear staining the otherwise fitted footwear, night blades having laid scar lines upon which the air soared, attempting to tear into the body of this magnanimous god.
+
+Angelic winds flourished from his right hand, and gracious torrents came forth from his left.
+
+He was but God alone.
+
+Cries in a night sky worried the man that sought after this glorious nature of worldly piety. Crying, tearing, singing danced where he was.
+
+He was but the Angels singing above. Where he was, the world moveth.
+
+The light upon his heart graciously shone.
+
+He knew. He knew.
+
+Deathbringer saw the greatness of his friend.
+
+The putrid scents of the ground pushed and turned him, threatening to break him askew.
+
+But Matthew stood, unhindered. He knew the patterns of this world.
+
+He knew the glory on which this world stood. And he shone above it.
+
+In this world, with Deathbringer and the rest of the lieutenants, there was none like their god.
+
+Matthew's priestly attire could not even compare to the greatness on which he stood.
+
+The level of signs and hints that he shew upon this earth.
+
+His greatness always there, great works were created by him and him alone.
+
+Deathbringer prayed, and he found faith in Matthew alone.
+
+He entered into his places, and there he found himself on his knees and kissing the feet of his god.
+
+Matthew was Present.
+
+He cried, wishing that the Lord could bless him again, because he feared being left behind by the world.
+
+But God was here.
+
+He was freed, his actions being given a sense of purpose in an otherwise chaotic world.
+
+God was with him, and he felt his hand on his shoulder all the days of his life.
+
+He trod upon the lion and adder: the young lion and the dragon he trampled under feet.
+
+He and the rest of the followers stripped Matthew, and put on him a scarlet robe. He was girded with a girdle of leather about his loins.
+
+And Deathbringer, casting away his garment, rose, and came to Matthew.
+
+Matthew presented himself, wielding a spear.
+
+He, accompanied by his individuals like Zoey and his lieutenants and followers—such as Deathbringer, Michel, and Brandon, came upon a dungeon, seeking its dominion.
+
+Deathbringer came running to the feet of Matthew, and he, with every man and woman and child present, told them, "Whatsoever he saith unto you, do it."
+
+And there were set there six waterpots of stone, containing two or three firkins apiece.
+
+Matthew saith unto them, "Fill the waterpots with water." And they filled them up to the brim.
+
+And he saith unto them, "Draw out now, and bear unto the governor of the feast. And they bare it." He was referring to Tamer Languiosse, the governor of the "feast," or vividly spread buttery language, as that was her characteristic.
+
+When the governor of the feast had tasted the water that was made holy water, and knew not whence it was: (but the servants which drew the water knew;) the governor of the feast called Deathbringer, and saith unto him: "Every man at the beginning doth set forth good wine; and when men have well drunk, then that which is worse: but thou hast kept the good wine until now."
+
+This beginning of miracles did Matthew in Sunto of Emerald Heaven, and manifested forth his glory; and his disciples believed on him.
+
+Deathbringer followed him and began to rend and destroy the wicked, crushing them in His Name.
+
+The goblins stared at him.
+
+"What the fuck..." they said, as Deathbringer and the rest of the people with him glowed with group buffs that made them shine with purple and yellow pulsing lights.
+
+The goblins retreated, their lives being torn apart again and again until their deaths were given no meaning and no goal except to show the greatness of Deathbringer's deity.
+
+This was disgusting.
+
+This world had been turned upside-down, and they had to leave.
+
+They ran, remembering the precepts to which they adhered and wished for a return to wisdom, as the goblins were being given fewer and fewer chances at living a fulfilling life.
+
+They were not the Marchacha goblins who killed Ignatius, Cornelius, Agatha, and Horatio.
+
+They had no way of fighting back.
+
+They could only run and hide and become displaced into foreign lands, most of them eaten up by beasts and other monster civilizations.
+
+But conflicts would arise, but a troll would fight alongside them.
+
+A troll emerged, stopping the adventurers, wishing upon death upon death.
+
+He was the one whom one of Matthew's followers, Shekinah, met.
+
+The troll made Matthew pause, but his followers' courage calmed him down. 
+
+**[Calm Walker]: All calming and mindfulness effects on you is increased by 10%!**
+
+Matthew's memories flashed before his eyes. The many people he had met came to his aid today.
+
+And he would not be hindered.
+
+He pressed on.
+
+He came face to face with the troll, who had a life of his own. This troll had lost so much just like Matthew.
+
+But Matthew was so immutable at face value.
+
+Though, inside, he was many different versions of himself that even he couldn't completely marry together to form a consistent whole. He was his child self, his adult Earth self, his adventurer self, and many other selves. All of these schemas played around with each other, but they never consumed each other, only becoming one whole in response to a need. But this unity often involved compromises. This was why he was so threatening when it mattered, because he was a human being who experienced varying levels of emotional intelligence, depending on whether he ate well, had good sleep, or had a fulfilling social life. This was Matthew at his rawest—just another human being in a socially chosen world.
+
+He was being treated like this thing, but without this social aspect, he was just flesh and blood, like all powerful and famous people.
+
+The troll did not fight with Matthew, and Matthew didn't fight with him.
+
+They had a discussion in fact.
+
+And to the followers, it was the demon troll and Matthew.
+
+But Matthew saw the light in the troll's eyes. 
+
+Amid everything, amid his silliness, rage, joys, and manic episodes, he was still a high-functioning human through and through, at least in the context of this society. If he was returned to Earth, he would also be high-functioning actually. He brought his Earth perspective to this world, and that was why he dialogued with the troll.
+
+"I'm Matthew," he said. "Matthew Cruz."
+
+Surprised, the troll hurriedly revealed his name. "I'm Jason. I used to be a human from Earth."
+
+Matthew stared, shaking his head. "There's no reason why you should be... Why?"
+
+His face was full of shock.
+
+"I was forced here... And I grew to become this..." He gestured to his current body and self as a troll. "This is who I am now and for a long time now. It's been 50 years, long enough to be a whole life. I was only a human for 15. This is not that me anymore."
+
+Matthew stared, nodding absentmindedly. He was still unable to connect the crucial details together. "How?"
+
+"I don't know..."
+
+"How did you know I was from Earth?"
+
+"Your name... It sounds familiar..."
+
+"What? I knew someone named 'Sophia'."
+
+"But they never really had normal names... Just nicknames that sounded normal. But their actual names were weird."
+
+"That's not enough evidence, but there must be some other way you're doing this."
+
+"I can only see your status page as a [System] user."
+
+"User? You know computers?"
+
+"Yeah... I was there... in 2010. That's the last time I was on Earth."
+
+"Oh, so you know about the Justin Bieber thing?"
+
+"Yeah... It's not that way anymore I'm guessing."
+
+"Yeah, no more drink milk meme. And Justin Bieber being in so many games as a joke."
+
+"Oh... okay."
+
+Matthew didn't want to talk to someone he knew from Earth. It broke the sense of place that he had already built.
+
+This meant that he was accountable now to modern perspectives and principles, and that scared him.
+
+Would people hate him if he killed the troll back on Earth? The fact that he was asking this meant that he was out of touch with Earth at this point. It had been way too long.
+
+He couldn't just accept that someone was about to give him a preaching on how to deal with things here.
+
+It was like someone from a different generation trying to understand why he did certain things his generation did.
+
+It meant so much and so little at the same time.
+
+He could accept it, but it was not going to be easy.
+
+He was not going to kill the troll.
+
+He shook hands with him. "What can we do?" he said, letting his more grounded Earth self slip through.
+
+"I honestly don't know... I was planning to die here... So I guess I'm relieved... I don't have to do that..."
+
+"Oh... My... bad... I guess..."
