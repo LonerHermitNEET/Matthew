@@ -12261,7 +12261,7 @@ This world had been turned upside-down, and they had to leave.
 
 They ran, remembering the precepts to which they adhered and wished for a return to wisdom, as the goblins were being given fewer and fewer chances at living a fulfilling life.
 
-They were not the Marchacha goblins who killed Ignatius, Cornelius, Agatha, and Horatio.
+They were not the Marchacha goblins who had killed Ignatius, Cornelius, Agatha, and Horatio.
 
 They had no way of fighting back.
 
