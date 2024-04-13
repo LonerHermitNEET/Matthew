@@ -12343,7 +12343,7 @@ Matthew didn't want to talk to someone he knew from Earth. It broke the sense of
 
 This meant that he was accountable now to modern perspectives and principles, and that scared him.
 
-Would people hate him if he killed the troll back on Earth? The fact that he was asking this meant that he was out of touch with Earth at this point. It had been way too long.
+Would people back on Earth hate him if he killed the troll? The fact that he was asking this meant that he was out of touch with Earth at this point. It had been way too long.
 
 He couldn't just accept that someone was about to give him a preaching on how to deal with things here.
 
