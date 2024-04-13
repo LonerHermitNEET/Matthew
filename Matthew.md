@@ -12303,7 +12303,7 @@ Amid everything, amid his silliness, rage, joys, and manic episodes, he was stil
 
 "I'm Matthew," he said. "Matthew Cruz."
 
-Surprised, the troll hurriedly revealed his name. "I'm Jason. I used to be a human from Earth."
+Surprised, the troll hurriedly revealed his name: "I'm Jason. I used to be a human from Earth."
 
 Matthew stared, shaking his head. "There's no reason why you should be... Why?"
 
