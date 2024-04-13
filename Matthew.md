@@ -11,7 +11,7 @@ To begin, the goblin stood in front of Matthew, whose face was sure and committe
 
 Even now, Matthew grinned; a vague multifaceted impression of intentions lingering behind his expression—time would not pause for him.
 
-He would have to guide it himself, his grip fiery in form, the edges of his blade twanging endlessly for justification. Furthermore, hidden with him lay thoughts of self-assuredness and the concept of being or becoming the epitome of grace and beauty—a demanding process that needed both external and internal affirmation like two beggars on the streets glancing from side to side.
+He would have to guide it himself, his grip fiery in form, the edges of his blade twanging endlessly for justification. Furthermore, hidden with him lay thoughts of self-assuredness and the concept of being or becoming the epitome of grace and beauty—a process that needed both external and internal affirmation as demanding as two beggars on the streets glancing from side to side.
 
 In conclusion, he raised his blade as if to slash.
 
@@ -145,15 +145,15 @@ He was here in a different world.
 
 Waiting, he fixed his breath, then tested it, then hyperventilated briefly before returning to normal. He sniffed the air and the organic smells. He yearned to know where he was right now.
 
-His heart paused when it heard a rustle.
+His heart paused when it heard a rustle in the background.
 
 Looking around, his heart revved up again, opened up room for a nagging emotion: chaos, anarchy, and a sense that nothing would be the same. But he hoped it was similar to what it was like being a teenager: feeling strong emotions and pain that soon disappeared as if they were never there.
 
-The rustle was forgotten.
+The background rustle was forgotten.
 
-"Where am I?" he asked, a smile making its way into his face. It was of the presence of terror and awe.
+"Where am I?" he asked, a forced smile making its way into his face.
 
-The rustle found its origin—a group of green monsters seeing him in the distance, their faces clearing by the second.
+Meanwhile, the rustle found its origin—a group of green monsters seeing him in the distance, their faces clearing by the second.
 
 Actually, he didn't see them because he wasn't looking. Yes, his head was turned away.
 
