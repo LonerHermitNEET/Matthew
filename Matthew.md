@@ -12271,7 +12271,7 @@ And conflicts would arise, but a troll would fight alongside them.
 
 A troll emerged, stopping the adventurers, wishing upon death upon death.
 
-He was the one whom one of Matthew's followers, Shekinah, met.
+He was the one whom one of Matthew's followers, Shekinah, had met.
 
 The troll made Matthew pause, but his followers' courage calmed him down. 
 
