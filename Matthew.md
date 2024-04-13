@@ -12267,7 +12267,7 @@ They had no way of fighting back.
 
 They could only run and hide and become displaced into foreign lands, most of them eaten up by beasts and other monster civilizations.
 
-But conflicts would arise, but a troll would fight alongside them.
+And conflicts would arise, but a troll would fight alongside them.
 
 A troll emerged, stopping the adventurers, wishing upon death upon death.
 
