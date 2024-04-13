@@ -2,9 +2,9 @@
 
 Author's note
 
-[The Github commit page for funsies](https://github.com/LonerHermitNEET/Matthew/commits/main/)
+[The Github commit page (version history) for revision updates](https://github.com/LonerHermitNEET/Matthew/commits/main/)
 
-[The blog for status reports](https://lonerhermitneet.github.io/)
+[The blog for more formal status reports](https://lonerhermitneet.github.io/)
 
 
 To begin, the goblin stood in front of Matthew, whose face was sure and committed, his breath cycling without pause, and the blade he held thirsty for a syrupy strike.
