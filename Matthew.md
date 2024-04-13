@@ -12243,7 +12243,7 @@ Matthew saith unto them, "Fill the waterpots with water." And they filled them u
 
 And he saith unto them, "Draw out now, and bear unto the governor of the feast. And they bare it." He was referring to Tamer Languiosse, the governor of the "feast," or vividly spread buttery language, as that was her characteristic.
 
-When the governor of the feast had tasted the water that was made holy water, and knew not whence it was: (but the servants which drew the water knew;) the governor of the feast called Deathbringer, and saith unto him: "Every man at the beginning doth set forth good wine; and when men have well drunk, then that which is worse: but thou hast kept the good wine until now."
+When the governor of the feast had tasted the water that was made holy water, and knew not whence it was: (but the servants which drew the water knew;) the governor of the feast called Deathbringer, and saith unto him: "Every man at the beginning doth set forth good holy water; and when men have well drunk, then that which is worse: but thou hast kept the good holy water until now."
 
 This beginning of miracles did Matthew in Sunto of Emerald Heaven, and manifested forth his glory; and his disciples believed on him.
 
