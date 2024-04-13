@@ -175,13 +175,13 @@ Several monsters caught up to them in the distance, their feet grabbing into the
 
 He leapt, his mouth shaking. "No!"
 
-Behind him, two monsters reached a tree, launching themselves closer.
+Behind him, two monsters reached a tree, launching themselves several leaps forward.
 
-Nearby, Matthew looked at them as time slowed. Meanwhile, the pigs tripped and fell after he unintentionally dodged in their path.
+Nearby, Matthew looked at them as time slowed. In the same breath, the pigs tripped and fell after he unintentionally dodged in their path.
 
-Ramping fast, a monster's weapon found its mark on a tree next to Matthew after it was thrown. It had pierced through a pig. Due to tunnel-visioning at the pigs, an opportunity to kill Matthew evaporated.
+From behind, ramping fast, a monster's weapon found its mark on a tree next to Matthew after it was thrown. It had pierced through a pig. Due to tunnel-visioning at the pigs, the opportunity to kill Matthew evaporated.
 
-"Please! No!" He pushed on, struggling recklessly, tearing a hole in his shirt.
+"Please! No!" Matthew pushed on, struggling recklessly, tearing a tiny hole in his shirt, as he pulled himself and struggled against the dense vegetation.
 
 He climbed down a slope, but it was too steep and rugged, leaving little time to escape. He looked behind him and kept going, running down until he slipped on the sand-like material on the ground.
 
