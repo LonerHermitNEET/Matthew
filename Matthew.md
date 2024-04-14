@@ -12735,7 +12735,7 @@ Nevertheless, even if the troll's circumstances were unique, Matthew himself was
 
 In the end, this was conrete and objective reality; though to be more objective, he would continue exploring his allies and followers' status pages, basically cataloguing all his resources. But before that, he would take a trip to a dungeon in order to explore several goblin households.
 
-He noticed that the goblins were separated into various 'dorms' or chambers that led to six doorways, as if they had strip-mined the whole place and then decided to a certain geometric shape for their uses.
+He noticed that the goblins were separated into various 'dorms' or chambers that led to six doorways, as if they had strip-mined the whole place and then decided on a certain geometric shape for their uses.
 
 The reason he was here was because of Render and the other goblins he had taken under his wing. These were the same goblins he had brought to the tournaments.
 
