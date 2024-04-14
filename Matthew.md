@@ -12360,3 +12360,411 @@ He shook hands with him. "What can we do?" he said, letting his more grounded Ea
 "I honestly don't know... I was planning to die here... So I guess I'm relieved... I don't have to do that..."
 
 "Oh... My... bad... I guess..."
+
+# Chapter 66 - Inventory and Status Page Assessment
+
+After finishing up some events, back at home, Matthew did an inventory and status page assessment, looking through his skills, quests, titles, and inventory.
+
+He made sure to open a fuller status page instead of a condensed version.
+
+**[Name: Matthew Cruz]**
+
+**Level: 99**
+
+**Current experience: 50**
+
+**Species: Human**
+
+**Age: 26**
+
+**Skills: [Phantom Shield]**
+
+**Spells: None / None**
+
+**Vitality: 17**
+
+**Quests:**
+
+**Titles: [Goblin Deteriorator], [Skeleton Slayer]**
+
+**Unused stat points: 0**
+
+**Attack Damage🪓: 75**
+
+**Ability Power🔥: 27**
+
+**Armor🛡️: 57**
+
+**Magic Resistance🚫: 60**
+
+**Health🗿: 6510**
+
+**Mana💧: 350**
+
+**Mana regeneration💧 (per 10 minutes): 7**
+
+**Equipment: [Michel's Ghost Blade], [Aegis of the Ironclad], [Helm of Radiant Vigilance], [Valorweave Hauberk], [Brassairts of the Stormcaller], [Vambraces of the Shadow Assassin], [Gauntlets of the Berserker], [Gambeson: Gambeson of the Arcane Sage], [Cuisses: Cuisses of the Swift Strider], [Sollerets: Sollerets of the Shadow Walker], [Cloak: Shadow Assassin Outfit]**
+
+**[Phantom Shield (Level 1)]**
+
+**Cost: 50 Mana**
+**Cooldown: 12 seconds**
+**Cast Time: Instant**
+
+**Active: The user conjures a phantom shield imbued with magical energy, forming a protective barrier against incoming magical attacks. The shield absorbs a set amount of magical damage, mitigating harm to the user.**
+
+**Shield Strength: 100**
+**Duration: 5 seconds**
+
+**[Shield: Aegis of the Ironclad]**
+
+**Stats:**
+
+**+40 Armor**
+**+20 Magic Resistance**
+
+**[Helm: Helm of Radiant Vigilance]**
+
+**Stats:**
+
+**+30 Armor**
+**+140 Magic Resistance**
+
+**[Hauberk: Valorweave Hauberk]**
+
+**Stats:**
+
+**+50 Armor**
+**+20 Attack Damage**
+
+**[Brassairts: Brassairts of the Stormcaller]**
+
+**Stats:**
+
+**+30 Ability Power**
+
+
+**[Vambraces: Vambraces of the Shadow Assassin]**
+
+**Stats:**
+
+**+20 Attack Damage**
+**+15% Attack Speed**
+**Passive - Shadowstep:**
+
+**Gain 20% bonus movement speed for 2 seconds after exiting stealth or brush.**
+
+**[Gauntlets: Gauntlets of the Berserker]**
+
+**Stats:**
+
+**+40 Attack Damage**
+**+15% Critical Strike Chance**
+**Passive - Frenzied Strikes:**
+
+**Critical strikes grant 15% bonus attack speed for 3 seconds.**
+
+**[Gambeson: Gambeson of the Arcane Sage]**
+
+**Stats:**
+
+**+30 Ability Power**
+**+200 Health**
+
+**[Cuisses: Cuisses of the Swift Strider]**
+
+**Stats:**
+
+**+30 Movement Speed**
+**+20 Armor**
+**Passive - Fleetfooted:**
+
+**Gain 5% bonus movement speed for every nearby enemy humanoid.**
+
+**[Greaves: Greaves of the Ironclad Guardian]**
+
+**Stats:**
+
+**+50 Armor**
+**+20% Crowd Control Reduction**
+
+**[Sollerets: Sollerets of the Shadow Walker]**
+
+**Stats:**
+
+**+25 Attack Damage**
+**+25 Ability Power**
+
+**[Cloak: Shadow Assassin Outfit]**
+
+**Stats: None**
+
+**Description:**
+
+**A purple and yellow sleek and stylish costume that gives the player's character a dark and mysterious appearance, along with unique animations and emotes.**
+
+He had collected these items over the course of his time as an elevated senior adventurer within the lowest tier rank, Iron.
+
+He could also see his allies and followers' status pages.
+
+**[Name: Ray Deathbringer]**
+
+**Level: 72**
+
+**Current experience: 101**
+
+**Species: Human**
+
+**Age: 38**
+
+**Skills: [Dual Wield], [Executioner], [Giant Growth]**
+
+**Spells: [Ghost] / [Flash]**
+
+**Vitality: 22**
+
+**Quests:**
+
+**Titles: [Nightstalker], [Duelist], [Headhunter]**
+
+**Unused stat points: 3**
+
+**Attack Damage🪓: 185**
+
+**Ability Power🔥: 18**
+
+**Armor🛡️: 42**
+
+**Magic Resistance🚫: 28**
+
+**Health🗿: 4880**
+
+**Mana💧: 210**
+
+**Mana regeneration💧 (per 10 minutes): 4**
+
+**[Name: Suneater "Brackern" Herculeanridder]**
+
+**Level: 88**
+
+**Current experience: 235**
+
+**Species: Human**
+
+**Age: 24**
+
+**Skills: [Berserker Rage], [Unbreakable], [Titan's Grip]**
+
+**Spells: [Ghost] / [Flash]**
+
+**Vitality: 21**
+
+**Quests:**
+
+**Titles: [Beginners' Guide], [Giant Ant Slayer], [Wall of Iron]**
+
+**Unused stat points: 0**
+
+**Attack Damage🪓: 245**
+
+**Ability Power🔥: 12**
+
+**Armor🛡️: 78**
+
+**Magic Resistance🚫: 45**
+
+**Health🗿: 7210**
+
+**Mana💧: 180**
+
+**Mana regeneration💧 (per 10 minutes): 3**
+
+**[Name: Redspiller "Brandon" Warmaker]**
+
+**Level: 55**
+
+**Current experience: 173**
+
+**Species: Human**
+
+**Age: 32**
+
+**Skills: [Inspiring Presence], [Battle Tactics], [Shield Bash]**
+
+**Spells: None / None**
+
+**Vitality: 25**
+
+**Quests:**
+
+**Titles: [The Commander], [Shield of Hope], [Strategist]**
+
+**Unused stat points: 2**
+
+**Attack Damage🪓: 135**
+
+**Ability Power🔥: 22**
+
+**Armor🛡️: 65**
+
+**Magic Resistance🚫: 38**
+
+**Health🗿: 5440**
+
+**Mana💧: 270**
+
+**Mana regeneration💧 (per 10 minutes): 5**
+
+**[Name: Doomsinger "Michel" Mighttaker]**
+
+**Level: 63**
+
+**Current experience: 329**
+
+**Species: Human**
+
+**Age: 29**
+
+**Skills: [Dark coating], [Necromantic Trap], [Mana Siphon]**
+
+**Spells: [Ghost] / [Flash]**
+
+**Vitality: 25**
+
+**Quests:**
+
+**Titles: [Border Defender], [Butcherer], [Goblin Eater]**
+
+**Unused stat points: 4**
+
+**Attack Damage🪓: 155**
+
+**Ability Power🔥: 162**
+
+**Armor🛡️: 34**
+
+**Magic Resistance🚫: 52**
+
+**Health🗿: 4290**
+
+**Mana💧: 580**
+
+**Mana regeneration💧 (per 10 minutes): 12**
+
+Their status pages didn't show their quests because they were too many to count.
+
+As for comparison, when it came to the status page of a regular goblin, it looked something like the following.
+
+**[Name: Babble]**
+
+**Level: 1**
+
+**Current experience: 12**
+
+**Species: Goblin**
+
+**Age: 4**
+
+**Skills: None**
+
+**Spells: None**
+
+**Vitality: 3**
+
+**Quests: None**
+
+**Titles: None**
+
+**Unused stat points: 0**
+
+**Attack Damage🪓: 20**
+
+**Ability Power🔥: 8**
+
+**Armor🛡️: 15**
+
+**Magic Resistance🚫: 8**
+
+**Health🗿: 500**
+
+**Mana💧: 15**
+
+**Mana regeneration💧 (per 10 minutes): 0.5**
+
+The troll he spoke to earlier had this status page:
+
+**[Name: Juan Jason]**
+
+**Level: 120**
+
+**Current experience: 329**
+
+**Species: Troll**
+
+**Age: 57**
+
+**Skills:**
+
+**Spells: [Teleport] / [Heal]**
+
+**Vitality: 100**
+
+**Quests:**
+
+**Titles:**
+
+**Unused stat points: 4**
+
+**Attack Damage🪓: 150**
+
+**Ability Power🔥: 362**
+
+**Armor🛡️: 34**
+
+**Magic Resistance🚫: 600**
+
+**Health🗿: 6000**
+
+**Mana💧: 580**
+
+**Mana regeneration💧 (per 10 minutes): 12**
+
+The reason why the skills, quests, and titles were empty was because they were too many, similar to Deathbringer, Brackern, and Brandon's status pages. Earlier, Matthew hid his quests and equipment from his status page because he didn't want to think about them. But the troll just had too many to show. So Matthew didn't really want to mess with the troll.
+
+Nevertheless, even if the troll's circumstances were unique, Matthew himself was not normal. While the troll, Juan Jason, was busy hiding and tending to himself, Matthew was out here being blessed by the gods and throwing himself into life-or-death battles again. Matthew was special.
+
+In the end, this was conrete and objective reality; though to be more objective, he would continue exploring his allies and followers' status pages, basically cataloguing all his resources. But before that, he would take a trip to a dungeon in order to explore several goblin households.
+
+He noticed that the goblins were separated into various 'dorms' or chambers that led to six doorways, as if they had strip-mined the whole place and then decided to a certain geometric shape for their uses.
+
+The reason he was here was because of Render and the other goblins he had taken under his wing. These were the same goblins he had brought to the tournaments.
+
+Anyway, he made sure he had Deathbringer visit the place to obtain a systematic assessment of the place, because Matthew, as intelligent as he was, recognized the need to develop consistent comprehensive vision. Assessments were an essential component of vision or elucidation maintenance over a section or free area, whether tangible or intangible.
+
+He navigated a complex network of activites, being the playmaker of it all, his heart threading the pieces and establishing frameworks upon frameworks with the intention of bringing together a variety of different roles and functions for a more well-founded and well-rounded organization.
+
+He gathered the members of the goblin zoo that he had created and had them participate in a meeting, releasing them from their cages. In the terms of his study, the cages were preliminary progress barriers; however, with time, he recognized the goblins' communication skills and amicability even despite the periods wherein they were let out of their cages. This was why he even invited them in more human-dominated meetings. These meetings ranged in different categories of cruciality. These meetings in which the goblins were allowed to take part were lower-level, loose, and more ice-breaking and friendship-maintaining. Nonetheless, he kept an eye on them, using his easy voice to ready them for greater things beyond what they had been initially ascribed to.
+
+Their individuality each spawned unique characteristics and factors that he had to keep in mind, preparing a small unaware team for this goal. This team composed of Mindcrusher, Braindisruptor, and Shekinah; given that they were loyal, he slowly exposed them to themes to which the goblins he knew often related, such as taking care of winged animals like sprites. For context, sprites had a reputation for being disgusting pets, similar to cockroaches, and they could be seen as terrifying with their spiky hands, feet, and insect-like body. However, Matthew did speak about them favorably, contrasting the usual tone spoken against them, giving the three adventurers pause and allowing them to formulate more nuanced opinions that didn't just align with the general populace. This was his preparation for their future utilization as possible barrier-breakers between goblins and humans within his organization, starting possibly with the members of the goblin zoo. When it came to the tournament-attending goblins like Render, their role made it impossible for him to have them be the object of the barrier-breakers because tournaments emphasized stereotypes about them, such as their disgusting ruthless and sexual depravity. In tournaments, it could involve death, as prisoners, both human and goblin now, were thrown into the heat of conflict, resulting in horrid kiling acts. Anyway, even now, the members of the goblin zoo still retained each a soul of their own, amid the human-originating societal glue that made them all look and feel the same.
+
+But his list of resources were not limited to the goblin zoo members.
+
+Yet, for now, this was the best he could do.
+
+With Deathbringer obtaining assessments, he prioritized engaging with the members of his network and combining people together in various interconnected group strategies and plans. Even in smaller use cases, his intellect continued to be effective.
+
+He gathered a group of goblins and went into a dungeon; instead of tunnel-visioning like the goblins who had almost killed him and chased after a pig instead of taking the opportunity to kill him, he began drawing lines with his hands from dungeon to dungeon.
+
+He requested aid with regard to financing roads between dungeons and making it easier for visiting and traffic between dungeons rather than between dungeon and city. Dungeons were nearer to each other, but having adventurers go from dungeon to city and then from city to second dungeon was more easier and natural to them. Yet in a growing world, sooner or later, they would have to smoothen out the gaps and up the defensibility of adventurer activity. And adventurer activity took up a large region, relying on faulty roads that put them at a dead end and left them flanked by wild forests filled with beasts and monsters.
+
+Of course, it wasn't so clear-cut as just transferring attention to connectivity and safety by establishing a stronger and more well-rounded and fuller control that didn't leave gaps between dungeons and roads to dungeons.
+
+If he wanted to make such a thing happen, he would need to have the adventurers tighten up their focus to several major and very deep dungeons to make it more effective when a set of dungeon roads were made the focus. Yet, concerns about lower floors beyond the latest cleared floors being too big a gap in terms of power required addressing.
+
+It would be easy if a single-use campaign involving coalition raids into the major deep dungeon would prepare the way for establishing control. 
+
+However, even with that, keeping the movement of supply and making sure the concessions holders didn't begin withdrawing support when any disruptions or unexpected incidents that pushed back the humans within the dungeon floors occurred was challenging.
+
+He didn't want to jump the shark and start tearing away pieces of paper and then heading into the dungeon without question like a de-facto leader. He was tied down and roped by orders and requests. Desmond Leroy kept him on a noose, warning him that if he overstepped his bounds, he would be castrated and removed. The older man was an example of someone with power, and Desmond and the authorities had many more like him. The city might have been small and known to be dominated by Iron-ranked adventurers, but it was piece of a larger pie of regional control, with shadowy elements pretending all around and focusing on stability rather than outright conflict, letting the tiny pieces push and pull with each other. He was just one tiny piece really in a tiny pond.
+
+But he would make this expansion plan work, hopefully without ringing bells among the higher-ups.
