@@ -251,21 +251,35 @@ Essentially, he was an immigrant who had lost his stable native life and job to 
 
 To be honest, if he had to lower the seriousness a bit, he would think about his favorite dishes like sinigang, pork sisig, and other Filipino food. Though, he did feel a sense of wonder for the dishes of this new world similar to how he felt about konbini food, or food found in Japanese convenience stores.
 
-Maybe, he could be okay. That was also what a guy at the adventurer guild suggested: "You could be okay."
+Maybe, he could be okay. That was also what the guy at the adventurer guild suggested: "You could be okay."
 
 "I could," Matthew said with a smile on his face, that which he prepared for social situations. But no, he was happy to talk with someone. It was better than torture.
 
-"I remember a lot of things. I remember the sun, the earth, and all the flavors of the... time I was still just sitting down..."
+"I remember a lot of things," he continued. "I remember the sun, the earth, and all the flavors of the... time I was still just sitting down..."
 
-"Huh? What do you mean?"
+"Huh?" the adventurer said. "What do you mean?" 
 
-"Oh, uh, it's hard to explain..." Matthew knew that nothing could explain what it felt like to exist. It was too difficult for him, and he knew that isolation was a resultant threat to his sanity.
+"It's hard to explain." Matthew knew that nothing could explain what it felt like to exist. 
+
+It was too difficult for him.
+
+He knew that isolation was a resultant threat to his sanity.
 
 So with enough time to ponder, he looked around, his heart beating in all the wrong places. Indeed, he made up a motley of people, him being the most out of place. His clothes were still the white shirt and shorts he usually wore at home.
 
-As for his current location, he was sitting inside an inn where tens of people were eating, drinking, and sharing stories and concerns. It was a hub of living people, and it was not the kind of place that he could just tamper with without considering his duties and rights. If someone decided to punch him in the face, he could not just use the logic of his culture and society at Earth to justify the rationale behind his subsequent response. He needed to align himself with this new world and its bylaws, which meant that he had to assess each person seriously with a great focus placed on how liked they were. This way, he could trace the roots of likability in this new environment. Basically, his college degree did more than give him essays to write. Additionally, it gave him a sense of agency in teams, so even though he lacked a team, he considered the people around him as team members. All he had to do was find out exactly how each person fit into society, starting from this inn.
+As for his current location, he was sitting inside an inn where tens of people were eating, drinking, and sharing stories and concerns. It was a hub of living people, and it was not the kind of place that he could just tamper with without considering his duties and rights. 
 
-This was his journey as an intellectual who would find out how best to beat this world.
+If someone decided to punch him in the face, he could not just use the logic of his culture and society at Earth to justify the rationale behind his subsequent response. 
+
+He needed to align himself with this new world and its bylaws, which meant that he had to assess each person seriously with a great focus placed on how liked they were. 
+
+This way, he could trace the roots of likability in this new environment. Basically, his college degree did more than give him essays to write. 
+
+Additionally, it gave him a sense of agency in teams, so even though he lacked a team, he considered the people around him as team members. 
+
+All he had to do was find out exactly how each person fit into society.
+
+It all started from this inn.
 
 # Chapter 2 - Navigating the Unknown: Entering the Realm of Questions
 
@@ -12768,3 +12782,250 @@ However, even with that, keeping the movement of supply and making sure the conc
 He didn't want to jump the shark and start tearing away pieces of paper and then heading into the dungeon without question like a de-facto leader. He was tied down and roped by orders and requests. Desmond Leroy kept him on a noose, warning him that if he overstepped his bounds, he would be castrated and removed. The older man was an example of someone with power, and Desmond and the authorities had many more like him. The city might have been small and known to be dominated by Iron-ranked adventurers, but it was piece of a larger pie of regional control, with shadowy elements pretending all around and focusing on stability rather than outright conflict, letting the tiny pieces push and pull with each other. He was just one tiny piece really in a tiny pond.
 
 But he would make this expansion plan work, hopefully without ringing bells among the higher-ups.
+
+# Chapter 67 - Finding Peace: Closure Statement
+
+
+Matthew began arranging a couple of things. Though, while he was fixing some stuff, literally piling a bunch of crates together and placing them on a wagon as a sign of unity with the more regular and new adventurers taking part in his larger regular organization, he was unhappy.
+
+He didn't want to spend too much effort doing this though, as he had more larger-than-life priorities in hand, such as discussing the distribution of ores and goods from his region. It was still a budding seed, but their goal was to invest some money in numerous interests with the intent of stimulating the market in the various areas in which they presided. However, he also had to navigate the other interested passive observers and active parties in these places. So his projection of curiosity was not ignored but given the time of discussion. He was invited to a more open meeting between leaders within a region opened up and sponsored by the city. In this case, "the region" referred to the broader Laon Region and "a region" was a smaller identified area.  
+
+So even now, as a smaller power, he was given the time of day to obtain information and connect his smaller networks to larger-scale agendas, even if he only played in a small pond as a tadpole.
+
+This was done with the intention of processing foreign trade as well, as adventurism had a history of maritime trade and exploration with the goal of finding treasure and powerful dungeons. So this history was fostered and cultivated until the modern day where even individuals like Matthew, however small he was, had a chance to invest and play a role in a gigantic league.
+
+However, this also came with loots of ifs-and-buts, as his position was precarious, being a person who had discomforted goblin leaders. So ponds within ponds had concerns with him. The gigantic league could only provide some feedback, because they were not planning on resolving issues that would inevitably re-cycle back all over again like a bunch of organisms subjected to conditions of life and experiencing variability as a result.
+
+All in all, Matthew dipped his toes in a context beyond himself. But he had to retain his footing and foot support within his region of specialty, having been dragged here by Deathbringer and Sophia and supported from the goodness of their heart, which resulting in his poetic rise to power; but broken-down and refined overtime through torturous work sprints.
+
+Now, his organization served as a token or ticket of his status. Whenever he approached his co-members, the senior adventurer who surpassed Deathbringer and the others he had entrusted his life for so long, he was disturbed to realize that their rise of power was not marked by a strong capacity for military strategy, intelligence, high logistical proficiency, and leadership. This meant that they were recognized for their martial prowess firstly and lastly. 
+
+He lowered martial prowess in his priority list, respecting people he felt were better than him. As for the reason for this, he recognized that his combat skills played a minor role relative to the amount of cognitive work he had to extend in the context of his adventures, quests, interpersonal dynamics, and connecting skilled people together. However, he thought that 90 percent of the actual work rested upon the people within his inner circle; including Sophia, Deathbringer, and Michel, among others. He added Sophia because she served as a crucial binding element in his early days; though, even with his rational perspective toward her, he recognized her help as a cultural and emotional guide. Though, her impact was minimal compared to the larger host of individuals with which he came into contact. He expressed his gratitude to all of these people. 
+
+However, even now, his feet and foundations felt shaky. Even with the recent improvements in his personal life and work-life balance, he didn't see himself as particularly capable to the point of becoming unstoppable. Extending this perspective to his practical work, when he engaged in fights, any time he had to kill a monster, he would often find his hands with a slight quivering or tremoring; never truly forgetting the experience of murder. However, he still could get in the zone and get that martial strength that contradicted his more vulnerable mental states during occasions of burnout and exhaustion as a consequence of the rapid and sudden shift in responsibilities laden upon him by his ascension to authority.
+
+Either way, his magic, skills, levels, experience, quests, titles, and other aspects of the game-like realm demanded vigilance not just on his part but on the part of a unique unofficial loose team composed of Rodney, scholars, and skill practitioners, with some support from blacksmiths. He agreed with them to establish regular briefing meetings where they gave him input, but that had yet to come about. 
+
+He had been lacking sleep lately. So he couldn't help but be worried that he would lose everything uncontrollably.
+
+Michel and other people were concerned about his health, visiting him with healers and professed astrologers.
+
+Matthew's organization was more stand-alone, and he paid visits to it on a daily basis, even often checking it twice a day, once in the morning and again in the later afternoon when it was hot. He didn't want to become estranged from it, but he also didn't know how to match the influence he had accrued due to his strategic feats and his timely interest in Grimtusk whose pillaging of a village garnered widespread international attention. His contributions to the coalition that finally breached Grimtusk's unstoppable scooping wall were emphasized publicly despite his exit as the chief commander. It came to this present state where officials were being repeatedly requested to give Matthew their support.
+
+All of these factors and events led to his current scary position.
+
+That was why even though Matthew—accompanied by some from his his inner circle, his goblin followers, and selected adventurer followers, cashed out small money via dungeon raids—he was given respect.
+
+Matthew was not running away. This was his true limit.
+
+He could only handle dungeon raids that spoke to his history as a small-role adventurer in a larger senior adventurer party since his first tumultuous, strong, and exciting entry into this city.
+
+His short-scale developments in City of Power influenced his perceptions of the city, his thoughts referring back to the tanner who told him about interest around traditional methods and newer trends whenever he needed inspiration.
+
+His inner circle continued to address various issues and rooms for improvement concerning the city; however, Matthew had failed time and time again to utilize their skills, influence, and talents, all while others had shown great support toward him.
+
+Matthew was not here as a result of his own abilities, yet he couldn't even pay thanks to the people who had helped him so far.
+
+It was a primary source of frustration for him.
+
+He did want to reroute fully to daily dungeon visits and simple stats development; however, his attainment of leadership was his kryptonite.
+
+However, for now, his disheveled state would continue to head down the dungeon before being scooped back to his seat of power even if he wanted a more normal life as an adventurer. Scouting, warding, and familiar tasks he took on when he was a smaller adventurer had long disappeared, making room for heavier concerns.
+
+But he knew he was not simply limited by his circumstances. His intelligence and strategic prowess was also limited.
+
+For now, shifting to a more normal note, Matthew's legs were heavier than before, having spent most of his time in less active tasks and more time talking and dealing with people from behind rather than as a part of the fighting vanguard. Optimistally, he could still considered be a part of the vanguard, but as a commander. Right now, he walked to the place where a golem-maker sculpted a golem with clay. After the golem-maker finished, he used magic to turn it alive. The golem glanced around before its eyes stopped at the staring Matthew in the distance. It waved. Matthew reciprocated it.
+
+After this, he went to his first inn, finding a familar adventurer.
+
+This was the same one he talked to when he first came here at the adventurer guild.
+
+They emulated the same conversation they had then. Though, much of it was in Matthew's mind.
+
+Maybe, he could be okay. That was also what the guy at the adventurer guild suggested: "You could be okay."
+
+"I could," Matthew said with a smile on his face, that which he prepared for social situations. But no, he was happy to talk with someone. It was better than torture.
+
+"I remember a lot of things," he continued. "I remember the sun, the earth, and all the flavors of the... time I was still just sitting down..."
+
+"Huh?" the adventurer said. "What do you mean?" 
+
+"It's hard to explain." Matthew knew that nothing could explain what it felt like to exist. 
+
+It was too difficult for him.
+
+He knew that isolation was a resultant threat to his sanity.
+
+So with enough time to ponder, he looked around, his heart beating in all the wrong places. Indeed, he made up a motley of people, him being the most out of place. His clothes were still the white shirt and shorts he usually wore at home.
+
+As for his current location, he was sitting inside an inn where tens of people were eating, drinking, and sharing stories and concerns. It was a hub of living people, and it was not the kind of place that he could just tamper with without considering his duties and rights. 
+
+If someone decided to punch him in the face, he could not just use the logic of his culture and society at Earth to justify the rationale behind his subsequent response. 
+
+He needed to align himself with this new world and its bylaws, which meant that he had to assess each person seriously with a great focus placed on how liked they were. 
+
+This way, he could trace the roots of likability in this new environment. Basically, his college degree did more than give him essays to write. 
+
+Additionally, it gave him a sense of agency in teams, so even though he lacked a team, he considered the people around him as team members. 
+
+All he had to do was find out exactly how each person fit into society.
+
+It had all started from this inn.
+
+He never truly understood people, but his mind continued to buzz and burn through the cracks, flying around, hoping to land on something that leave him restless.
+
+He looked gloomy.
+
+But he reassured himself that he could no longer hide the situation.
+
+He talked with Michel, Lumi, Thorne, Elara, and everyone he knew, no matter how much it embarassed him to do so.
+
+"Hello...
+
+I...
+
+I just wanna say that... there's a lot of things that's going on, you know... Uh... I think... I don't know, like there's a lot of things that I wanna say... uh...
+
+So...
+
+...To be honest, I have no clue... and...
+
+...I just... I just wanna...
+
+...I just wanna say that... that...
+
+...That I have no clue...
+
+What's going on, what...
+
+...Yeah... pretty much...
+
+...Yeah, I think so...
+
+...Yeah...
+
+Yeah, there's been a lot, you know, I been kind of trying to like organize things and make sense of things and putting things together, but like honestly, it just doesn't make sense. I mean, I guess it *does* make sense, you know, I mean, I've been doing so much and like pretty much I've... I've already done it, I've done everything possible, I've... like you can't... well you *can* blame me, but you can't blame me at the same time, it's like I've already been doing everything and it's crazy... Uh, so it's like...
+
+...If it was me... I mean I guess it *is* me. Yeah, I'm the one here... Yeah, I *am* the one here, so I guess it *is* me... and... [chuckles] ...I don't know. I'm just... I'm just... I'm just here...
+
+I think... I... I think I've finally done it, right? I mean... I mean... [chuckles]
+
+...I... I don't know... I mean... I... I *am* happy that I was able to get this far, but at the same time I also don't know... I... I don't know what to say... [chuckles] I mean, I... I *am* happy, I think... I *should* be happy about it and I *am* happy about it, it's just...
+
+...It's just that it's crazy. I mean I never... think about it, you know, I just *don't* think about it. I don't think about like what it *means* really... Like I just think about like, okay, let's just do this and let's just do that, but I don't think...
+
+...What does it *mean*? Like I don't *feel* happy, I just *am*... you know? It's like I just do it without thinking, I just... I just do it without thinking, I just do it and I just do it and I'm finally here... and... and after everything it's like I went... I... my brain was like... I mean it was difficult, it was hard, I... I went crazy and everything went crazy... and I did so many things that I should have not done, I think... and I... I just became here...
+
+...I think... [chuckles]
+
+...and I don't know what that means...
+
+I don't know if that's supposed to be crazy or something, but yeah, I guess I am here...
+
+Yeah, I... I don't know. I... I have more to say but I feel like...
+
+...I'm... I'm... it's... it's a lot, okay? There's just... just a lot...
+
+So... yeah... yeah, pretty much..."
+
+He got this response by Thorne: "You know... I get it... it's... it's not easy...
+
+...I mean, I honestly don't know what you're saying specifically... like where it's coming from specifically... I mean, I know that... some people go through stuff and...
+
+...It's normal... you know, you start off like not really knowing what the hell's going on, but as time passes you start understanding stuff... but like that's what I'm kind of confused by, it's like why you *feel* that way. I mean, even if I don't necessarily understand... it doesn't make your feelings invalid...
+
+I'm... I'm just saying that like... what you're doing right now... I mean what you're saying is kind of...
+
+...It... it's... I didn't *know* that this was the case. I mean, I guess I *did* see you and I did hear you kind of like, you know... it's like, maybe... this guy's feeling a little weird, or he's just feeling a little uncomfortable... I... I mean, I don't know. Like, I... I assume a lot of stuff...
+
+...And I assumed... and... I... I guess not everything that I assumed was, you know... like... it... it was not the whole picture...
+
+...And I honestly... I'm surprised...
+
+...I'm surprised, I guess...
+
+...I mean, it's... it's great... it's great that you're speaking right now. I'm... I'm really happy about it...
+
+...So...
+
+...Thank you...
+
+...Uh... thanks... uh...
+
+...Yeah...
+
+...You... what you're saying... is...
+
+... ... ...
+
+...It... it means something...
+
+...It means something..."
+
+That meant so much and so little at the same time to Matthew. He didn't know if he was going to die or he was going to change everything.
+
+The sounds of the place made him so happy.
+
+And he was excited because adventuring was exciting.
+
+And being with the people, he felt alive and like he had a beating heart.
+
+But he didn't know if this was real or how long it would last. It reminded him of his life back on Earth. Everything was great, and then all of a sudden, it was all gone. He was terrified of that happening again.
+
+If it happened again with this family, these people, he would become utterly...
+
+Later, as his friends began eating and conversing comfortably, something simmered underneath the surface in his heart.
+
+Thoughts drifted and combined two by two within a hurricane of spirits, emotions, memories, and souls.
+
+He smiled, confused why he suddenly did so.
+
+He grinned, shocked at this almost manic desire to conquer.
+
+He had to stop himself before he lost it.
+
+His emotions flew upward, ascending to the surface before being blocked completely. But its effects became effective.
+
+He spoke inwardly: everything would fall under his control.
+
+Then, he would begin from the start again and again. He would repeat this devastation and this heartache.
+
+He would repeat it all over again if he had to.
+
+He would fucking do it again!
+
+He would become the god that controlled this earth.
+
+No one. No one would stop him!
+
+He would castrate this earth and make it his slave.
+
+He would become the epitome of grace and beauty!
+
+He was the heaven above that singed everything and anything below! He was the Kingdom!
+
+He was the Sky! He was the Earth! He was the Clouds!
+
+He was Him.
+
+Shifting to context, even as his friends were eating and conversing comfortably that he suddenly went into this, his fears of loss remained still. And with tranquility came a reminder of his family back on Earth and the loss that had transpired. Peace reminded him of loss, because he had lost his family and been forced suddenly into this new world. So when he saw his new friends eating and conversing comfortably, thoughts of loss spiraled out of control, and he became this manic creature that sought only authority and was bestowed delusions of godhood.
+
+But he was right. He would become this god.
+
+And not just any god.
+
+A human-man made [of] flesh and blood, he would watch the silent moments and conquer the high skies. He would remove the leaves from the feet of a tree before tearing down its crown. He would love a woman tenderly as if she was a dependent before bringing her to the highest steps for her to wield a sword and conquer.
+
+He was the instrument of destruction.
+
+Matthew sighted Michel and told her that they would come to find rest in war, wishing for a coalition attack upon the Grimtusk's remaining followers and associates. 
+
+Michel grinned, reeling her head back.
+
+She was down, as were many others in the dinner party they were in.
+
+Matthew was God alone.
+
+He wielded a sword and advanced forward, heading down the steps.
+
+Who needed rest! Now was the time for battle!
