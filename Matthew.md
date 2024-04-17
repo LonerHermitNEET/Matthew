@@ -13484,7 +13484,7 @@ Matthew didn't know what to do. He didn't know what Crystal Meat was, and he did
 
 Even if he was already so far ahead compared to his peers his age, he still didn't feel like he had enough.
 
-Matthew couldn't understand a single thing, but I think that came with the life and world he was in. He made it sound like he hadn't been saying that for ten million years already. But even after spending so much time here, so little time had passed for him really. His soul still couldn't tell the difference between here and Earth most of the time. It felt like he was playing a part or a role, pretending and lying to people about his true nature as a regular man back on Earth.
+Matthew couldn't understand a single thing, but he thought that came with the life and world he was in. He made it sound like he hadn't been saying that for ten million years already. But even after spending so much time here, so little time had passed for him really. His soul still couldn't tell the difference between here and Earth most of the time. It felt like he was playing a part or a role, pretending and lying to people about his true nature as a regular man back on Earth.
 
 He didn't really know what he was doing, but it felt right. And people supported him.
 
