@@ -13029,3 +13029,559 @@ Matthew was God alone.
 He wielded a sword and advanced forward, heading down the steps.
 
 Who needed rest! Now was the time for battle!
+
+# Chapter 68
+
+In the battle, the sun fell.
+
+Bits bit onto his flesh.
+
+The Witchman prepared the altar.
+
+Souls writhed and consumed.
+
+Witchman struck, beat, and kicked.
+
+Michel laughed.
+
+Tamer sent out goblins to get vision.
+
+Matthew despised.
+
+He skewered, speared, slashed, and sliced.
+
+He loved and killed.
+
+He hated.
+
+He murdered.
+
+He killed.
+
+Goblins collapsed.
+
+Michel's traps swallowed them up.
+
+Tamer's goblins covered their escape routes.
+
+Matthew occupied the frontline.
+
+Deathbringer swept away the flanks.
+
+Brandon raised his arms and shot out spear attacks.
+
+Hundreds of goblins fled.
+
+Matthew and his forces followed.
+
+Their shared vulnerability enabled them to act with callousness.
+
+The goblins ran.
+
+They stared at the beast.
+
+Matthew was hunting them. 
+
+His goblins knew his actions. But Tamer tamed them.
+
+He grinned, gufffawing.
+
+The terror continued.
+
+The world gnawed upon his skull. His heart blasted through several corners of his mind and palpitated.
+
+Matthew charged.
+
+He grabbed a goblin and divided it.
+
+He seized another and broke it.
+
+He grasped a third and snapped it.
+
+He dispatched ten also.
+
+The goblins watched the silence.
+
+The silence laughed.
+
+The tears dripped.
+
+The sky fell and made them its slaves.
+
+Matthew's form loomed.
+
+The goblins raised their hands, and they beseeched, implored, and entreated him.
+
+Matthew smacked them.
+
+He destroyed their spirits.
+
+The goblins fled and found rest in a glade. They hugged it and wished.
+
+The world stared.
+
+Deathbringer and the rest of Matthew's forces advanced and caught many.
+
+Matthew became invisible.
+
+The goblins looked.
+
+They saw the monster.
+
+Matthew giggled.
+
+He grabbed their necks and tackled them.
+
+He moved his hands. He touched their throats and tightened his grasp.
+
+He choked them.
+
+The goblins squealed.
+
+Matthew loved this.
+
+He hated peace.
+
+Peace scared him.
+
+War comforted him.
+
+Murder soothed his heart.
+
+Adventuring set a home.
+
+He bloodied his clothes.
+
+He smiled and cried.
+
+He cried and smiled.
+
+He rushed and danced.
+
+He stared.
+
+A boat flew and struck the goblins.
+
+His friends were here.
+
+The goblins saw giants.
+
+Torches led the way.
+
+They retreated.
+
+The trees gave them peace.
+
+They followed the path.
+
+They avoided beasts.
+
+They avoided mauling.
+
+They dashed, skipped, stopped, and bolted.
+
+They looked back and saw trees and the beasts.
+
+They looked back again.
+
+They sighed and relaxed their movements.
+
+They watched the sky.
+
+The clouds halted.
+
+Tamer and her goblins appeared.
+
+Tamer cast a spell.
+
+One goblin fell, grabbed his leg, and screamed.
+
+Tamer cast another.
+
+Another goblin collapsed.
+
+Tamer cast a third, and her goblins began attacking the prey.
+
+The prey tried and fled.
+
+Tamer followed them. One prey shot an arrow. Her goblins protected her and blocked it.
+
+Matthew blocked the path and told her, "Stop, let's relax for now. There are plenty of enemies right now, and we should be careful surrounding these foes—"
+
+"You're right."
+
+Matthew continued, "If we got caught, we're going to reset our progress. But you did great. We don't need to force it—"
+
+"Yeah."
+
+"We're only getting ourselves used to this again. So let's go ahead and head back—"
+
+"Uh-huh."
+
+"Thanks for coming."
+
+Matthew and Tamer smiled.
+
+They and the rest of Matthew's forces left.
+
+Tamer said, "We should consider putting one of those stalls here."
+
+"Huh?" Matthew said.
+
+"The ones we saw there at the dungeon steps—"
+
+"Which one?" Matthew began walking down a slope and avoided a tree root.
+
+"The one we went to when we had to fight the fortified dungeon steps but then decided to go for the smaller one—" Tamer grabbed Matthew's shoulder and stepped down.
+
+"Oh, oh, that one... Yeah? So what's up?" Matthew squinted.
+
+"I was saying we should put the stalls from there—" Tamer gestured.
+
+"Oh, that's a good idea. But I have no idea." Matthew shrugged. "I'll go ask Rodney and Desmond about it. I'm often the one asking them about it anyway. I always ask about everyday stuff, so I think this'll be fine bringing up."
+
+"Why?"
+
+"Huh? What do you mean?"
+
+"Why will that be fine bringing up?'
+
+"Oh, I was just thinking that now was a good time..."
+
+"Is it 'cause they're always busy?"
+
+"Yeah, that too."
+
+"Okay."
+
+"Yeah..."
+
+Tamer ended the conversation: "Okay then, let's go."
+
+They visited Rodney.
+
+Rodney gave them seats and said, "Why so early? What happened? Did you guys lose track of the goblins before you were able to get that momentum going, Matthew?"
+
+Matthew nodded. "That too. But when I saw that the goblins were already moving around a lot and very far, I didn't want to go too far. After seeing how goblins can know their own places so well, I thought it would be better if we just stayed back for now. We can always focus on the ones that aren't careful as per usual. But yeah, that's basically it."
+
+Rodney nodded and sat. "I haven't really talked about this, but Tamer's your friend, right? You guys were not in a thing before or anything?"
+
+Matthew raised a brow.
+
+Tamer shrugged. "Matthew doesn't really know what he wants."
+
+Matthew scowled. "Really?"
+
+"I've been asking him about it. But he's so relentless about maintaining a virgin life. I think he's just like that."
+
+Matthew shook his head. "I've never heard of this? When did we talk about it? Are you kidding?"
+
+"Yeah of course I'm kidding... Matthew, have you finished up with the stalls while I went to the bathroom?"
+
+"The stalls?" He gave Rodney a glance. "We haven't discussed it yet. I was a little tired today, so I just sat and drank coffee. Is that okay?"
+
+"Sure!" Tamer said.
+
+Rodney waited.
+
+Tamer gave him a look.
+
+Rodney nodded and lodged his arms. "Why don't we first consider how this stall thing will work? First and foremost, you're talking about having stalls there too, right?"
+
+"Huh?" Matthew said. "How did you know?"
+
+"I know you Matthew. You like to talk a lot when we're together. I've spent a long time with you already."
+
+"Oh, really? I guess I don't think about it."
+
+Tamer added, "Interesting."
+
+Rodney continued the conversation, "Yeah, it'll be interesting once you hear of his attempts to cast magic that would bring light rain. He told me that he heard that if he believed hard enough, he would be able to cast magic—"
+
+Matthew said, "Ey, ey, ey—"
+
+"And he actually tried it!"
+
+Tamer said, "Really?"
+
+Matthew's jaw lowered. "Ey..."
+
+"Either way," Rodney said, "we can talk about that later. So having the stalls be placed there will be easy; but of course, just because you have money doesn't mean you should be throwing it without thought there—"
+
+"I get it—" Matthew said.
+
+"Listen first. You should think about what happens after you put it there. Will it get anywhere? Will it do anything? Is it just a waste of time? Think about... You have to think about those two, three things first before you actually start. But of course, I'm not the one who specializes in these kinds of things. So you can ask someone else I know—Brandium."
+
+"Who's that?"
+
+"He will probably tell you that the entire thing is a bad idea. But still, ask him. He'll answer you. He doesn't get anyone to talk to him about the business and all."
+
+Matthew squinted and shrugged. "I don't know. I haven't really thought about it. Is it really needed? Isn't it just as simple as just putting a stall and then people will find that there's supply here and they just buy?"
+
+"No and yes. When there's people actually there waiting to buy, then sure go ahead. But no, people have their own schedules, commitments, and expectations. So expect people to be like, 'I'm not going to go here because it's just a little bit more inconvenient than another option. That's what goes inside people's heads. Just the tiniest inconvenience gets them leaving, because no one likes disruptions or changing their whole setup. The point is that you're going to have to give them a reason to leave what they know for something that involves a little bit of work on their part to get used to. A lot actually, but yeah. That's it."
+
+Matthew nodded.
+
+Tamer sagged her head, and the table supported it and her body. She rested and listened.
+
+Rodney ended the conversation: "Anyway, that's the gist of it. You might want to talk to Desmond if you have any concerns about the legalities and all that. He knows whether or not you should be signing something and getting some papers readied and filled for stuff that might be tiresome. But yeah, yeah."
+
+Matthew and Tamer waved and left.
+
+They entered a cafe and met Desmond.
+
+Desmond observed them.
+
+The two sat down, greeted him, and shook his hand.
+
+Tamer asked, "Desmond, right? I know I'm usually the one being left out in meetings because my professor keeps giving me more and more assignments to do with Matthew. Anyway..."
+
+Desmond glanced and nodded. "Yeah, yeah, I've heard." He faced Matthew. "So how are you, Matthew?"
+
+Matthew saw Tamer's face and said, "I've been relaxing just fine. Of course, I know that I'm not actually. But at the same time, things are working out recently. But I'm not sure, I don't know."
+
+"Okay..." Desmond said. "Are you going to be there at the coalition again? We're visiting Simaw, the spider monster. I want you there to see how we've been doing these past month. If you can be there, please be there with the rest. I don't want to have to wait there only to be disappointed when I learn that you're actually not there, because the people under you won't want to be there. And then, we'll have to repeat everything and reschedule for another day. It's tiring, Matthew. I know you're *tired* and all, but please think about what you're taking care of. This is big thing. Very big. It's bigger than whatever you've been doing... as a warder! It's not what you think it is. It really isn't."
+
+Matthew compressed his lips and nodded.
+
+Desmond scanned the cafe. "I've been hungry recently, sorry." He approached the staff, said a request, and hand-grabbed a slice of cake.
+
+He approached Matthew and Tamer and sat down. "So what's next, Matthew. I know it's been a while. But yeah—" He took another bite. "I'm so hungry, sorry!"
+
+Matthew eyed Tamer.
+
+Tamer's palm supported her chin. She looked at him. "What?" she said.
+
+"I was reminded earlier of your play strategy when you decided to use the goblins to get vision. Of course, it's a natural technique, but at the *same* time, I think you've doing much better recently when it comes to recognizing, like, whether a certain place is faster or not. Your terrain sense is much better. Or maybe you're just faster-thinking. I think you should keep traning—"
+
+"Oh, my professor forced me to take lessons and start training in the orchard at the academy. He made me do laps and told me to go around the trees in a zigzag pattern so I never got sure he said. It was boring, but... if you're saying that, then maybe it's not so bad. Anyway..." She scanned the cafe. "Where's Desmond?"
+
+Desmond and his one of his many friends reunited and began a discussion.
+
+Matthew and Tamer shrugged and waited.
+
+An hour passed.
+
+Desmond finished and sat down next to the two. "Sorry, sorry. I was just happy to see Michel and her baby again. It's been a while."
+
+"Do you really use this place as, like, where you sleep?" said Tamer.
+
+Desmond chuckled.
+
+Matthew smirked.
+
+A minute of conversation lapsed.
+
+Matthew said, "Why aren't we using the boats more?"
+
+"You're asking me? You're the one who's supposed to be coordinating with the adventurers."
+
+"Yeah, but I don't know."
+
+"You're not coordinating with them. Hala, that's bad."
+
+Matthew stared.
+
+Five seconds elapsed.
+
+Matthew widened his eyes. "Right, I should be the one talking to them. I keep forgetting to talk to Shekinah and the other two." The other two's names weirded him out.
+
+Matthew laughed.
+
+Tamer and Desmond watched him.
+
+# Chapter 69
+
+Matthew relaxed. Getting exercise almost everyday by fighting as an adventurer made his body much more fit, so even now, it was easy to laugh and breathe well.
+
+He went home and had a fresh cup of water, having brought fish and rice wrapped with banana leaves and tied with banana fiber or silk. It made for a nice meal after a long time.
+
+When his lips tasted the rice, the scent of the banana leaves added a sense of groundedness through it all, keeping his tied to the vegetated rainforest soil. The best part was that it was still hot, so during chewing, his mouth, throat, esophagus, and stomach felt the ameliorative heat: even better than a healing pot (potion).
+
+Either way, he rested next to a tree. The person he was when he was in a bad mood was not the same person he was at rest.
+
+The sun was bright as usual, and nothing was problematic.
+
+A young man came to his cottage. He was from the organization Matthew was a part of.
+
+"Hey, we should be going right, Matthew?"
+
+Matthew looked at him and chuckled. "Nah. I want to relax for now. Say no kids."
+
+The young man shrugged and left.
+
+Matthew lay on the ground on his belly, his legs kicking up and down, his arms used as support for his head.
+
+He sighed. "I'm so lazy today. Maybe, it's because I went through the worst things in the world and now I'm fine. It's great to still be alive." He guffawed satirically.
+
+He went to a bridge and leaned against the parapets, not worried he might fall. He vocalized to his favorite songs: "Ba-ba-ba-ba..."
+
+He looked at the water, and it was this flat, plastic-looking surface.
+
+The bridge had stairs on the side instead of a smooth ramp. He jumped on each step unnecessarily.
+
+He was thinking of even jumping from merlon to merlon on top of the embattled parapets back and forth since they were thick enough for him to stand on with enough care. He jumped from the parapets to the bridge and then to the steps.
+
+He kept walking on the flat green grass, intentionally bumping into the leaves of a tree. He pressed against its trunk for ten seconds.
+
+He kept walking, passing through gates.
+
+He walked up a stone staircase and climbed a ladder into a small, open, bartizan-like structure.
+
+After climbing down the ladder, he walked next to a catapult and studied it, leaning over.
+
+He attempted to jump down the wall before deciding the staircase was a better option.
+
+He went to the gates and returned to the open fields of grass with a decent amount of trees around.
+
+He went to the bridge again, and after pausing for a bit, he kept going to the other side. He decided to make a left turn away from the bridge and head to the edge of the stream, watching the water.
+
+He returned home.
+
+He could hear the birds calling, unlike back on Earth when he only heard them in the morning. It was afternoon, but he could hear still hear them.
+
+He walked on the road, passing by fences, ferns, logs, lush vegetation on the sides of a stream lying parallel to the road, sights of the lake, and the sound of people talking. The rain dropped softly.
+
+He went inside a shop and saw a man wearing a helmet with horns. He saw weapons hung on boards on the wall and lying on the counter, tables, and desks. The music of the shop was soft at first and contemplative, but as time passed, it got only louder. Bards were present at almost every establishment, indicating a very lively and music-loving community.
+
+He sat down on one of the chairs for a minute or two before he got up and listened to the music restart for a moment before leaving.
+
+It wasn't the same outside.
+
+He knew the lake was right over there, though still quite far. So he wondered if he could ride a boat.
+
+But he was scared of deep water, so maybe not.
+
+He walked on a couple of wooden steps placed in order to traverse the stream of water that poured down on the side of the road.
+
+He went up a grassy incline and looked at some of the pet animals and small urban farms nearby with both cash crops and flowers.
+
+He passed by so many shops, buildings, and houses.
+
+He climbed down another short flight of wooden steps.
+
+Incidentally, speaking of nostalgic relaxation, he still remembered a time in the Internet when he had to put "&fmt=18" to the end of URLs in Youtube.
+
+Meanwhile, tongues of flame appeared all around on the ground in a circle, surrounding his body and following him wherever he went. They belonged to a group buff from a passing adventurer party that included him and a few others accidentally as well as themselves. Though it benefitted him actually since it gave him increased movement speed.
+
+He opened up the [Forums] that he had kept out of his mind all this time, continuing to use the username "Witchman 💀💀💀".
+
+**[Witchman 💀💀💀: Good evening everyone. I made a post because I didn't know what was going on. I want to ask again what happened recently. I lost contact with KingofMercy, so I was hoping if you any of you know him or know someone that can help me.]**
+
+**[RaidBossGod: *laughs* I don't know if I can help you, but there's been a recent trend of people asking about the Crystal Meat. You can follow those threads and ask them there. They might help, as long as you actually intend on talking about it though. It's a big event, so everyone's coming. Are you in the region? I don't know your name.]**
+
+**[Witchman 💀💀💀: I am, I am... The region is Azz.]**
+
+**[RaidBossGod: What the hell is that? I don't know what that is. You must be really far away then.]**
+
+**[Witchman 💀💀💀: I'm surprised I don't know you though. Do you often visit the threads in Exploration and Resources?]**
+
+**[RaidBossGod: No. I don't. I guess that's why. But I'm also active only 3 months a time. For three months inactive, for three months active. Just have big plans. I don't know about the Crystal Meat. But if you're coming, tell me. I heard there's pretty good loot there.]**
+
+**[Witchman 💀💀💀: Okay. I'll tell you. Thanks.]**
+
+Matthew didn't know what to do. He didn't know what Crystal Meat was, and he didn't know if he could keep up. So he decided to leave it at that for now. Maybe, he would learn a lot, but if he was going to do that, he would be skipping a lot of his deadlines as a leader, as a solo adventurer, and as a member of the senior adventurers group where they fought hobgoblins. It was hectic, and his schedule was imbalanced most of the time.
+
+Even if he was already so far ahead compared to his peers his age, he still didn't feel like he had enough.
+
+Matthew couldn't understand a single thing, but I think that came with the life and world he was in. He made it sound like he hadn't been saying that for ten million years already. But even after spending so much time here, so little time had passed for him really. His soul still couldn't tell the difference between here and Earth most of the time. It felt like he was playing a part or a role, pretending and lying to people about his true nature as a regular man back on Earth.
+
+He didn't really know what he was doing, but it felt right. And people supported him.
+
+He just so happened to be at the right place at the right time, and he made that his identity—the Witchman figure was just him playing a part. That was all it was.
+
+When he was in a bad mood, he was in a bad mood.
+
+He didn't hate goblins every second of every day. He was more so just doing stuff. He had a life too you know.
+
+Basically, he was very human probably.
+
+Maybe, everyone was like this. He didn't know. He sometimes became blindsided and out of touch. Maybe, he was ten million leagues under the sun in terms of how out of touch he was.
+
+He sat down, not really trying too much.
+
+It felt like everyone took him seriously when he seriously didn't take himself seriously. He was just looking around from time to time, sometimes stressed, sometimes crazy. But for the most part, he was him.
+
+He laid back and let the air refresh him.
+
+It didn't really make sense to say this, but he thought it'd be nice to just do nothing forever.
+
+Every day could be a do-nothing session, and no one would care.
+
+Okay, maybe everyone would care, but still, he wanted to just take his time.
+
+Lumi, Thorne, and Elara were not even a trio really. He just dragged them into himself and made it so that they hanged out. He coordinated people. He was that good.
+
+Or maybe he was just lucky.
+
+He didn't know what to do, yet he knew everything he had to do.
+
+But he chose not to try too much or else he'd go crazy.
+
+Why did he ever do anything?
+
+He didn't know why he got so emotional and crazy about things that didn't really matter.
+
+He just knew that was who he was at the time he felt it. But afterwards, it felt like nothing happened.
+
+He was just gone. Was it all a role?
+
+Was he a good pretender?
+
+He laughed.
+
+Honestly, he didn't know.
+
+If someone asked him to fix things up after everything and explain everything that happened to him, he wouldn't say a word. He wouldn't dare say anything. He would just sit down and mumble like a blabbering no-nothing.
+
+He was entirely unbelievably readily goners.
+
+This was this. That was that. There was there. Here was here.
+
+He didn't really care. Who cared about anything that happened in this world?
+
+He wasn't their god or savior. He was just a regular man.
+
+He could disappear anytime.
+
+He could give up anytime.
+
+All of those hope and dreams? It didn't matter!
+
+What mattered was that this was just a test for him, a playing stool, a playing ground, a sandbox, a place to hide away and create.
+
+This was a place for him to throw things around like a child.
+
+The goblins, the monsters, the adventurers, and everything were all just figments of his imagination.
+
+He giggled.
+
+But he truly didn't know what to do if they were real.
+
+He knew they were of course, but still he didn't want to accept it.
+
+He was here on another world where things like that existed. He chuckled. "It's funny," he said.
+
+Nothing ever made sense, and now he was being forced to accept this. No way!
+
+He laughed.
+
+He couldn't bear to think of a world where this, all of this, could happen. It was all a big joke.
+
+Tears of joy streamed down his cheeks. It was all the biggest joke!
+
+He wasn't going to die right?
+
+He was just playing a game.
+
+But tomorrow he could die.
+
+On Tuesday he could die.
+
+On Wednesday he could die.
+
+The funny thing was that he kept going either way, as if nothing was wrong.
+
+He was so, so good at pretending and lying and suppressing all of these things called fee-fees inside. He was so good at being this man that wasn't.
+
+He was God.
