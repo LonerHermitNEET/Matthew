@@ -1,10 +1,10 @@
 # Chapter 1 - A World Apart
 
-Author's note
-
-[The Github commit page (version history) for revision updates](https://github.com/LonerHermitNEET/Matthew/commits/main/)
-
-[The blog for more formal status reports](https://lonerhermitneet.github.io/)
+>Author's note
+>
+> [The Github commit page (version history) for revision updates](https://github.com/LonerHermitNEET/Matthew/commits/main/)
+>
+> [The blog for more formal status reports](https://lonerhermitneet.github.io/)
 
 
 To begin, the goblin stood in front of Matthew, whose face was sure and committed, his breath cycling without pause, and the blade he held thirsty for a syrupy strike.
@@ -15,7 +15,7 @@ He would have to guide it himself, his grip fiery in form, the edges of his blad
 
 In conclusion, he raised his blade as if to slash.
 
-***
+![](jar_plant.png)
 
 Before this month, things were different, so different. If Matthew only knew, if he did, he wouldn't be thinking the way he was now, stuck in contemplation like some stuck-up little nobody too involved with his daydreams.
 
@@ -549,19 +549,19 @@ In the meantime, while Matthew and the adventurers were traveling in the wildern
 
 To reproduce Matthew's current circumstances from a combat-focused data view, a list of stats could be drawn.
 
-Name: Matthew Cruz
+**Name: Matthew Cruz**
 
-Species: Human
+**Species: Human**
 
-Age: 25
+**Age: 25**
 
-Skills: None
+**Skills: None**
 
-Spells: None / None
+**Spells: None / None**
 
-Vitality: 15
+**Vitality: 15**
 
-Quests: None
+**Quests: None**
 
 Returning to reality, as soon as Matthew and the other adventurers reached the dungeon steps, Matthew wanted to act independently, so he decided to observe and draw his findings as to how he could perform effectively amid the threats mentioned by Deathbringer. These threats included common goblins, skeletons, zombies, and skeletons.
 
@@ -687,41 +687,41 @@ Due to how successful this quest was, the adventurers smiled one by one.
 
 As soon as they returned home, Matthew tucked himself inside an inn, and he checked his [System] once again and wondered if his contributions to the fight influenced his stats.
 
-Name: Matthew Cruz
+**Name: Matthew Cruz**
 
-Species: Human
+**Species: Human**
 
-Age: 25
+**Age: 25**
 
-Skills: None
+**Skills: None**
 
-Spells: None / None
+**Spells: None / None**
 
-Vitality: 15
+**Vitality: 15**
 
-Quests: None
+**Quests: None**
 
-Nice job rocking that fight! The gods are totally keeping an eye on you! 😇 Your reward? Way more XP than usual—12,000+!
+**Nice job rocking that fight! The gods are totally keeping an eye on you! 😇 Your reward? Way more XP than usual—12,000+!**
 
 "The hell does that even mean—"
 
-Name: Matthew Cruz
+**Name: Matthew Cruz**
 
-Level: 0 -> 71
+**Level: 0 -> 71**
 
-Current experience: 433
+**Current experience: 433**
 
-Species: Human
+**Species: Human**
 
-Age: 25
+**Age: 25**
 
-Skills: None
+**Skills: None**
 
-Spells: None / None
+**Spells: None / None**
 
-Vitality: 15
+**Vitality: 15**
 
-Quests: None
+**Quests: None**
 
 He burst into excited laughter. It was that satisfaction of finally succeeding after thinking that this entire operation was a loss. This entire world was beating down on him, and he made it out alive without so much of a scratch? He was laughing all the way in relief. This was his victory, and no one could take that away from him.
 
@@ -800,23 +800,23 @@ In the meantime, Matthew didn't understand the context behind what they were say
 
 Since he was feeling a little uncomfortable, he checked his [System] again.
 
-Name: Matthew Cruz
+**Name: Matthew Cruz**
 
-Level: 71
+**Level: 71**
 
-Current experience: 433
+**Current experience: 433**
 
-Species: Human
+**Species: Human**
 
-Age: 25
+**Age: 25**
 
-Skills: None
+**Skills: None**
 
-Spells: None / None
+**Spells: None / None**
 
-Vitality: 15
+**Vitality: 15**
 
-Quests: None
+**Quests: None**
 
 "Are the goblins really that weak?" Matthew said, getting used to the existence of goblins and seeing them more analytically.
 
@@ -886,21 +886,21 @@ As soon as the adventurers finished, Matthew left with them.
 
 Many days later, he remembered his stats, and since it had been his third week in this world, he was given a random quest by the [System].
 
-Quest: Goblin Slaying Spree
+**Quest: Goblin Slaying Spree**
 
-Objective: Eliminate 5 goblins within the next 50 minutes.
+**Objective: Eliminate 5 goblins within the next 50 minutes.**
 
-Reward:
+**Reward:**
 
-- Experience Points (XP) Boost
+**- Experience Points (XP) Boost**
 
-- Rare Loot Drop Chance Increase
+**- Rare Loot Drop Chance Increase**
 
-- Gold Coins
+**- Gold Coins**
 
-- Exclusive Goblin Slayer Title
+**- Exclusive Goblin Slayer Title**
 
-Matthew responded with a brilliant smile.
+**Matthew responded with a brilliant smile.**
 
 # Chapter 5 - Goblin Slayer's Odyssey: From Poster to Quests and Unraveling Magic
 
@@ -993,25 +993,25 @@ Later, they noticed something: a hiding group of goblins.
 
 Having been detected, hundreds of goblins attacked them head-on, and Matthew received his first quest. This came after three weeks passed since he came to this world.
 
-Quest: Goblin Slaying Spree
+**Quest: Goblin Slaying Spree**
 
-Objective: Eliminate 5 goblins within the next 50 minutes.
+**Objective: Eliminate 5 goblins within the next 50 minutes.**
 
-Reward:
+**Reward:**
 
-- Experience Points (XP) Boost
+**- Experience Points (XP) Boost**
 
-- Rare Loot Drop Chance Increase
+**- Rare Loot Drop Chance Increase**
 
-- Gold Coins
+**- Gold Coins**
 
-- Exclusive Goblin Slayer Title
+**- Exclusive Goblin Slayer Title**
 
 Matthew responded with a brilliant smile.
 
 He used a spear and struck a goblin, his heart pumping, his face terrified, but a smile flapping its wings on his face.
 
-Sweet takedown on that goblin! You just earned yourself a cool 1+ XP for that win! 🎉
+**Sweet takedown on that goblin! You just earned yourself a cool 1+ XP for that win! 🎉**
 
 He, next to shields all over, grabbed a falling goblin and shoved it against the ground, locking it in place.
 
@@ -1019,19 +1019,19 @@ However, he was slow, and the goblin bit and scratched Matthew's body continuous
 
 Before the goblin could kill Matthew, one of the adventurers stabbed a spear against the goblin's neck.
 
-Loss Condition:
+**Loss Condition:**
 
-If the player fails to eliminate 5 goblins within the specified time limit of 50 minutes, the quest will be considered failed.
+**If the player fails to eliminate 5 goblins within the specified time limit of 50 minutes, the quest will be considered failed.**
 
-Consequences of Failure:
+**Consequences of Failure:**
 
-The player will not receive the Experience Points (XP) Boost.
+**The player will not receive the Experience Points (XP) Boost.**
 
-The Rare Loot Drop Chance Increase will not be granted.
+**The Rare Loot Drop Chance Increase will not be granted.**
 
-Gold Coins promised as a reward will not be given.
+**Gold Coins promised as a reward will not be given.**
 
-The Exclusive Goblin Slayer Title will not be earned.
+**The Exclusive Goblin Slayer Title will not be earned.**
 
 Matthew saw the beauty of tens of spells being launched at once, while the goblins shot volleys from a distance. In the crossfire, a hundred goblins died. Since the battle was systematic and organized in the adventurers' favor, not a single adventurer died in this crossfire.
 
@@ -1039,7 +1039,7 @@ Even when this happened, goblins and adventurers outside of the artillery and vo
 
 Matthew took advantage of the goblins' chaos and confusion, killing four more heavily wounded goblins.
 
-Awesome goblin-slaying skills, adventurer! Your relentless assault on those four goblins deserves major kudos. Brace yourself for a whopping 4+ XP—consider it your well-earned reward for triumphing over those mischievous creatures! 🌟
+**Awesome goblin-slaying skills, adventurer! Your relentless assault on those four goblins deserves major kudos. Brace yourself for a whopping 4+ XP—consider it your well-earned reward for triumphing over those mischievous creatures! 🌟**
 
 After this battle ended and the adventurers had time to clean up, rest, and discuss the distribution of profits, the golem maker who started this whole fiasco was brought into question and executed.
 
@@ -1061,49 +1061,49 @@ However, since he had certain buffs on him, a week after he got his new job, he 
 
 But first, he assessed the rewards he got for the goblin quest.
 
-🏆 Quest Completed: Goblin Slaying Spree
+**🏆 Quest Completed: Goblin Slaying Spree**
 
-Congratulations, brave adventurer! Your relentless efforts in the Goblin Slaying Spree have triumphed, marking a significant achievement on your journey.
+**Congratulations, brave adventurer! Your relentless efforts in the Goblin Slaying Spree have triumphed, marking a significant achievement on your journey.**
 
-🎯 Objective Achieved:
+**🎯 Objective Achieved:**
 
-- Eliminated 5 goblins within the allotted 50 minutes.
+**- Eliminated 5 goblins within the allotted 50 minutes.**
 
-🎁 Rewards Earned:
+**🎁 Rewards Earned:**
 
-- Experience Points (XP) Boost: Your dedication in the Goblin Slaying Spree has earned you 100 valuable experience, boosting your progression on the path to mastery.
+**- Experience Points (XP) Boost: Your dedication in the Goblin Slaying Spree has earned you 100 valuable experience, boosting your progression on the path to mastery.**
 
-- Rare Loot Drop Chance Increase: Your prowess in goblin elimination has attracted the favor of fortune. Your chances of obtaining rare and valuable loot have now significantly risen.
+**- Rare Loot Drop Chance Increase: Your prowess in goblin elimination has attracted the favor of fortune. Your chances of obtaining rare and valuable loot have now significantly risen.**
 
-Gold Coins: A well-deserved bounty of 5 gold coins for your successful goblin hunting spree. Spend them wisely on your continued adventures.
+**Gold Coins: A well-deserved bounty of 5 gold coins for your successful goblin hunting spree. Spend them wisely on your continued adventures.**
 
-- Exclusive Goblin Slayer Title: With your outstanding performance, you've earned the prestigious title of "Goblin Slayer." Display it proudly, as it symbolizes your expertise in eradicating these menacing creatures.
+**- Exclusive Goblin Slayer Title: With your outstanding performance, you've earned the prestigious title of "Goblin Slayer." Display it proudly, as it symbolizes your expertise in eradicating these menacing creatures.**
 
-Your bravery and skill have not only made the realm safer but have also brought you recognition and rewards. May your future quests be as successful as this Goblin Slaying Spree!
+**Your bravery and skill have not only made the realm safer but have also brought you recognition and rewards. May your future quests be as successful as this Goblin Slaying Spree!**
 
-🔔 Notification: Your achievement in the Goblin Slaying Spree has been acknowledged across the realm. Fellow adventurers and NPCs alike now recognize your prowess as a formidable Goblin Slayer. Your reputation as a skilled warrior is on the rise!
+**🔔 Notification: Your achievement in the Goblin Slaying Spree has been acknowledged across the realm. Fellow adventurers and NPCs alike now recognize your prowess as a formidable Goblin Slayer. Your reputation as a skilled warrior is on the rise!**
 
 And he checked his stats.
 
-Name: Matthew Cruz
+**Name: Matthew Cruz**
 
-Level: 71 -> 72
+**Level: 71 -> 72**
 
-Current experience: 66
+**Current experience: 66**
 
-Species: Human
+**Species: Human**
 
-Age: 25
+**Age: 25**
 
-Skills: None
+**Skills: None**
 
-Spells: None / None
+**Spells: None / None**
 
-Vitality: 15
+**Vitality: 15**
 
-Quests: None
+**Quests: None**
 
-Titles: [Goblin Slayer]
+**Titles: [Goblin Slayer]**
 
 Also, he learned from his conversation with the 6 adventurers that levels could be exchanged for weapon, tool, and armor enchantments and repairs.
 
@@ -1131,25 +1131,25 @@ Nova gestured to Ella for her to speak next.
 
 "Yes, we can share with you. Of course, you cannot see our stats unless you have [Identify]. That's obvious, but I'm guessing that since you're asking about spells... you don't know. So you can easily use [Identify] on goblins without really thinking about or even the word [Identify]... Anyway... here it is."
 
-Name: Ella Shadowblade
+**Name: Ella Shadowblade**
 
-Level: 10
+**Level: 10**
 
-Current experience: 25
+**Current experience: 25**
 
-Species: Human
+**Species: Human**
 
-Age: 28
+**Age: 28**
 
-Skills: [Whispering Breezes], [Glimmering Spark], [Mirthful Tinkling], [Fleeting Shadow]
+**Skills: [Whispering Breezes], [Glimmering Spark], [Mirthful Tinkling], [Fleeting Shadow]**
 
-Spells: None / None
+**Spells: None / None**
 
-Vitality: 30
+**Vitality: 30**
 
-Quests: None
+**Quests: None**
 
-Titles: [Whisperer of Elms], [Arcane Trinket Tracker], [Realm Drifter's Scribe]
+**Titles: [Whisperer of Elms], [Arcane Trinket Tracker], [Realm Drifter's Scribe]**
 
 Matthew stared, his eyes serious, putting his hand against his mouth, his nails pressing his lower lip.
 
@@ -1179,27 +1179,27 @@ According to Sophia, he had to pick up 200 flowers, 200 leaves, 200 fruits, and 
 
 But as soon as he was finished, the [System] finally handed him the kindness quest.
 
-Quest: Kindness Unleashed
+**Quest: Kindness Unleashed**
 
-Objective: Embark on a journey to spread kindness throughout the world. Complete the following tasks within the next 60 minutes:
+**Objective: Embark on a journey to spread kindness throughout the world. Complete the following tasks within the next 60 minutes:**
 
-- Healing Touch: Offer aid to three injured beings, whether they be mystical creatures, wandering adventurers, or distressed spirits.
+**- Healing Touch: Offer aid to three injured beings, whether they be mystical creatures, wandering adventurers, or distressed spirits.**
 
-- Nature's Embrace: Plant seeds of benevolence in three different locations to encourage the growth of vibrant, magical flora.
+**- Nature's Embrace: Plant seeds of benevolence in three different locations to encourage the growth of vibrant, magical flora.**
 
-- Melodic Serenity: Use a musical instrument to create a calming melody that resonates through the troubled areas, soothing both creatures and the environment.
+**- Melodic Serenity: Use a musical instrument to create a calming melody that resonates through the troubled areas, soothing both creatures and the environment.**
 
-- Wisdom Sharing: Engage in meaningful conversations with wise entities or beings, exchanging insights and kindness to uplift their spirits.
+**- Wisdom Sharing: Engage in meaningful conversations with wise entities or beings, exchanging insights and kindness to uplift their spirits.**
 
-Reward:
+**Reward:**
 
-- Experience Points (XP) Boost for embodying the essence of compassion and empathy.
+**- Experience Points (XP) Boost for embodying the essence of compassion and empathy.**
 
-- Rare Loot Drop Chance Increase as a result of the positive energy infused into your being.
+**- Rare Loot Drop Chance Increase as a result of the positive energy infused into your being.**
 
-- Gold Coins bestowed upon you by the grateful entities touched by your acts of kindness.
+**- Gold Coins bestowed upon you by the grateful entities touched by your acts of kindness.**
 
-- A mysterious token, imbued with magic, symbolizing your commitment to the cause of spreading goodwill.
+**- A mysterious token, imbued with magic, symbolizing your commitment to the cause of spreading goodwill.**
 
 "My goodness... This is so... I should be surprised, really, but at this point, I don't even know. It is what it is, huh. I've already reached the point where I'm normal with this now." He laughed.
 
@@ -1314,19 +1314,19 @@ Afterwards, he turned to his adventurer party and summarized what he had discuss
 
 On the day that his quest came, it felt as if the sounds of heaven graced the earth, releasing fumes of negative energy forming a figure in the distant fog. This figure soon became clear.
 
-Quest: Hobgoblin Menace
+**Quest: Hobgoblin Menace**
 
-Objective: Hunt down and eliminate the hobgoblin named "Mawkery" within the next 72 hours, as he poses a serious threat. He has mastered the art of blending in with human society and has already claimed the lives of several warlords.
+**Objective: Hunt down and eliminate the hobgoblin named "Mawkery" within the next 72 hours, as he poses a serious threat. He has mastered the art of blending in with human society and has already claimed the lives of several warlords.**
 
-Reward:
+**Reward:**
 
-Experience Points (XP) Boost
+**Experience Points (XP) Boost**
 
-Increased Chance of Rare Loot Drops
+**Increased Chance of Rare Loot Drops**
 
-Gold Coins
+**Gold Coins**
 
-Exclusive Hobgoblin Slayer Title
+**Exclusive Hobgoblin Slayer Title**
 
 Speaking of which, meanwhile, far away, Mawkery was standing among a group of bandits behind a giant bandit leader who barked at a group of adventurers.
 
@@ -1397,7 +1397,7 @@ In the meantime, in a tent nearby, the king of Matthew's city state watched Mawk
 
 "Right. Let's go..." He took a deep breath and cast the spell [Gloomcore], striking down the dragon in an instant with a beam of magic powered by negative emotion. This beam shifted between the colors violet, black, dark red, and green, ending with white feathery particles.
 
-Awesome job slaying that dragon! You've just earned yourself a whopping 12,000 XP! 🐉💥 Keep up the epic victories!
+**Awesome job slaying that dragon! You've just earned yourself a whopping 12,000 XP! 🐉💥 Keep up the epic victories!**
 
 The king smirked with his whole face, his wrinkles forming the darkest shadows.
 
@@ -1586,25 +1586,25 @@ After they were allowed to leave, Matthew returned home.
 
 You have failed to hit the hobgoblin menace! That's unfortunate. You lose 10,000 XP!
 
-Name: Matthew Cruz
+**Name: Matthew Cruz**
 
-Level: 72 -> 41
+**Level: 72 -> 41**
 
-Current experience: 148
+**Current experience: 148**
 
-Species: Human
+**Species: Human**
 
-Age: 25
+**Age: 25**
 
-Skills: None
+**Skills: None**
 
-Spells: None / None
+**Spells: None / None**
 
-Vitality: 15
+**Vitality: 15**
 
-Quests: None
+**Quests: None**
 
-Titles: [Goblin Slayer]
+**Titles: [Goblin Slayer]**
 
 He rubbed his forehead. "I don't get it anymore. Why is the [System] forcing me to engage in these quests anyway? What's the logic? I don't get it. I don't get it anymore. Is everything arbitrary at this point? Is the King just emotionally unstable? Is Mawkery just actually bad at war? Why is it that all his enemies make bad decisions that they lost to him? Were they so much worse? Where's the logic here? Why is it that I am the only one who cares about this? Are people just complacent? They don't want to think about making things better and just accept things the way they are? I mean, I come from Earth, I guess. It makes sense. I'm the only one who knows that things could be so much better. If they just read a book, then they would know how to make better decisions. But everyone is so 'ugh' here. It feels like I'm looking at a bunch of squealing acorns or something. Humans are better than this, goddammit! We created spaceships and rockets and shit! I don't get why these people, being people with humanities inside them, are so irrational and 'ugh'! It's like staring at a bunch of dweebs who eat dog shit all day. I don't understand anything anymore, man! Why do people do do?"
 
@@ -1950,19 +1950,19 @@ Matthew said that he could help her, so he asked the most relevant question, "Do
 
 "I do. I'll show you right now."
 
-Quest: Necrotic Restoration
+**Quest: Necrotic Restoration**
 
-Objective: Seek out and retrieve the ancient tome of necrotic remedies hidden within the forbidden catacombs beneath the Old Oak Grove. Within the tome lies the knowledge necessary to stabilize and control the necrotic energy coursing through your right arm.
+**Objective: Seek out and retrieve the ancient tome of necrotic remedies hidden within the forbidden catacombs beneath the Old Oak Grove. Within the tome lies the knowledge necessary to stabilize and control the necrotic energy coursing through your right arm.**
 
-Reward:
+**Reward:**
 
-Mastery of Necrotic Arts: Unlock advanced necromantic techniques and spells, allowing you to harness the power of the undead with greater precision and control.
+**Mastery of Necrotic Arts: Unlock advanced necromantic techniques and spells, allowing you to harness the power of the undead with greater precision and control.**
 
-Necrotic Affinity Enhancement: Strengthen your connection to the realm of death, granting you heightened senses and awareness of necrotic energies in your surroundings.
+**Necrotic Affinity Enhancement: Strengthen your connection to the realm of death, granting you heightened senses and awareness of necrotic energies in your surroundings.**
 
-Necromancer's Sigil: Receive a mystical sigil imbued with protective enchantments, safeguarding you from harmful necrotic influences and bolstering your magical prowess.
+**Necromancer's Sigil: Receive a mystical sigil imbued with protective enchantments, safeguarding you from harmful necrotic influences and bolstering your magical prowess.**
 
-Invitation to the Necromancer's Council: Gain recognition and respect among fellow necromancers as a skilled practitioner. Earn the opportunity to join the prestigious Necromancer's Council, where you can share knowledge, seek guidance, and forge alliances with others of your kind.
+**Invitation to the Necromancer's Council: Gain recognition and respect among fellow necromancers as a skilled practitioner. Earn the opportunity to join the prestigious Necromancer's Council, where you can share knowledge, seek guidance, and forge alliances with others of your kind.**
 
 In light of this, Matthew became much more animated, finding something he could benefit from. This meant that it was in his best interests to help her out, making it a win-win situation for the both of them. "This is so good!" If he could find a kindred spirit who actually aligned with his goals and interests in her, then he could stave off the loss of his Earth family, life, and friends and the stress from the torturous hardship he experienced in this world.
 
@@ -2146,7 +2146,7 @@ He broke and allowed himself to fall to his knees with his forearms resting agai
 
 After he spent 45 minutes in that position to contemplate, the [System] recognized his efforts.
 
-You've leveled up your wellbeing by diving into the past and crafting a stronger, more authentic version of yourself. 🚀 Way to go, champ! 🌟 Here's 10 XP to boost your progress even further! 💥
+**You've leveled up your wellbeing by diving into the past and crafting a stronger, more authentic version of yourself. 🚀 Way to go, champ! 🌟 Here's 10 XP to boost your progress even further! 💥**
 
 "The fuck... When did I become a statistic?" He was serious for a moment before he burst into genuine laughter. "What the hell is me..." He smiled, tears dripping down, before he stared at the dark, seeing two eyes staring back at him.
 
@@ -2839,31 +2839,31 @@ He stabbed a goblin charging at one of his adventurer friends.
 
 The [System] supported his journey.
 
-Kudos! That goblin takedown was pure genius! 🌟 Your reward? A cool 1+ XP for the win! 🎉
+**Kudos! That goblin takedown was pure genius! 🌟 Your reward? A cool 1+ XP for the win! 🎉**
 
-Smooth move! Your swift defeat of the goblin earns you a sweet 1+ XP boost! 🚀 Keep up the momentum! 🎉
+**Smooth move! Your swift defeat of the goblin earns you a sweet 1+ XP boost! 🚀 Keep up the momentum! 🎉**
 
-Incredible job with that goblin takedown! 🔥 Enjoy your 1+ XP reward for the victory! You're on fire! 🎉
+**Incredible job with that goblin takedown! 🔥 Enjoy your 1+ XP reward for the victory! You're on fire! 🎉**
 
 His new skill was [Whirlwind Waltz], and he got it because its cast time was instant.
 
-Whirlwind Waltz (Level 1)
+**Whirlwind Waltz (Level 1)**
 
-Cost: 100 Mana
+**Cost: 100 Mana**
 
-Cooldown: 8 hours
+**Cooldown: 8 hours**
 
-Cast Time: Instant
+**Cast Time: Instant**
 
-Effect Radius: 250
+**Effect Radius: 250**
 
-Active: The user gracefully dances, creating a whirlwind of energy around them that lasts for 4 seconds. Enemies within the whirlwind are lifted off the ground, unable to move or attack for 1.5 seconds. After the whirlwind dissipates, affected enemies are slowed by 30\% for 2 seconds.
+**Active: The user gracefully dances, creating a whirlwind of energy around them that lasts for 4 seconds. Enemies within the whirlwind are lifted off the ground, unable to move or attack for 1.5 seconds. After the whirlwind dissipates, affected enemies are slowed by 30\% for 2 seconds.**
 
-Duration: 4 seconds
+**Duration: 4 seconds**
 
-Immobilization Duration: 1.5 seconds
+**Immobilization Duration: 1.5 seconds**
 
-Slow Duration: 2 seconds
+**Slow Duration: 2 seconds**
 
 Matthew shouted, fighting alongside the adventurers. In the meantime, Rodney and his team were breaking block-shaped objects littered in the distance.
 
@@ -2943,21 +2943,21 @@ Matthew followed along skipping.
 
 As soon as they completed the dungeon, Matthew got a quest.
 
-Adventure Awaits: Skeleton Festivity!
+**Adventure Awaits: Skeleton Festivity!**
 
-Embark on a thrilling quest to spread joy throughout the land by eliminating 25 mischievous skeletons within the next 8 hours. Happy belated 25th birthday!
+**Embark on a thrilling quest to spread joy throughout the land by eliminating 25 mischievous skeletons within the next 8 hours. Happy belated 25th birthday!**
 
-Rewards Await:
+**Rewards Await:**
 
-Experience Points (XP) Boost to elevate your journey to new heights!
+**Experience Points (XP) Boost to elevate your journey to new heights!**
 
-Rare Loot Drop Chance Increase, enhancing your chances of discovering treasures beyond imagination!
+**Rare Loot Drop Chance Increase, enhancing your chances of discovering treasures beyond imagination!**
 
-Gold Coins to enrich your coffers and fund your next grand adventure!
+**Gold Coins to enrich your coffers and fund your next grand adventure!**
 
-Exclusive Skeleton Slayer Title, earning you recognition as a hero among heroes in the realm!
+**Exclusive Skeleton Slayer Title, earning you recognition as a hero among heroes in the realm!**
 
-Join the jubilant fray and let the goblin-slaying festivities commence!
+**Join the jubilant fray and let the goblin-slaying festivities commence!**
 
 # Chapter 14 - Detaching From Ingrained Tendencies
 
@@ -3120,25 +3120,25 @@ When Matthew headed to the cafe again, he saw a familiar face, the registrant he
 
 In the meantime, he finally felt rested and looked at his [System] notifications.
 
-🏆 Quest Completed: Skeleton Festivity!
+**🏆 Quest Completed: Skeleton Festivity!**
 
-Congratulations, valiant adventurer! Your dedication to spreading joy throughout the land by eliminating 25 mischievous skeletons has brought triumph and celebration to all.
+**Congratulations, valiant adventurer! Your dedication to spreading joy throughout the land by eliminating 25 mischievous skeletons has brought triumph and celebration to all.**
 
-🎯 Objective Achieved:
+**🎯 Objective Achieved:**
 
-Eliminated 25 skeletons within the allotted 8 hours.
+**Eliminated 25 skeletons within the allotted 8 hours.**
 
-🎁 Rewards Earned:
+**🎁 Rewards Earned:**
 
-Experience Points (XP) Boost: Your unwavering commitment to the Skeleton Festivity has earned you a significant 200 experience points, propelling you further along your epic journey.
+**Experience Points (XP) Boost: Your unwavering commitment to the Skeleton Festivity has earned you a significant 200 experience points, propelling you further along your epic journey.**
 
-Rare Loot Drop Chance Increase: Your heroic deeds have attracted the favor of fortune. Your chances of discovering rare and priceless loot have now risen to extraordinary levels.
+**Rare Loot Drop Chance Increase: Your heroic deeds have attracted the favor of fortune. Your chances of discovering rare and priceless loot have now risen to extraordinary levels.**
 
-Gold Coins: A bountiful reward of 10 gold coins for your successful skeleton-slaying endeavors. May they serve you well on your future adventures.
+**Gold Coins: A bountiful reward of 10 gold coins for your successful skeleton-slaying endeavors. May they serve you well on your future adventures.**
 
-Exclusive Skeleton Slayer Title: With your exceptional performance, you've rightfully earned the prestigious title of "Skeleton Slayer." Display it proudly, for it signifies your unmatched valor and heroism in the realm.
+**Exclusive Skeleton Slayer Title: With your exceptional performance, you've rightfully earned the prestigious title of "Skeleton Slayer." Display it proudly, for it signifies your unmatched valor and heroism in the realm.**
 
-Join the jubilant fray and revel in the glory of your achievements! Let the Skeleton Festivity continue, as you stand as a beacon of hope and courage for all!
+**Join the jubilant fray and revel in the glory of your achievements! Let the Skeleton Festivity continue, as you stand as a beacon of hope and courage for all!**
 
 At the moment, since the three people in front of him were engaged in a conversation and no one else was bothering him, he slowed down for a moment.
 
@@ -3210,21 +3210,21 @@ As if he predicted it, the [System] gave him a new quest:
 
 A piano melody started playing in Matthew's head. It came from the [System].
 
-Quest: Adventurer Ambush
+**Quest: Adventurer Ambush**
 
-Objective: Assassinate three skilled adventurers within the next 24 hours.
+**Objective: Assassinate three skilled adventurers within the next 24 hours.**
 
-Reward:
+**Reward:**
 
-Skill Mastery Enhancement
+**Skill Mastery Enhancement**
 
-Access to Restricted Guild Resources
+**Access to Restricted Guild Resources**
 
-Valuable Artifacts
+**Valuable Artifacts**
 
-Prestigious Assassin's Title
+**Prestigious Assassin's Title**
 
-Matthew wondered what the purpose of the [System] was, as the cheery voices of the three adventurers began to resound, reminding him of the people he had known back on Earth, the thousands of experiences he had, and the many memories pervading that time of his life. Now, he was here, castrated by a power above him and beyond his comprehension—the [System]. In response to loss, a fuel of flame and rage began in his heart.
+**Matthew wondered what the purpose of the [System] was, as the cheery voices of the three adventurers began to resound, reminding him of the people he had known back on Earth, the thousands of experiences he had, and the many memories pervading that time of his life. Now, he was here, castrated by a power above him and beyond his comprehension—the [System]. In response to loss, a fuel of flame and rage began in his heart.**
 
 He wondered if the violence of the [System] was inevitable, or if that was the quest most adventurers soon got.
 
@@ -3502,35 +3502,35 @@ Soon, Matthew would kill hundreds.
 
 In the end, Matthew had finally finished three months, and today marked a fresh start into his life with the onset of the third [System] quest.
 
-Quest: Bridge of Knowledge
+**Quest: Bridge of Knowledge**
 
-Objective: Establish and run a school aimed at teaching basic literacy, math, survival skills, and fostering understanding between goblin and human children within the next six months.
+**Objective: Establish and run a school aimed at teaching basic literacy, math, survival skills, and fostering understanding between goblin and human children within the next six months.**
 
-Tasks:
+**Tasks:**
 
-Secure a suitable location for the school that is accessible to both goblin and human communities.
+**Secure a suitable location for the school that is accessible to both goblin and human communities.**
 
-Recruit qualified teachers proficient in both goblin and human languages, as well as experienced in teaching basic literacy, math, and survival skills.
+**Recruit qualified teachers proficient in both goblin and human languages, as well as experienced in teaching basic literacy, math, and survival skills.**
 
-Develop a curriculum that incorporates cultural sensitivity training, empathy-building exercises, and collaborative learning activities tailored to both goblin and human children.
+**Develop a curriculum that incorporates cultural sensitivity training, empathy-building exercises, and collaborative learning activities tailored to both goblin and human children.**
 
-Obtain necessary resources such as textbooks, writing materials, educational tools, and facilities for practical survival skill training.
+**Obtain necessary resources such as textbooks, writing materials, educational tools, and facilities for practical survival skill training.**
 
-Reach out to local goblin and human communities to encourage enrollment of children in the school and promote inter-species cooperation and understanding.
+**Reach out to local goblin and human communities to encourage enrollment of children in the school and promote inter-species cooperation and understanding.**
 
-Oversee the day-to-day operations of the school, ensuring a safe and inclusive learning environment for all students.
+**Oversee the day-to-day operations of the school, ensuring a safe and inclusive learning environment for all students.**
 
-Evaluate the effectiveness of the program through regular assessments and feedback from students, teachers, and community members.
+**Evaluate the effectiveness of the program through regular assessments and feedback from students, teachers, and community members.**
 
-Reward:
+**Reward:**
 
-Satisfaction of fostering harmony and understanding between goblin and human communities.
+**Satisfaction of fostering harmony and understanding between goblin and human communities.**
 
-Recognition as a peacemaker and educator in both goblin and human societies.
+**Recognition as a peacemaker and educator in both goblin and human societies.**
 
-Opportunity to witness the positive impact of education on bridging cultural divides and promoting cooperation.
+**Opportunity to witness the positive impact of education on bridging cultural divides and promoting cooperation.**
 
-Potential for future collaborations and partnerships aimed at furthering inter-species understanding and cooperation.
+**Potential for future collaborations and partnerships aimed at furthering inter-species understanding and cooperation.**
 
 "Who made this!" Matthew's tone was furious.
 
@@ -4155,13 +4155,13 @@ First, he said impetuously: "What's this all about? First, you don't answer my q
 
 The [System] ignored him and forced him to send a friend request to a particular person named "Mark Reader".
 
-[Witchman 💀💀💀: Hello, I forgot that I shouldn't be contacting newbies. But welcome to the world. I'm also from Earth. I notice you've been ignoring my friend requests for a while now, so I've been spamming you the whole time. Plus, I notice your name's changed? How did you do that? Weren't you Sophia Strong before?]
+**[Witchman 💀💀💀: Hello, I forgot that I shouldn't be contacting newbies. But welcome to the world. I'm also from Earth. I notice you've been ignoring my friend requests for a while now, so I've been spamming you the whole time. Plus, I notice your name's changed? How did you do that? Weren't you Sophia Strong before?]**
 
 These were the [System]'s words, particularly since it had been trying to contact Sophia Strong for a while now. But Sophia died, so it wanted to see how Mark Reader responded.
 
 The [System] was a manager of millions of people.
 
-[Mark Reader: Oh nice!]
+**[Mark Reader: Oh nice!]**
 
 Looking at everything that happened recently, Witchman reflected on his life. He wanted to abandon the past, as three months was already too long to know someone. Back on Earth, he remembered knowing people over the course of 6 years, but he only met them every few months at events. Three months of having regular contact with someone in the same city was enough to make Witchman tired of it all. He wanted to get away. Maybe, if he was a child again, he would be content with exploring the world from 11 years old to 16 years old again. But he was 25 years old, and he was already mature enough to know when to quit if it was already beginning to consume him. In the end, all of those things he considered successes were all part of a broader picture, system, and community that he could never truly comprehend in a deeper level. All he could was be normal again and save himself despite all the success his job and his life offered him at hte time. He wanted to escape being top 1 rising adventurer. He wanted to escape being all of that. He just wanted to be human again.
 
@@ -4169,17 +4169,17 @@ He hurried out of there and disappeared where he returned to the adventurer guil
 
 Since he wanted to leave the past behind, he ventured forth and decided to begin posting. He created three new threads in the category "General". Their titles were the following.
 
-[Found diamond at 65 y.]
+**[Found diamond at 65 y.]**
 
-[Survive the disasters ist still the best spell.]
+**[Survive the disasters ist still the best spell.]**
 
-[Ninja tabis!]
+**[Ninja tabis!]**
 
 They were all references from his favorite video games, but the [System] had already told him that most of the people here were not from Earth.
 
 However, he soon got a reply on his thread.
 
-[poker_man29: ? Where can I get this]
+**[poker_man29: ? Where can I get this]**
 
 He didn't want to continue the conversation, so he looked around himself, being inside an inn again.
 
@@ -4191,7 +4191,7 @@ He tried so many things, but nothing really worked. He realized that doing thing
 
 He checked the forums and asked for help, being anonymous.
 
-[Witchman 💀💀💀 What should I do everyone? I've been trying my best to work it out on my own as an adventurer, but it seems that this world is pretty much set on killing me.]
+**[Witchman 💀💀💀 What should I do everyone? I've been trying my best to work it out on my own as an adventurer, but it seems that this world is pretty much set on killing me.]**
 
 He noticed that around 7,000 people were online in the whole forum, but the members were even greater at around 10 million.
 
@@ -4505,31 +4505,31 @@ The witch orb fell into his hands, and he cackled like a maniac. "Mine! Mine! Mi
 
 # Chapter 22 - Shadows of Progress
 
-Name: Matthew Cruz
+**Name: Matthew Cruz**
 
-Level: 42
+**Level: 42**
 
-Current experience: 8
+**Current experience: 8**
 
-Species: Human
+**Species: Human**
 
-Age: 25
+**Age: 25**
 
-Skills: [Whirlwind Waltz]
+**Skills: [Whirlwind Waltz]**
 
-Spells: None / None
+**Spells: None / None**
 
-Vitality: 15
+**Vitality: 15**
 
-Quests: [Bridge of Knowledge]
+**Quests: [Bridge of Knowledge]**
 
-Titles: [Goblin Slayer], [Skeleton Slayer]
+**Titles: [Goblin Slayer], [Skeleton Slayer]**
 
 He checked the two titles.
 
-[The Goblin Slayer title boosts all damage dealt to goblins by 12%.]
+**[The Goblin Slayer title boosts all damage dealt to goblins by 12%.]**
 
-[The Skeleton Slayer title boosts all damage dealt to skeletons by 12%.]
+**[The Skeleton Slayer title boosts all damage dealt to skeletons by 12%.]**
 
 As for the orb's origin, it was delivered here with the help of a several people at the [Forums]. The [Forums] had many powerful people willing to patronize and extend their influence across the world, so they hoped to contract others willing to increase their power.
 
@@ -5042,15 +5042,15 @@ He smiled with disdain.
 
 With the goblin prepared, as Witchman ran, he adjusted his aim and gutted it on the neck, moving his breathing with precision.
 
-Impressive takedown! You've just scored a solid 7+ XP for that solo victory! 🎉
+**Impressive takedown! You've just scored a solid 7+ XP for that solo victory! 🎉**
 
 He looked for another one and immediately pierced it on the same spot. He was becoming more adamant. He was charging them one by one and catching them off guard with how fast he angled and shifted the starting point of his spear thrusts. His arm muscles progressively gloated.
 
-Nicely done on that solo goblin takedown! Your skill earns you a cool 7+ XP! 🎉
+**Nicely done on that solo goblin takedown! Your skill earns you a cool 7+ XP! 🎉**
 
 He lacerated a single armored goblin three times consecutively, breaking its restarting momentum the same number of times.
 
-Great job defeating that armored goblin! You've earned yourself 42+ XP for your triumph! 🎉
+**Great job defeating that armored goblin! You've earned yourself 42+ XP for your triumph! 🎉**
 
 Several goblins appeared, trying to slow him down with their arrows.
 
@@ -5064,33 +5064,33 @@ The goblins were solo-killed one by one, not ever being able to relay the reinfo
 
 10 goblins in total were dispatched, and his [Whirlwind Waltz] was used.
 
-Great job defeating 3 armored goblins by yourself speedily! You've earned yourself 189+ XP for your triumph! 🎉 50% bonus XP due to speed!
+**Great job defeating 3 armored goblins by yourself speedily! You've earned yourself 189+ XP for your triumph! 🎉 50% bonus XP due to speed!**
 
-Great job defeating 4 goblins by yourself quickly! You've earned yourself 42+ XP for your triumph! 🎉 50% bonus XP due to speed!
+**Great job defeating 4 goblins by yourself quickly! You've earned yourself 42+ XP for your triumph! 🎉 50% bonus XP due to speed!**
 
 He celebrated the win.
 
-Name: Matthew Cruz
+**Name: Matthew Cruz**
 
-Level: 42 -> 43
+**Level: 42 -> 43**
 
-Current experience: 105
+**Current experience: 105**
 
-Species: Human
+**Species: Human**
 
-Age: 25
+**Age: 25**
 
-Skills: [Whirlwind Waltz]
+**Skills: [Whirlwind Waltz]**
 
-Spells: None / None
+**Spells: None / None**
 
-Vitality: 15
+**Vitality: 15**
 
-Quests: [Bridge of Knowledge]
+**Quests: [Bridge of Knowledge]**
 
-Titles: [Goblin Slayer], [Skeleton Slayer], [Overlord's Gifted]
+**Titles: [Goblin Slayer], [Skeleton Slayer], [Overlord's Gifted]**
 
-Unused stat points: 86
+**Unused stat points: 86**
 
 Afterwards, he visited a familiar golem, the one he had first met in this world, wondering how golems were used.
 
@@ -5667,7 +5667,7 @@ Witchman used the skill against them even with the 0.75-second cast time, and th
 
 This was his first calculated kill.
 
-Great job defeating 4 goblins by yourself quickly! You've earned yourself 42+ XP for your triumph! 🎉 50% bonus XP due to speed!
+**Great job defeating 4 goblins by yourself quickly! You've earned yourself 42+ XP for your triumph! 🎉 50% bonus XP due to speed!**
 
 He didn't mention it before, but he was in debt. The war made food go up in price threefold, and he spent lots of money to organize adventurer quest events. He even quit his employee relations job to help out more, but he later realized that was a mistake.
 
@@ -5928,11 +5928,11 @@ Michel had a response: "You can help them, Matthew."
 
 Matthew looked at his notifications.
 
-🌟 Congratulations on your triumphant solo elimination of a level-26 bandit! Your combat prowess secures you a rewarding 100+ XP! 🌟 2+ skill points! 🎉
+**🌟 Congratulations on your triumphant solo elimination of a level-26 bandit! Your combat prowess secures you a rewarding 100+ XP! 🌟 2+ skill points! 🎉**
 
-🌟 Great job on that solo level-24 bandit takedown! Your combat expertise grants you a gratifying 100+ XP! 🌟 2+ skill points! 🎉
+**🌟 Great job on that solo level-24 bandit takedown! Your combat expertise grants you a gratifying 100+ XP! 🌟 2+ skill points! 🎉**
 
-🌟 Fantastic work on defeating that solo level-27 bandit! Your combat finesse warrants you a delightful 100+ XP! 🌟 3+ skill points! 🎉
+**🌟 Fantastic work on defeating that solo level-27 bandit! Your combat finesse warrants you a delightful 100+ XP! 🌟 3+ skill points! 🎉**
 
 "It's up to you," she continued.
 
@@ -5951,49 +5951,49 @@ Duration: 4.875 seconds Immobilization Duration: 2.375 seconds Slow Duration: 2.
 
 "Wait a minute..." Witchman's mouth was agape. "I have to put all my points into mana. No one told me this. Frick." It was a minor mistake, and he would fix it sooner or later.
 
-Name: Matthew Cruz
+**Name: Matthew Cruz**
 
-Level: 44
+**Level: 44**
 
-Current experience: 218
+**Current experience: 218**
 
-Species: Human
+**Species: Human**
 
-Age: 25
+**Age: 25**
 
-Skills: [Whirlwind Waltz], [Cattle Decapitation], [Solipsistic Slaughter]
+**Skills: [Whirlwind Waltz], [Cattle Decapitation], [Solipsistic Slaughter]**
 
-Spells: None / None
+**Spells: None / None**
 
-Vitality: 15
+**Vitality: 15**
 
-Quests: [Bridge of Knowledge]
+**Quests: [Bridge of Knowledge]**
 
-Titles: [Goblin Slayer], [Skeleton Slayer], [Overlord's Gifted]
+**Titles: [Goblin Slayer], [Skeleton Slayer], [Overlord's Gifted]**
 
-Unused stat points: 46.2
+**Unused stat points: 46.2**
 
 He still didn't understand what [Vitality] was supposed to represent, and it didn't seem to increase along with his other stats. If the [System] could hide his skills from him—basically gatekeeping him from receiving the skills he deserved—then he might not answer him about [Vitality].
 
-Attack Damage🪓: 75
+**Attack Damage🪓: 75**
 
-Ability Power🔥: 27
+**Ability Power🔥: 27**
 
-Armor🛡️: 57
+**Armor🛡️: 57**
 
-Magic Resistance🚫: 60
+**Magic Resistance🚫: 60**
 
-Health🗿: 906
+**Health🗿: 906**
 
-Mana💧: 311
+**Mana💧: 311**
 
-Mana regeneration💧 (per 10 minutes): 7
+**Mana regeneration💧 (per 10 minutes): 7**
 
 But he first checked the cost of mana and mana regeneration.
 
-Mana💧: 1.4 stat point (SP)
+**Mana💧: 1.4 stat point (SP)**
 
-Mana regeneration💧: 60 SP
+**Mana regeneration💧: 60 SP**
 
 "Huh..."
 
@@ -6001,11 +6001,11 @@ Michel didn't bother him since she was also writing some letters on her own, sen
 
 Witchman noticed this and remembered his [System] and the [Forums]. After the [System] himself was unresponsive, he asked the only person he was in private direct messaging with, [Mark Reader], about using the [System].
 
-[Witchman 💀💀💀: Hi, I kind of forgot how to use the private messaging. Can I contact someone who doesn't know about private messaging? I don't know how to make that [System] send a message to someone by name. Is it possible? Thanks in advance. I hope this message reaches you well.]
+**[Witchman 💀💀💀: Hi, I kind of forgot how to use the private messaging. Can I contact someone who doesn't know about private messaging? I don't know how to make that [System] send a message to someone by name. Is it possible? Thanks in advance. I hope this message reaches you well.]**
 
 He waited for a while, staring at Michel's clothes.
 
-[Mark Reader: I don't know.]
+**[Mark Reader: I don't know.]**
 
 He wondered whether it was fruitful for him to be delving into Michel's business.
 
@@ -6172,11 +6172,11 @@ Returning to Witchman, he was arranging his things, and his mind was churning. H
 
 His attacks reaped a bountiful harvest.
 
-🌟 Congratulations on your triumphant solo elimination of 46 level-3 slimes! Your combat prowess secures you a rewarding 100+ XP! 🌟
+**🌟 Congratulations on your triumphant solo elimination of 46 level-3 slimes! Your combat prowess secures you a rewarding 100+ XP! 🌟**
 
-🌟 Congratulations on your triumphant solo elimination of 26 level-4 slimes! Your combat prowess secures you a rewarding 100+ XP! 🌟
+**🌟 Congratulations on your triumphant solo elimination of 26 level-4 slimes! Your combat prowess secures you a rewarding 100+ XP! 🌟**
 
-🌟 Congratulations on your triumphant solo elimination of 35 level-5 slimes! Your combat prowess secures you a rewarding 100+ XP! 🌟
+**🌟 Congratulations on your triumphant solo elimination of 35 level-5 slimes! Your combat prowess secures you a rewarding 100+ XP! 🌟**
 
 Though, the calculation didn't make sense. Why was it limited to 100 experience?
 
@@ -6294,19 +6294,19 @@ He focused his efforts on listening to the [System]'s regularly supplied quests,
 
 He found one relevant quest.
 
-Quest Name: Investigating the Goblin Menace
+**Quest Name: Investigating the Goblin Menace**
 
-Quest Description: Rumors have been spreading about a new goblin threat led by a powerful leader known as Grimtusk. Reports suggest that these goblins have developed advanced magic spells, making them more dangerous than ever before. Your task is to investigate the source of this goblin resurgence, gather intelligence on their capabilities, and devise a strategy to counter their threat. Be cautious, as encountering Grimtusk and his minions will pose a significant challenge. Your bravery and tactical skills will be crucial in safeguarding the region from this growing menace.
+**Quest Description: Rumors have been spreading about a new goblin threat led by a powerful leader known as Grimtusk. Reports suggest that these goblins have developed advanced magic spells, making them more dangerous than ever before. Your task is to investigate the source of this goblin resurgence, gather intelligence on their capabilities, and devise a strategy to counter their threat. Be cautious, as encountering Grimtusk and his minions will pose a significant challenge. Your bravery and tactical skills will be crucial in safeguarding the region from this growing menace.**
 
-Objective 1: Investigate reports of increased goblin activity in the region.
+**Objective 1: Investigate reports of increased goblin activity in the region.**
 
-Objective 2: Gather intelligence on the goblins' new magic spells and their leader, Grimtusk.
+**Objective 2: Gather intelligence on the goblins' new magic spells and their leader, Grimtusk.**
 
-Objective 3: Develop a strategy to confront and neutralize the goblin threat.
+**Objective 3: Develop a strategy to confront and neutralize the goblin threat.**
 
-Rewards:
+**Rewards:**
 
-Experience points based on successful completion of objectives. Access to valuable information and resources related to goblin magic. Recognition and gratitude from the local authorities for your efforts in protecting the region. Potential discovery of rare loot or artifacts hidden by the goblins.
+**Experience points based on successful completion of objectives. Access to valuable information and resources related to goblin magic. Recognition and gratitude from the local authorities for your efforts in protecting the region. Potential discovery of rare loot or artifacts hidden by the goblins.**
 
 # Chapter 33 - Journey to the Unknown: Exploring Life Beyond the Battleground
 
@@ -6651,9 +6651,9 @@ The timing was off, and the pitch was the sword twanging all over the place. In 
 
 The showers of praise upon his being became apparent.
 
-Great job on defeating that solo goblin! Your expertise nets you a solid 7+ XP! 🎉
+**Great job on defeating that solo goblin! Your expertise nets you a solid 7+ XP! 🎉**
 
-Well done on taking down that armored goblin! Your victory earns you a hefty 42+ XP! 🎉
+**Well done on taking down that armored goblin! Your victory earns you a hefty 42+ XP! 🎉**
 
 He lacerated a single armored goblin three times consecutively, breaking its restarting momentum the same number of times. It was a familiar technique, which worked into his rhythm instinctively.
 
@@ -6737,7 +6737,7 @@ To prove the practicality of this feat, Scrappy was already begining to sense hi
 
 Scrappy noticed his first skill [Whirlwind Waltz] slowly becoming more concrete in his senses. Even now, the sense of proprioception along with hand-to-eye coordination, among other senses and cognitive functions, converged cognitively to form a unitary amount.
 
-+10 XP for improving your cognition by 10% over the course of three months and two weeks. This message will be the first of many cognitive checks to verify and celebrate your efforts. Continue to be productive, hard worker!
+**+10 XP for improving your cognition by 10% over the course of three months and two weeks. This message will be the first of many cognitive checks to verify and celebrate your efforts. Continue to be productive, hard worker!**
 
 Even the [System] messages were shifting stylistically in response to this new gamified aspect.
 
@@ -6771,7 +6771,7 @@ The [System] opened his cloak and showed Matthew a floating holographic screen t
 
 He showed Scrappy one of his earlier notifications.
 
-Nice job rocking that fight! The gods are totally keeping an eye on you! 😇 Your reward? Way more XP than usual—12,000+!
+**Nice job rocking that fight! The gods are totally keeping an eye on you! 😇 Your reward? Way more XP than usual—12,000+!**
 
 "How does that change anything? What's so special about me? He said that, but he didn't actually think so normal as to feel encumbered. In fact, he was demonstrably ready to enact his will at any time. The fight was on.
 
@@ -6863,35 +6863,35 @@ The goblins flew, wings guiding their flight to heavenly places. It hit the wall
 
 Scrappy raised his hand, his outfit bearing its fangs. "I am no man. I am God."
 
-🌟 You've summoned light from the shadows! +1 goblin rescued! +20 XP
+**🌟 You've summoned light from the shadows! +1 goblin rescued! +20 XP**
 
-🎉 Hooray! You've banished the darkness! +1 goblin liberated! +20 XP
+**🎉 Hooray! You've banished the darkness! +1 goblin liberated! +20 XP**
 
-🌈 Congratulations! You've illuminated the abyss! +1 goblin emancipated! +20 XP
+**🌈 Congratulations! You've illuminated the abyss! +1 goblin emancipated! +20 XP**
 
-🔥 Behold! Light emerges from the gloom! +1 goblin freed! +20 XP
+**🔥 Behold! Light emerges from the gloom! +1 goblin freed! +20 XP**
 
-🎊 Celebrate! You've dispelled the darkness! +1 goblin released! +20 XP
+**🎊 Celebrate! You've dispelled the darkness! +1 goblin released! +20 XP**
 
-💡 You've sparked life amidst the darkness! +1 goblin liberated! +20 XP
+**💡 You've sparked life amidst the darkness! +1 goblin liberated! +20 XP**
 
-🌠 Marvelous! You've vanquished the shadows! +1 goblin rescued! +20 XP
+**🌠 Marvelous! You've vanquished the shadows! +1 goblin rescued! +20 XP**
 
-🌞 Bravo! You've brought forth daylight! +1 goblin saved! +20 XP
+**🌞 Bravo! You've brought forth daylight! +1 goblin saved! +20 XP**
 
-🏮 A triumph! You've illuminated the night! +1 goblin emancipated! +20 XP
+**🏮 A triumph! You've illuminated the night! +1 goblin emancipated! +20 XP**
 
-🎆 Cheers! You've shattered the darkness! +1 goblin freed! +20 XP
+**🎆 Cheers! You've shattered the darkness! +1 goblin freed! +20 XP**
 
-🌄 Amazing! You've conquered the dusk! +1 goblin liberated! +20 XP
+**🌄 Amazing! You've conquered the dusk! +1 goblin liberated! +20 XP**
 
-✨ Splendid! You've summoned radiance! +1 goblin saved! +20 XP
+**✨ Splendid! You've summoned radiance! +1 goblin saved! +20 XP**
 
-🌅 Incredible! You've pierced through the gloom! +1 goblin rescued! +20 XP
+**🌅 Incredible! You've pierced through the gloom! +1 goblin rescued! +20 XP**
 
-🌌 Astounding! You've unveiled the stars! +1 goblin emancipated! +20 XP
+**🌌 Astounding! You've unveiled the stars! +1 goblin emancipated! +20 XP**
 
-🌇 Fantastic! You've painted the horizon! +1 goblin freed! +20 XP
+**🌇 Fantastic! You've painted the horizon! +1 goblin freed! +20 XP**
 
 He closed his eyes, embracing the confirmations.
 
@@ -7437,41 +7437,41 @@ At his first quest in a while in this city, he found out that he didn't have to 
 
 Sooner or later, he checked his stats, gaining some experience.
 
-Name: Matthew Cruz
+**Name: Matthew Cruz**
 
-Level: 48
+**Level: 48**
 
-Current experience: 103
+**Current experience: 103**
 
-Species: Human
+**Species: Human**
 
-Age: 25
+**Age: 25**
 
-Skills: [Whirlwind Waltz], [Cattle Decapitation], [Solipsistic Slaughter]
+**Skills: [Whirlwind Waltz], [Cattle Decapitation], [Solipsistic Slaughter]**
 
-Spells: None / None
+**Spells: None / None**
 
-Vitality: 15
+**Vitality: 15**
 
-Quests: [Bridge of Knowledge]
+**Quests: [Bridge of Knowledge]**
 
-Titles: [Goblin Slayer], [Skeleton Slayer], [Overlord's Gifted]
+**Titles: [Goblin Slayer], [Skeleton Slayer], [Overlord's Gifted]**
 
-Unused stat points: 247.2
+**Unused stat points: 247.2**
 
-Attack Damage🪓: 75
+**Attack Damage🪓: 75**
 
-Ability Power🔥: 27
+**Ability Power🔥: 27**
 
-Armor🛡️: 57
+**Armor🛡️: 57**
 
-Magic Resistance🚫: 60
+**Magic Resistance🚫: 60**
 
-Health🗿: 906
+**Health🗿: 906**
 
-Mana💧: 311
+**Mana💧: 311**
 
-Mana regeneration💧 (per 10 minutes): 7
+**Mana regeneration💧 (per 10 minutes): 7**
 
 He hadn't used his stat points even now. The past week was troubling. He wondered if the stat points would go down overtime if he didn't use it. He had to be careful because something could happen. The quests he left unfinished recently had not punished him. But sooner or later, this habit of delaying tasks would come back to bite him.
 
@@ -7512,11 +7512,11 @@ Matthew used his skill [Whirlwind Waltz], crushing the goblins even more immedia
 
 He beat the first one that approached unstrategically to shreds with a spear, pulling them by their head aside.
 
-Well done on vanquishing the armored goblin! Your valor has granted you 42+ XP, marking a significant milestone in your journey! 🎉 Additionally, you've been bestowed with a temporary boost of +2 strength, courtesy of the city-wide enhancement known as the [Strength Beacon]. Embrace this newfound power as you continue your adventures!
+**Well done on vanquishing the armored goblin! Your valor has granted you 42+ XP, marking a significant milestone in your journey! 🎉 Additionally, you've been bestowed with a temporary boost of +2 strength, courtesy of the city-wide enhancement known as the [Strength Beacon]. Embrace this newfound power as you continue your adventures!**
 
 Retreating from the coming armored goblins, Matthew was surprise. Once outside, he looked around at the forest within the bounds of the city, using [Cattle Decapitation] at the coming goblins to make them hesitate before casting [Solipsistic Slaughter] to bring them to low health and then making rapid holes in them.
 
-Fantastic work vanquishing 5 formidable armored goblins! You've acquired a commendable 100+ XP for your valor! 🏆 You have also gained +10 temporary strength as part of the city-wide effect [Strength Beacon]!
+**Fantastic work vanquishing 5 formidable armored goblins! You've acquired a commendable 100+ XP for your valor! 🏆 You have also gained +10 temporary strength as part of the city-wide effect [Strength Beacon]!**
 
 Troubled by the 100-XP limit, he ignored it for the meantime and identified [Strength Beacon] with the [System]'s help.
 
@@ -7888,41 +7888,41 @@ He gained only a total of 200 XP from the two fights with her.
 
 This would be his stats after the fight with Tamer if he didn't place his stats before the fight.
 
-Name: Matthew Cruz
+**Name: Matthew Cruz**
 
-Level: 49
+**Level: 49**
 
-Current experience: 29
+**Current experience: 29**
 
-Species: Human
+**Species: Human**
 
-Age: 25
+**Age: 25**
 
-Skills: [Whirlwind Waltz], [Cattle Decapitation], [Solipsistic Slaughter]
+**Skills: [Whirlwind Waltz], [Cattle Decapitation], [Solipsistic Slaughter]**
 
-Spells: None / None
+**Spells: None / None**
 
-Vitality: 15
+**Vitality: 15**
 
-Quests: [Bridge of Knowledge]
+**Quests: [Bridge of Knowledge]**
 
-Titles: [Goblin Slayer], [Skeleton Slayer], [Overlord's Gifted]
+**Titles: [Goblin Slayer], [Skeleton Slayer], [Overlord's Gifted]**
 
-Unused stat points: 302.2
+**Unused stat points: 302.2**
 
-Attack Damage🪓: 85 + (10 from [Strength Beacon])
+**Attack Damage🪓: 85 + (10 from [Strength Beacon])**
 
-Ability Power🔥: 27
+**Ability Power🔥: 27**
 
-Armor🛡️: 57
+**Armor🛡️: 57**
 
-Magic Resistance🚫: 60
+**Magic Resistance🚫: 60**
 
-Health🗿: 906
+**Health🗿: 906**
 
-Mana💧: 311
+**Mana💧: 311**
 
-Mana regeneration💧 (per 10 minutes): 7
+**Mana regeneration💧 (per 10 minutes): 7**
 
 But that wasn't the case. He used up 54.6 stat points on mana to get 39 more mana and reach a total of 350 mana since the mana cost of his three skills combined was 350. He didn't want to rely on mana potions anymore, considering he spent so much gold buying them. Anyway, 54.6 cut down his 247.2 to 192.6, which he sunk into health, gaining 223 more health and reaching a new total of 1129 health, with 0.36 unused stat points remaining.
 
@@ -8425,67 +8425,67 @@ The monsters retreated however, ending the fight with a stalemate. If the worth 
 
 At least Matthew got some XP.
 
-Great job on defeating that solo goblin! Your expertise nets you a solid 7+ XP! 🎉
+**Great job on defeating that solo goblin! Your expertise nets you a solid 7+ XP! 🎉**
 
-Well done on taking down that armored goblin! Your victory earns you a hefty 42+ XP! 🎉
+**Well done on taking down that armored goblin! Your victory earns you a hefty 42+ XP! 🎉**
 
-Well done on taking down that armored goblin! Your victory earns you a hefty 42+ XP! 🎉
+**Well done on taking down that armored goblin! Your victory earns you a hefty 42+ XP! 🎉**
 
-Well done on taking down that armored goblin! Your victory earns you a hefty 42+ XP! 🎉
+**Well done on taking down that armored goblin! Your victory earns you a hefty 42+ XP! 🎉**
 
-Well done on taking down that slime! Your victory earns you a hefty 3+ XP! 🎉
+**Well done on taking down that slime! Your victory earns you a hefty 3+ XP! 🎉**
 
-Well done on taking down that slime! Your victory earns you a hefty 3+ XP! 🎉
+**Well done on taking down that slime! Your victory earns you a hefty 3+ XP! 🎉**
 
-Well done on taking down that slime! Your victory earns you a hefty 3+ XP! 🎉
+**Well done on taking down that slime! Your victory earns you a hefty 3+ XP! 🎉**
 
-Well done on taking down that slime! Your victory earns you a hefty 3+ XP! 🎉
+**Well done on taking down that slime! Your victory earns you a hefty 3+ XP! 🎉**
 
-Well done on taking down that slime! Your victory earns you a hefty 3+ XP! 🎉
+**Well done on taking down that slime! Your victory earns you a hefty 3+ XP! 🎉**
 
-Well done on taking down that slime! Your victory earns you a hefty 3+ XP! 🎉
+**Well done on taking down that slime! Your victory earns you a hefty 3+ XP! 🎉**
 
-Well done on taking down that spiders! Your victory earns you a hefty 2+ XP! 🎉
+**Well done on taking down that spiders! Your victory earns you a hefty 2+ XP! 🎉**
 
-Well done on taking down that spiders! Your victory earns you a hefty 2+ XP! 🎉
+**Well done on taking down that spiders! Your victory earns you a hefty 2+ XP! 🎉**
 
 He opened up his stats.
 
-Name: Matthew Cruz
+**Name: Matthew Cruz**
 
-Level: 49
+**Level: 49**
 
-Current experience: 173
+**Current experience: 173**
 
-Species: Human
+**Species: Human**
 
-Age: 25
+**Age: 25**
 
-Skills: [Whirlwind Waltz], [Cattle Decapitation], [Solipsistic Slaughter]
+**Skills: [Whirlwind Waltz], [Cattle Decapitation], [Solipsistic Slaughter]**
 
-Spells: None / None
+**Spells: None / None**
 
-Vitality: 15
+**Vitality: 15**
 
-Quests: [Bridge of Knowledge]
+**Quests: [Bridge of Knowledge]**
 
-Titles: [Goblin Slayer], [Skeleton Slayer], [Overlord's Gifted]
+**Titles: [Goblin Slayer], [Skeleton Slayer], [Overlord's Gifted]**
 
-Unused stat points: 0.36
+**Unused stat points: 0.36**
 
-Attack Damage🪓: 85 + (10 from [Strength Beacon])
+**Attack Damage🪓: 85 + (10 from [Strength Beacon])**
 
-Ability Power🔥: 27
+**Ability Power🔥: 27**
 
-Armor🛡️: 57
+**Armor🛡️: 57**
 
-Magic Resistance🚫: 60
+**Magic Resistance🚫: 60**
 
-Health🗿: 1129
+**Health🗿: 1129**
 
-Mana💧: 350
+**Mana💧: 350**
 
-Mana regeneration💧 (per 10 minutes): 7
+**Mana regeneration💧 (per 10 minutes): 7**
 
 The key threats earlier were 4 goblin shamans, and he wasn't the one who killed them.
 
@@ -9386,69 +9386,69 @@ He commanded, his hands becoming like ethereal whispers in the dark, emerging ag
 
 The infinite fabric representing the adventurers glowed and continued to reform itself as well.
 
-Great job defeating that armored goblin! You've earned a solid 42+ XP! 🎉
+**Great job defeating that armored goblin! You've earned a solid 42+ XP! 🎉**
 
-Bravo for vanquishing the armored goblin! Enjoy your well-deserved 42+ XP! 🎉
+**Bravo for vanquishing the armored goblin! Enjoy your well-deserved 42+ XP! 🎉**
 
-Congratulations on your triumph over the armored goblin! You've gained a generous 42+ XP! 🎉
+**Congratulations on your triumph over the armored goblin! You've gained a generous 42+ XP! 🎉**
 
-Excellent work on slaying the armored goblin! Your reward: 42+ XP! 🎉
+**Excellent work on slaying the armored goblin! Your reward: 42+ XP! 🎉**
 
-Fantastic job taking down the armored goblin! You've earned a hefty 42+ XP! 🎉
+**Fantastic job taking down the armored goblin! You've earned a hefty 42+ XP! 🎉**
 
-Kudos for defeating the armored goblin! Enjoy your 42+ XP reward! 🎉
+**Kudos for defeating the armored goblin! Enjoy your 42+ XP reward! 🎉**
 
-Outstanding effort in defeating the armored goblin! You've earned 42+ XP! 🎉
+**Outstanding effort in defeating the armored goblin! You've earned 42+ XP! 🎉**
 
-Well played in defeating the armored goblin! Claim your 42+ XP reward! 🎉
+**Well played in defeating the armored goblin! Claim your 42+ XP reward! 🎉**
 
-Way to go on conquering the armored goblin! You've gained 42+ XP! 🎉
+**Way to go on conquering the armored goblin! You've gained 42+ XP! 🎉**
 
-You did it! The armored goblin is no more! Enjoy your 42+ XP! 🎉
+**You did it! The armored goblin is no more! Enjoy your 42+ XP! 🎉**
 
-Amazing job on defeating the armored goblin! Your prize: 42+ XP! 🎉
+**Amazing job on defeating the armored goblin! Your prize: 42+ XP! 🎉**
 
-Hooray for defeating the armored goblin! Your reward awaits: 42+ XP! 🎉
+**Hooray for defeating the armored goblin! Your reward awaits: 42+ XP! 🎉**
 
-Impressive work on defeating the armored goblin! Enjoy your 42+ XP! 🎉
+**Impressive work on defeating the armored goblin! Enjoy your 42+ XP! 🎉**
 
-Magnificent victory over the armored goblin! You've earned 42+ XP! 🎉
+**Magnificent victory over the armored goblin! You've earned 42+ XP! 🎉**
 
-Remarkable job on taking down the armored goblin! Claim your 42+ XP! 🎉
+**Remarkable job on taking down the armored goblin! Claim your 42+ XP! 🎉**
 
-Superb effort in defeating the armored goblin! Your reward: 42+ XP! 🎉
+**Superb effort in defeating the armored goblin! Your reward: 42+ XP! 🎉**
 
-Terrific work on slaying the armored goblin! You've earned 42+ XP! 🎉
+**Terrific work on slaying the armored goblin! You've earned 42+ XP! 🎉**
 
-Well done for conquering the armored goblin! Enjoy your 42+ XP! 🎉
+**Well done for conquering the armored goblin! Enjoy your 42+ XP! 🎉**
 
-Bravo! The armored goblin has been defeated! Claim your 42+ XP! 🎉
+**Bravo! The armored goblin has been defeated! Claim your 42+ XP! 🎉**
 
-Congratulations on your victory over the armored goblin! You've gained 42+ XP! 🎉
+**Congratulations on your victory over the armored goblin! You've gained 42+ XP! 🎉**
 
-Excellent job on vanquishing the armored goblin! Enjoy your 42+ XP! 🎉
+**Excellent job on vanquishing the armored goblin! Enjoy your 42+ XP! 🎉**
 
-Great work on taking down the armored goblin! Your reward: 42+ XP! 🎉
+**Great work on taking down the armored goblin! Your reward: 42+ XP! 🎉**
 
-Kudos for defeating the armored goblin! You've earned a hefty 42+ XP! 🎉
+**Kudos for defeating the armored goblin! You've earned a hefty 42+ XP! 🎉**
 
-Outstanding performance in defeating the armored goblin! Claim your 42+ XP! 🎉
+**Outstanding performance in defeating the armored goblin! Claim your 42+ XP! 🎉**
 
-Splendid job on defeating the armored goblin! Enjoy your 42+ XP! 🎉
+**Splendid job on defeating the armored goblin! Enjoy your 42+ XP! 🎉**
 
-Well played! The armored goblin has been vanquished! You've gained 42+ XP! 🎉
+**Well played! The armored goblin has been vanquished! You've gained 42+ XP! 🎉**
 
-Amazing job on taking down the armored goblin! Your reward: 42+ XP! 🎉
+**Amazing job on taking down the armored goblin! Your reward: 42+ XP! 🎉**
 
-Hooray! You've defeated the armored goblin and earned 42+ XP! 🎉
+**Hooray! You've defeated the armored goblin and earned 42+ XP! 🎉**
 
-Magnificent work on conquering the armored goblin! Enjoy your 42+ XP! 🎉
+**Magnificent work on conquering the armored goblin! Enjoy your 42+ XP! 🎉**
 
-Remarkable victory over the armored goblin! Claim your 42+ XP reward! 🎉
+**Remarkable victory over the armored goblin! Claim your 42+ XP reward! 🎉**
 
 Matthew disappeared along with his infinite Hands of Creation, the infinite fabric in perfection.
 
-Underrated victory over the Great Spider Serpelvz! Claim your 1000+ XP reward! 🎉
+**Underrated victory over the Great Spider Serpelvz! Claim your 1000+ XP reward! 🎉**
 
 During the fight with the boss "Great Spider Serpelvz," the adventurers used the same boat to destroy it; cancelling its magical attacks with well-coordinated magic-resistant water skills and using lightning magic to disrupt actively whenever it was midway through its attacks.
 
@@ -9667,7 +9667,7 @@ The good thing about having the assembly disperse then was that it was advisable
 
 Once he made that conclusion, he returned to calm.
 
-[Calm Walker]: All calming and mindfulness effects on you is increased by 10%!
+**[Calm Walker]: All calming and mindfulness effects on you is increased by 10%!**
 
 # Chapter 52 - The Communion of Witchman
 
@@ -9778,7 +9778,7 @@ Matthew looked around him, wishing for splendor for the third time, but he found
 
 He took a deep breath and moved on.
 
-[Calm Walker]: All calming and mindfulness effects on you is increased by 10%!
+**[Calm Walker]: All calming and mindfulness effects on you is increased by 10%!**
 
 However mundane his world was, his ideals would eventually penetrate the hexagonal barrier fabric sphere of magic, control, power, and longer society.
 
@@ -9798,7 +9798,7 @@ He whirled inwardly in reverses, upside-down motions, and inversions and then ou
 
 The loudest scream was in cursive.
 
-***
+![](jar_plant.png)
 
 At the dungeon, Matthew stared at several goblins.
 
@@ -9877,25 +9877,25 @@ But sometimes, a linear approach was necessary to help them hide while maintaini
 
 For each kill the goblins got, they got a notification distinct from what Matthew received.
 
-+76 XP 1+ skill point (Lvl. 9 Gladiator)
+**+76 XP 1+ skill point (Lvl. 9 Gladiator)**
 
-+103 XP 1+ skill point (Lvl. 15 Gladiator)
+**+103 XP 1+ skill point (Lvl. 15 Gladiator)**
 
 All of them levelled up to level 2 because the XP was shared between them.
 
 One of the goblins checked his status page.
 
-Name: Render
+**Name: Render**
 
-Species: Goblin
+**Species: Goblin**
 
-Age: 6
+**Age: 6**
 
-Skills: Red Bite
+**Skills: Red Bite**
 
-Spells: None / None
+**Spells: None / None**
 
-Vitality: 8
+**Vitality: 8**
 
 When it came to Matthew's perspective, he pondered about a pattern he had noticed for a long time now, but he never truly felt sure. Regular adult goblins only gave 7 XP on kill, and armored goblins gave 42 XP. It was a 600% increase when they were armoed. So regular adult humans probably gave around 30 XP, and if armored, they possibly gave 180 XP. As for levels, most of the goblins he had killed were only level 1, and it was probably because they often died immediately before killing enough creatures to level up. When it came to the number of XP levels added to the result, he guessed that it added 10 XP per level. However, he couldn't truly be sure since he had never killed enemies that varied in level to test. Moreover, he hadn't killed enough humans to see what adventurers and gladiators gave. He also wondered whether the class of an adventurer mattered or existed. The [System] never addressed it, so he didn't ever ask about it.
 
@@ -10009,13 +10009,13 @@ So he began eating all the giant ant legs, cleaning them all up.
 
 It was a simple, fun away for him to do something that felt good and tasted good.
 
-+10 XP (Eating Giant Ant Leg)
+**+10 XP (Eating Giant Ant Leg)**
 
 He noticed something strange about this notification. The more he spent time with the goblins, the more his notifications began emulating theirs.
 
 Even his kill notifications earlier had the same format.
 
-+90 XP (Lvl. 1 Giant Ant)
+**+90 XP (Lvl. 1 Giant Ant)**
 
 The songs of grace had blessed his awakening and presence.
 
@@ -10384,7 +10384,7 @@ The sky was bright with hopeful stars, and in this camp and after investing a lo
 
 Matthew woke up from this dream, but he had also dreamed of other dreams. One of these dreams had been about the sun, moon, and eleven stars bowing down to him.
 
-***
+![](jar_plant.png)
 
 Matthew disappeared. He died.
 
@@ -10422,39 +10422,39 @@ He stood up and let on the seventh month, preparing himself mentally.
 
 **Name: Matthew Cruz**
 
-Level: 55
+**Level: 55**
 
-Current experience: 3
+**Current experience: 3**
 
-Species: Human
+**Species: Human**
 
-Age: 26
+**Age: 26**
 
-Skills: [Phantom Shield]
+**Skills: [Phantom Shield]**
 
-Spells: None / None
+**Spells: None / None**
 
-Vitality: 16
+**Vitality: 16**
 
-Quests:
+**Quests:**
 
-Titles: [Goblin Slayer], [Skeleton Slayer], [Overlord's Gifted]
+**Titles: [Goblin Slayer], [Skeleton Slayer], [Overlord's Gifted]**
 
-Unused stat points: 0.64
+**Unused stat points: 0.64**
 
-Attack Damage🪓: 85 + (10 from [Strength Beacon])
+**Attack Damage🪓: 85 + (10 from [Strength Beacon])**
 
-Ability Power🔥: 27
+**Ability Power🔥: 27**
 
-Armor🛡️: 57
+**Armor🛡️: 57**
 
-Magic Resistance🚫: 60
+**Magic Resistance🚫: 60**
 
-Health🗿: 2355
+**Health🗿: 2355**
 
-Mana💧: 350
+**Mana💧: 350**
 
-Mana regeneration💧 (per 10 minutes): 7
+**Mana regeneration💧 (per 10 minutes): 7**
 
 Previously, he spent all his unused points of health, going from 1129 to 2355 health. He also noticed that he got one [Vitality] since the last time he checked.
 
@@ -13585,3 +13585,1300 @@ The funny thing was that he kept going either way, as if nothing was wrong.
 He was so, so good at pretending and lying and suppressing all of these things called fee-fees inside. He was so good at being this man that wasn't.
 
 He was God.
+
+# Chapter 70
+
+
+After returning to the cottage, the simple-thinking Matthew looked at his book, having been keeping in touch with details overtime. This book included monsters, creatures, and humanoids of the land; various to-do lists that were messed about; simple sketches of the cottage; number of gold coins, items, and equipment he had or encountered and details about them; the numerous people that came to visit his cottage, each of whom he asked to write a form of signature; names of people he knew; things that he hated and vented with simple phrases and drawings because he didn't want to waste all the ink; among others.
+
+He was able to begin keeping track recently due to how slow the world was. The slowness of everything was the only thing he could remember. All the exciting terrifying stuff were out of his mind. His mind had opted to forget them or keep them in sparse detail in his head. It was easier that way.
+
+He wanted to visit Lumi, but she was not very organized. She did whatever she wanted, and from a systematic viewpoint, was very inefficient. She was only efficient when she fought, but not really because she didn't really prepare that well. She didn't note down everything and write down everything, only relying on hearsay to navigate her world. So many people gave him misnformation, and she was one of them. He was told time and time again to be careful around goblins, but things worked out for him. So he felt that the goblins were not that strong after all. Another instance of misinformation was about the golems. He was told by an adventurer named "Mike" in the past that they were important somehow, but they were just said to be important and were not actually so. The fact that he remembered Mike and how he just disappeared from the group made him wonder. He never asked about it, just like the many one-time acquintances that he met at church and at events back on Earth. Some people he knew only once. He felt there were many more, but his knowledge was limited. And he couldn't exactly pay attention to every detail, given how annoying everything was.
+
+He could only work with this much. He was saddened, but this was reality. His mind always looked for loopholes to make sense of things, but for the most part, he could only toil everyday and scrape away the bits that blocked his path to success slowly and gradually.
+
+For now, however, he had an idea. With everything that happened, all the details remained out of his control, so he tried to make sure that he was doing something by relaxing at the cafe. He thought he was slowly being let go by the people around him, but that was probably alright for now. If he didn't focus on gathering himself, then he would get himself into a weird situation and lose it. He was trying to slow down for now. If things ever went too crazy, he would not be able to approach it without becoming something that he wasn't.
+
+As long as he maintained his sensibilities, he was probably fine.
+
+All the things that people said. So many truths and so many misinformed.
+
+He had to accept that this world was going to be difficult to parse through.
+
+Did Lumi really know what she was doing? Or did she grab artifacts thinking that they were special and did something when in reality, their true power lay elsewhere?
+
+Maybe he was focusing too much on others. How about him? He really didn't know what was going on.
+
+Even now, the kids around him spoke things that he could never comprehend.
+
+Though, maybe even the misinformation that he thought was misinformation was more so because of his ignorance. He wasn't completely sure.
+
+But this world had much to teach him.
+
+He visited Lumi on the premise that they were going to talk about artifacts.
+
+Lumi let him go inside, her smile as bright as usual. He smiled too. Maybe she thought the same. It was hard living out here, so any smile counted.
+
+Lumi had him sit down, asking him if it was okay that she was the one who visited instead of her.
+
+Matthew said it was okay, but he didn't know if that was the right answer. In all honesty, he didn't know if he wanted to talk to anyone at all. It was more so about himself than others really, because he couldn't even tell if he ate dinner last night. He couldn't even tell if the clock struck a certain time, because the only thing in his mind was "Move, Move, Move!"
+
+He didn't know how long this facade would last, but he was here alright. While he was thinking, Lumi was talking about the recent events with Matthew taking an award for his participation in a broader war with the goblins. He brushed it off. He didn't want to deal with that right now.
+
+Too many things were happening, and he only played a small role with Tamer in that war. It wasn't even a war for him. He was just placing wards with Tamer and his other people.
+
+He didn't really do anything. He wanted to complain that actually. The King was making it very difficult for him to relax and not go crazy.
+
+If only he could just sit down and have a drink, then this would be fine.
+
+But no, he was expected to excel in many fronts, or else he was dead-shit.
+
+He laughed silently, unable to hold in his frustration.
+
+Lumi turned to him. "So, have you been okay recently?" she said.
+
+The question caught his attention. "Honestly..." Honestly, he didn't want to tell her anything. "I'm fine..."
+
+Lumi nodded simply and sat down at the table in front of him. "Have you been finishing up with the preparations yet? They said you and Desmond have been fixing up with a stall. I heard that you're supposed to be the one there making it."
+
+"Making it? No, I'm just going to be there for the announcement thingy. Yeah."
+
+"Oh, okay. How about Tamer? I honestly don't know what you guys have been doing except for the warding thing in the Fracnert war. I was there with you remember? You didn't notice me running behind you."
+
+"Sorry, I was focused that time—by the way, did you hear about Mike?"
+
+"Mike? Who's Mike?"
+
+"Oh, I don't know. I just saw him once. He said something about golems and machines. I honestly don't even remember. My memory's all blurry."
+
+"So are you really fine?"
+
+"Yeah, just a little under the weather sometimes. It can get hectic, you know, with the King telling me to go there—"
+
+"Hey, don't say that about the King." she warned.
+
+"Yeah, my bad. I was just saying that it's going to get difficult from now." He wanted to talk about stuff beyond just the King and the war and Mike. He honestly wanted to ask her if they could start preparing for another fight. He was getting itchy to fight. It was his best distraction for now, and he was looking for reasons to fight. He needed an external reason to do it, even when what he really wanted was to satisfy that urge inside.
+
+Lumi shrugged. "You can come with us to Mount Barkog. It's far. 4,000 meters. So don't expect to be celebrating by the time you're there. It'll take a while, and bring SHR (Special Heat Remover 99)."
+
+"Yeah, sure."
+
+"Are you going to be there? You missed out on—what?—ten other quests before. You're not really..."
+
+"Yeah?"
+
+"Just... if you're going to be there, tell Tamer and the others. We barely have any meetings ever since you decided to take a break."
+
+"Yeah..." Matthew could only handle so much, so he had to bear with this just for now. He had chosen to take a break, and it was difficult for him not to feel confused about it all. The planning and the thinking was too much.
+
+The fact that he was being expected to go again as a commander for another big coalition quest tired him out. He wanted to fight blow-by-blow. He didn't want to stand up and tell people what to do.
+
+He honestly knew that his strength was not as good as it was before. He was pampered with equipment, but in reality, he was very, very weak compared to numbers. He didn't have his good skills anymore, and he could only accept that this was reality.
+
+He was taking the backseat he felt by being a commander. It didn't feel like a glorious purpose. It felt like a back-in-the-mind kind of duty—the thing one eschewed once one finally tried it.
+
+It took much mental power and willpower. He had to be there all the time every time. No one wanted any buts, because he was pretty the tying thread, the binding element, the combining force. Without him, it would all crumble they said. But he didn't want to do it. He would start feeding into his negative emotions and become this creature that would suddenly break down and fall apart.
+
+He could collapse all of a sudden and just get sick. He didn't want to stress himself beyond belief. His cognition slowed down when he was too stressed.
+
+Currently, he was walking home, having left Tamer's house. It wasn't even an actual conversation. It was like a check up at the doctor. No one had any time for him, and he didn't even have time for himself. This was the final break he could have as a human being. His soul was finally free.
+
+His intellectualism was like sand on a beach. Without a healthy lifestyle, it would all go down the drain.
+
+He had to sit down for once in his life and actually sit there.
+
+He didn't have anything to say for himself, so he just shut up.
+
+The silence spoke plenty enough.
+
+Everyone was busy; no one had time for him. It was the same situation that made him leave to the City of Power.
+
+But honestly, he was probably at fault. He put them all in a situation where they could only keep working. He was the one who put them in that situation, and then he decided to leave (take a break) all of a sudden. It was a do-or-die decision to have all of that set up and invested in.
+
+He was very impulsive.
+
+He made big projects only to let them go, and he was here taking a break. It had been two days already.
+
+He didn't want to take care of anything, except himself for the first time in forever.
+
+He lay down next to the door of his cottage, his legs leaning against the steps of his porch. "How tiresome..."
+
+He was so weak.
+
+His body could barely move. It wasn't that he was physically weak, but he burned himself out to oblivion.
+
+He made it sound like he had everything under control. But everything he did was all this big joke. This big facade.
+
+He was just that good really.
+
+He did all of that and then fell apart, because he was just that good at pretending and then suddenly disappearing. He loved throwing himself into things that made him lose his grip on reality.
+
+It was fun.
+
+He was the type to go in hard and then impress everyone and then just disappear out of nowhere because people expected him to continue forever. It was all one big hard-work overcommitment gamble. It wasn't even a gamble. It always led to burnout. Every single time. He was just playing with fire at this point and then eating it.
+
+He burned himself. He burned himself out. Get it?
+
+He laughed, still unable to take anything seriously. Everything was too hard to take so seriously to the point that he didn't just laugh it off. He wanted to laugh at everything.
+
+But yeah, he was serious. Very.
+
+He sat down, not bothering to make a statement.
+
+He had nothing to say that was special.
+
+He was just a regular guy after all.
+
+But he would rise up from the ashes. Shut up.
+
+He was just a man.
+
+No, he would become God. Shut up.
+
+He was just a person.
+
+He would become the epitome—Shut up!
+
+He didn't really have anything to say for himself.
+
+It was all one big game, and he was the great pretender.
+
+He was so good at becoming God, only to bleed all over Heaven's floor once he had taken the throne.
+
+He was so funny too.
+
+He burst into cackles.
+
+Wheezing all over the place.
+
+He didn't hate anyone. He just wanted to have fun.
+
+But it terrified him.
+
+It scared to think, to breathe, to see people.
+
+It scared him to see a person.
+
+Goblins used to be terrifying, but it was people that terrified him. Their psychopathic thoughts, their narcissitic desires. The fact that they could just do something so horrible and get away with it. They didn't feel a single thing.
+
+He lived in a world where people just murdered without remorse or guilt.
+
+And he was doing the same. He was a fucking hypocrite! Hahahahaha!
+
+He loved this world so much because it tested him. He was being tested by God! God tested him!
+
+God loved him so much that he would do such a thing as this!
+
+"Overlord! System! I love you!"
+
+They ignored him.
+
+Matthew laughed hard before escalating to silence. He stared at the world, feeling detached from all of it.
+
+He did not feel real, his vision blurring and zooming in and out. He was dissociating.
+
+He would become free, right?
+
+He laughed in his head, but outwardly, he stood still, staring aimlessly.
+
+He saw a goblin walking up.
+
+He walked outside like a normal man and greeted the goblin like he would with a cat: "Hello, Goblin! How are you doing?" And he treated all cats like people.
+
+# Chapter 71
+
+The goblin struck him and attempted to kill him. "Disgusting, disgusting, disgusting!" it said.
+
+Matthew. No, Witchman struck the little baby thing and made sure it lay still on the ground in its final death throes. "Brother, oh, brother, I know it is hard for you. But I love you. I love you so much that I have to do this to you. I understand you feel bad right now, but this... This is God speaking. I am your God, and you are merely a tiny little thing. I will speak for you and eat you." He grabbed the goblin's arms and tried to bite it before he realized.
+
+It would taste so good.
+
+"Fuck, what am I doing? he said, jumping back. "I'm just kidding. I didn't actually feel like eating..." He trailed off, realizing that he was not okay.
+
+He realized that he had a psychotic episode there for a second. His diagnosis was not actually kidding, huh. He probably was in a manic state as well. But he wasn't sure.
+
+He didn't really see a notification that popped up when he was being impulsive or not. He just was.
+
+Shifting to a more objective perspective, this scene didn't reflect the experiences of all individuals with Bipolar I Disorder with Psychotic Features, especially given that he was in a fantasy world and very unique circumstances and psychological landscape.
+
+Returning to Matthew, he realized that all his intelligence had led to this point. Like Friedrich Nietzsche, he got the equivalent of his insanity that began 11 years prior to his death.
+
+His urges for violence were so strong, and it was likely psychopathologically linked to his past traumatic experiences and mental condition. His intelligence had taken a backseat with the deterioration of his mental state. 
+
+He attempted to stay composed and keep in touch with his intellect, but he wasn't completely confident about it.
+
+His capacity for analytical thinking rested upon his ability to navigate complex landscapes. He could use this break to invest in physical exercise more, and in doing so improve his wellbeing.
+
+Yet, the emotions lit up, leaving him to Grief's arms,.
+
+The burden of memory was too heavy to handle. Every he held dear had been changed or corrupted or had vanished or died with time and now only existed in the mind. He lived to carry these echoes within him into the future. Call it nostalgia, but he knew in his heart that it must be more than that.
+
+His family smiled at him.
+
+He reached out.
+
+They drifted into thin smoke, their faces distorting.
+
+He laugh-cried. "Ma. I love you! Ma!"
+
+"I'm sorry. Ma. I'm sorry Jared, Vick, Quincy..."
+
+He begged to be freed.
+
+He grabbed his throat and held it tight. "I'm... I'm just a man, right?"
+
+Three.
+
+Two.
+
+One.
+
+He relaxed his breath. "I'm just a human being, which means... which means... I have to..." He burst into shouting: "Keep going!"
+
+He had stopped himself.
+
+He was not going to die to-day.
+
+He had to be free.
+
+Matthew looked around curiously, attentively, and intently and began prowling on four legs like a beast.
+
+He transformed slowly, his posture and form becoming streamlined.
+
+He crawled slowly first then stably.
+
+The beasts around him stared.
+
+As soon as they got close, he slashed them with his blade, crushing them heavily clumsily messily.
+
+He desperately tried to kill them more than he could ever could.
+
+They were already dead. He kept going.
+
+Blood leaked all over his clothes.
+
+He grunted like he was having sex.
+
+He moaned as the blood splattered over his face.
+
+He climaxed with everything messy.
+
+The body he had chosen became a work of art.
+
+"You are my slave!" Intense feelings of domination usually found in sexuality began to take form.
+
+He was addicted to power.
+
+He snorted it all up in lines and smoked it in joints, blunts, and bongs perched between his lips.
+
+He sighed in relief like after drinking a full bottle of fresh cold water on a strikingly hot day and taking a shower when everything tired, lethargic, and just generally worn out. He freed himself from this mental deterioration by accepting his impulses and becoming one away from withdrawal.
+
+"I must become your teacher... and your guide," he said, throwing away the blade and pumping his fists together, walking forward menacingly.
+
+He would conquer this planet and then this universe. He was the sole owner of it all.
+
+He laughed unto the end.
+
+He walked into a coalition and began tearing away the land block by block. He stripped it bare.
+
+"I am God alone on this Earth and in the Next."
+
+He laughed, stripping away the flesh off hundreds of goblins with his blade of doom.
+
+He crushed them and broke their fleshy bits, wishing upon them grace and beauty unto the heaven's parting.
+
+He slashed them right down the middle, blessing them with a sacred bisymmetry.
+
+He bestowed upon them his great fervor, massacring them like a child with his playthings.
+
+He raised his arms, first to the left and then to the right, and then extended them outward.
+
+He raised his right hand. "Rejoice..."
+
+He killed ten goblins.
+
+He killed 15 goblins.
+
+He killed 16 goblins.
+
+"...in the Lord always; and again I say..."
+
+He cast [Phantom Shield], blocking tons of damage. "Rejoice!"
+
+The goblins stared and screamed in fear.
+
+He skipped from step to step, sliding away and forward, striking the goblins with a whip-like blade that grabbed them and tore them away, leaving them dusted and burned beyond recognition.
+
+His sword did not burn them, but it showed them the path to the light that when their bodies were shattered beyond belief, they "burned" in its greatness.
+
+A hand grabbed him, casting a healing spell.
+
+Matthew fell to the ground, his eyes closed, faint, unconscious. The man that killed hundreds rested in silence.
+
+The stare of the goblins and adventurers around him were that of fear and trembling.
+
+Matthew did what he wanted to do. He brought them together.
+
+A truce was cast in order to control this man.
+
+He was Love, Adoration, and Grace.
+
+He was the Epitome of Grace and Beauty.
+
+They feared the giant man.
+
+After contacting Desmond and the other people with whom Matthew had made contact, they surrounded the area and built various forms of containment.
+
+Even if the adventurers were permissive and loved killing monsters, Matthew wasn't hiding anymore. He was declaring out loud in shouts all his grandiose demands and beliefs about himself. This was easily noticeable and identifiable, so it wasn't that difficult for the adventurers to get help.
+
+If it was just him looking crazed, then that wouldn't be enough for help or intervention to come, because combat could make someone look crazy.
+
+"What do we do with him?" said a voice.
+
+"I don't know. How *do* we deal with him?"
+
+"He can't be let out. He's a monster. He'll kill us all."
+
+"Yeah, be careful about moving him. We don't want another escape but for him, especially not him. Don't let that be the case! Prepare as much soldiers as needed. Make sure to remember the code of ethics. We don't want him dying on our watch, but we're as hells not going to let him escape. He needs to be contained."
+
+"Okay, okay. But what do we do if he gets out?"
+
+Later, Matthew could be seen sitting down in a chair, his gze down, his arms shackled, sitting down inside a carriage pulled by seven giant crocodiles.
+
+A donkey waited for him outside.
+
+God was he good.
+
+The quiet noises in the background began to rattle. It was so quiet, but not so quiet that people felt truly comfortable.
+
+The sounds were messy like scratches on a tree.
+
+Zero, one of the soldiers, didn't want to leave this man alive, so he took out a knife and began to stab Matthew in the neck.
+
+Matthew's neck bled, and his head leaned downward.
+
+A healing spell was cast on him through a hole leading to the top of back of the carriage. "What are you doing!" said the healer, who was sitting next to the driver. "Stop trying to kill him! We have to keep him alive!"
+
+Zero grabbed Matthew, making him lean onto him to get a better knife angle. He stabbed further and further, attempting to kill truly this heinous man.
+
+Matthew, because he was moved so much, woke up and began casting his [Phanton Shield] only to find out that it was on cooldown. He screamed and raged desperately, but he was stuck to the floor and walls with chains. He roared.
+
+Zero kept going and then with one big slash, struck Matthew through the neck.
+
+Matthew healed himself with the blade still inside. As Matthew kept healing, the blade kept preventing him. Soon enough, Matthew got exhausted, and his vision began to blur.
+
+Zero begged please for this to work.
+
+Matthew begged for his salvation, because he knew he had a greater purpose beyond this.
+
+The [System] glanced at him from afar. "Do we help him?" he asked the Overlord.
+
+The Overlord shook his head and left, with the [System] following alongside.
+
+Matthew roared like he was grieving, distracting Zero for a moment before the other soldiers, who had been paralyzed in fear and confusion the whole time, decided to help Matthew and grabbed Zero away.
+
+Zero screamed: "No, no, no, Mom! Mom!" He had lost his mother to Matthew's rampage. What Matthew killed the fight wasn't entirely goblin.
+
+Zero begged to kill him, and the soldiers, while crying, told him he couldn't, that he had to let it go, and that this was too much. "Please, do this for us! Do this for us!"
+
+Matthew was able to heal up after one of the soldiers pulled out the knife.
+
+"I'm sorry," said Matthew. "I didn't know that I killed your mom." He guessed based on little information he had.
+
+"I'm sorry."
+
+Zero immediately calmed down and began crying before he turned to rage. "I'll kill you, you monster! I'll kill you!"
+
+Matthew stared at him, uncomfortable and ashamed. "I'm sorry that I killed her..."
+
+Zero kept repeating the same thing, all while the soldiers stopped him.
+
+It was a tragic sight, something that wouldn't go away from the minds of any of the people present.
+
+As mentioned several times and implied numerous times before, this environment—the world, with its harsh and unforgiving monsters; its people, which were tied to camaraderie and peer support surrounding the killing of goblins; and its culture norms, with its adventurer-centric and great-man–centric idealisms—had systematically eroded his humanity and enabled his descent into monstrosity, something that would never have happened if his Earth life had continued seamlessly.
+
+To explain in figurative terms, having a manic episode was like drowning and suddenly waking up somewhere else with different clothes in the hot summer in a peaceful day with memories that denoted a whole different life. He knew that he was crazy, but when it was finally over, it was as if he never was. Having a psychotic episode was like eating carrots and thinking they were apples to the point of actually treating every carrot like a apple, including biting them as if they were apple, holding them as if they were an apple, and referring to them as if they were apples, even adamantly in front of family and friends. Though, for the most part, for Matthew, he heard voices speaking to him loudly and from afar, knowing that they were fake but still heavily distressed by them as if they were real.
+
+He had to cope, and that was all there was to it.
+
+When he woke up later, he felt the I-just-took-a-shower feeling at the beginning of a new day after a long day yesterday. It was fresh, yet his throat and voice ached. He had this sticky feeling of dried sweat, and his head was beaten-up cognitively. He was so exhausted, and everything was prickly.
+
+That was what happened each time he had a mental breakdown, but this time, it felt like swallowing hard rocks heavier than a ship.
+
+The guilt was surreal.
+
+Always the same guilt after an episode.
+
+He laughed weakly. He felt utterly devastated that he had been dragged into this cursed world.
+
+A smile tried to play on his lips.
+
+But nothing worked.
+
+Each time his thoughts inched toward Oblivion (mania), it failed to reach the egg cell.
+
+Similar to how he had strategized and used his intelligence systematically to navigate battles and engagements, the world used that same systematicness agaist him.
+
+He floated upward, realizing that he was powerful beyond measure, but not in a grandiose or violent way.
+
+But he saw the worth of a man trying hard to live despite his failings and undeservedness. The fight to live was a hard one, and many reasons could be stated as for why he had to die.
+
+But... why should he?
+
+He didn't have to die until he had done everything he could to be better.
+
+He was going to reach the end dammit!
+
+He prayed that he could be okay again, and maybe this was the same old lie he had been telling himself.
+
+He couldn't keep pretending, but maybe he could.
+
+Maybe that was the only way.
+
+He didn't grab a blade this time.
+
+He wanted to talk to Sophia.
+
+After visiting her grave, he said, "Hi, Sophia. I barely know you. I barely know anyone. I barely know the sky, the clouds, the people, the people... I barely know you. I'm sorry for not being there all the time. Maybe you're not real. Maybe... I'm just using you as a surrogate for my actual family back on Earth. Do you know why I do this, Sophia? I do this for you. Not for you. But for the idea that my old life still defines me, that I can still guarantee myself through it all. You showed me that I could still be human. Why did I have to leave the sacred path? Why did I have to leave my brothers and sister? Why did I have to leave everything behind? It's all gone, my friend. It's all gone..."
+
+He left, barely walking, mostly straddling the air as he tried to lift himself from step to step. He was gliding, or falling each time he took a step.
+
+He grabbed his clothes and removed them, leaving them on the ground. His blade was gone, and he was actually being surrounded by guards.
+
+He walked naked.
+
+He was free to define reality, and even if he felt very embarassed, he hated to live this world lying to himself. So this was for him too.
+
+He wanted to be honest for once.
+
+The guards then brought him back to his prison, having only allowed him to visit Sophia's grave for the time.
+
+# Chapter 72
+
+
+The cries for Matthew only grew louder.
+
+Matthew was in prison, but he was in no way hated by the majority. In fact, he was applauded for his service.
+
+He decided to write while in prison, and time passed.
+
+He wrote a book—his equivalent of Ephesians, Philippians, Colossians, and Philemon (the Prison Epistles). Much like how Paul's epistles sought to shape the early Christian church, his book sought to shape the early Matthean community.
+
+"I will conquer this world, and it will be my domain. No one, not anyone, will dare hold it against me, for I shall hold their life by the throat."
+
+The prison released him soon enough. Despite being sentenced to 50 years in prison, he only served a month.
+
+Matthew got up the steps leading outside, greeted by the people. The waving of hands and greets encountered him, their object of fascination.
+
+He was their New King.
+
+"I am Matthew Cruz. I started this, and I'll end what I've started." He grinned; a full consolidation of all four identities—Matthew Cruz (Earth) Matthew (New World), Witchman, and Scrappy.
+
+He lay a claim to the crown, but he kept silent, dispersing himself into various corners of the city periphery.
+
+He struck goblins in the west, making waves of adventurer parties.
+
+He delivered the pain with a strategic capture of a fortified fort in the east, scouts making their way to him right now.
+
+He rancidly poured his rage in the south, keeping his focus tied here to cope with his urges.
+
+He used the north to keep himself balanced and relaxed, using it as a place of rest while the adventurers did most of the work.
+
+Matthew disappeared into his role, and his actual self sat down at a cafe, where he talked delightfully to Lumi, Thorne, and Elara, the three people he knew the most around here.
+
+In reality, nothing had changed between the him before his mental breakdown and the him after.
+
+He was still level 99, and he still had same equipment. He still was a member of the adventurer team of stronger adventurers. And he would still struggle to fight hobgoblins. However, what was different was that he was now influential, like politicans back on Earth who couldn't physically fight to save their lives. He had influence without necessarily having a proportionally equal amount of combat prowess. This was possible.
+
+Someone needed to humble this man.
+
+As Matthew gained influence, many more men and women like him popped up like maggots revealed under a rock.
+
+"I am the Teacher," said a young man staring at a group of goblins. He used his hand to slap his enemies to the ground, castrating them with spells that made them too weak to stand. Then, that was when he slapped them and crushed their little tendies (tender parts). He gave them the whooping of a century.
+
+In contrast to Matthew's growing influence, others had reacted in opposition against Him.
+
+A scholar, one of Matthew's old acquaintances, wrote of Matthew and his ilk: "Adventuring used to be about principles, now we stand by this... Heathen! He defiles our principles, our sacred arts, and the wishes of those who have generated Adventurism into existence. Is it not fair to put him to the execution stand? Then, shall we see if his godhood remains incorruptible."
+
+Matthew loved this earth, and he would not let any of its people fall away to sand and dust.
+
+The scholar's friends spoke in defence of Matthew, and soon enough, the scholar was found a screw-loose thinker, whose voice carried marginal weight in the political shifts blessing the city.
+
+Matthew embodied adventurism in its purest, unadulterated, and uncompromising form.
+
+"Stand up for me as I have stood up for you!" he ended a speech to his followers at a rally he conducted in the streets near the cafe, referring to the hardships he had endured in service of adventurism. He had such a big following that he could gather his followers to a place and then begin making his speech there, using his intelligence and capacity for grandiose statements, declarations, and manic (meth-like) emotion to persuade them. Thus as his followers listened, so did many passersby and bystanders.
+
+He wasn't silenced, because he was thought to be describing adventurism and elevating it to the men, women, and youth who continued only to tire of its demands.
+
+As long as he veered away from treacherous thoughts, he was allowed to preach the word of adventurism.
+
+Long after the rally that he had modeled after one of the hundreds of religious regional events wherein he had played a heavily personal role back on Earth ended—he went to the streets and saw a bunch of beggars.
+
+He remembered the two beggars he had seen at the now-defunct second adventurer guild. They looked weak and starving. He grabbed their hands and told them that the future was going to include them. He would make the city great again, with its lengthy history dating back to prehistory.
+
+He realized that he could help them.
+
+He learned many things in his textbooks. He knew that a man named "Gutenberg" made printing a thing; though, he wasn't sure how to do it.
+
+If he could democratize knowledge, then maybe this world would become free.
+
+Could magic help this objective?
+
+There was actually a war going on, but that was not his focus right now.
+
+Yet even amid all his groanings, hunting, and influence-building, he recognized that this larger piece of the world demanded his attention. Every step of the way had built him up and broken him down, refining that man that he was.
+
+Today was a form of debut. Like a man soaring through the clouds, he would become.
+
+Lumi asked him earlier during his conversation with her, "I don't really get it, but okay." Her very words contradicted adventurism as a concept, but that was not the point either.
+
+None of this was the point.
+
+The point of all this was to send a message. He didn't need riches or the demanding nature of adventuring, of being a leader, and of being a broken man to validate him. What he needed was to be as loud as he could, whether it brought him controversy and even dislike, so long as all of this fell under his plan of deep-seated honesty.
+
+If he never broke free from these shackles formed by his own mind, where would he be? In the trenches of battle? In the caves that left him starving, beaten, and mentally drained? In the zone where all hope vanished and the only thing that maintained coherence was endless slaughter?
+
+This was hope when it was most illogical and unbound to sense and logic.
+
+No, this was simple statement: "Hear ye! Hear ye! Hear ye!"
+
+He only needed that one thing, all else fading.
+
+He sat down, and in his rage and anger, he kept silent. In his heartfelt aches, he demanded nothing. In his refusal to obey the law of silence and stability, he nodded simply, as if nothing else demanded anything from him. But the world sought his approval. It needed his begging. It needed his invaluable input.
+
+He was King, and nothing else mattered after that.
+
+All was faint soldiery activity, broken renderings of what was supposed to be valid. It flowed down a river valley, and there it dissipated: unable to find itself again.
+
+Like a man that submerged himself in a river and left, once he returned, he was not the same person, nor the river the same river.
+
+Change occurred nonsensically, and he acted according to this internal logic impinged by his mental unsoundness.
+
+He loathed, and he loved. He saw fit, and he saw unfit.
+
+Ready steps paved his path; then broken strides kept him assuaged.
+
+Everything went and went. He fixed the hitherto broken things.
+
+Matthew rested, his heart pounding his chest.
+
+Lumi sat down next to him. Thorne sat down in front of him. Elara stood far off.
+
+These three said that if he dared showed his face again after all that had transpired, they would cut him off. A consensus among them concluded that he was not to be trusted.
+
+But they were just talking earlier.
+
+Why did they sat that afterwards?
+
+In all his confusion, he prepared himself a table, at which he wet his head with oil in the face of his enemies. He was his own savior, and one else meant anything after all.
+
+He thought as a man wanting much, but maybe that was all falsehood.
+
+He wanted those emotions to be more than just an expression.
+
+Maybe with all his strivings, he was god.
+
+Maybe, with all those heartaches, he commanded meaning.
+
+Even now, he sat down next to one of the goblins that Tamer had tamed. She told him that the taming spell effect could be broken, and there were no buts or side effects.
+
+That allowed him to do anything he wanted. But did he?
+
+Shifting to the scene, he sat down and asked himself a question, but out loud for the goblins to hear as well: "Why is it that I have come this far, so unburdened by the challenges imposed upon men in battle, yet so burdened with the principles with which Earth has blessed me? I am so unbelievable hypocritical, staring so widely at a land that should be, but isn't my place of rest. I am... a horrible... horrible creature. I stand before the world, and I am God. But I stand so idly so as to be so uncaringly inadequate. If I cared more, would I have done more? Would I have said, 'Aba, Aba, I am adequate before you?" as I struck the heathens aright?"
+
+"He," he said, "not a day goes by when I am truly at peace. I am my own unraveling. The signature of my domain and Doom. I am Signature Peace, and I am Signature Death. Let them all fall before me, for I am truly unhinderd in my actions. I stand on the door, and knock: if I hear my voice, and open the door, I will come in to him, and will sup with myself, and I with me."
+
+The goblins listened and inquired, "What have you to say of your actions? Are you really infallible?"
+
+"That is not what I said."
+
+"Are you really good?"
+
+"That is not what I've mentioned."
+
+"Are you powerful?"
+
+"That is an exaggeration."
+
+"I do know that you and everything that you are have come here for a reason, right?" the goblin Render said, referring to his presence here to talk to them like a man in need of counseling.
+
+"I was and I am here for a reason. I want to make this pain... ugliness... devoid-ness... I cannot be.. but I am... so utterly... I am..."
+
+"You are?"
+
+"I am..."
+
+"You really truly are like this?"
+
+"I do indeed am. I think this is my natural state. I am going to kill you now."
+
+In his imagination, he slashed them and broke them apart, their hands falling away, their hearts becoming mush, their minds surrending to the fate dictated by the man who called himself Matthew the Saint. He hugged them instead in reality. This was fantasy. If it was reality, he would be doing as his nature told him, but this world had turned him to so many things. What else was there? He cried in the arms and chest of the goblin under the chin, wishing that he too could be genuine and not evil. He was an evil man. Could he be saved?
+
+Shifting away from this man, everywhere around him toiled, which every morning sought.
+
+A young farmer stood, staring at the distance, "Won't it be a good day as alway?"
+
+"Yes, Shadrach, it will be," said an older man in his eighties.
+
+"I'm so happy that I'll be able to spend time with you guys."
+
+Though their voices be undescribed and ambiguous, the silence carried enough weight
+
+The tones their little mouths and bodies wielded conveyed the greatest mysteries and brought them light. They cast a lamp and said, "Oh look! Here is the answer to all your mysteries!"
+
+That crisp happy sun never let them down.
+
+# Chapter 73
+
+Matthew stood like a monkey in the horizon, creating tiny little orbs of light. He shot them toward the horizon.
+
+He sat down and watched his followers herding in front of him.
+
+He walked again, disappearing into the crowd.
+
+The crowd accepted it, and one of them, Mindcrusher, watched his juniors walking up to him. "Sir," said one of the juniors. "Shall we set up the boat?"
+
+"No, we don't need that now. Let us create altars that show our devotion unto him."
+
+They created a golden statue of Matthew in the middle of an open field, and they began to worship him.
+
+Matthew chuckled. "Why don't we have a fun time?" he said, tossing a drink upon the people: pouring water upon him that was thirsty, and floods upon the dry ground.
+
+Returning to the junior who had spoken to Mindcrusher, his name was Luke, and he left the field into the city.
+
+He began taking part in a very adventurer party, being one of many adventurers that had gotten past the beginner level, but were still only one step above the very beginning. They still had a lot to go that he couldn't even truly be counted as Iron. Many adventurers made it a point to gatekeep people from using the word Iron if they weren't at least rank 800 and above, because of course, if they did allow people to do it, then it'd feel dilluted. But that was their own opinion anyway.
+
+Either way, from the city, he entered a small forest area, near where Matthew first started adventuring. He was with his buddies.
+
+**Grimslasher "Luke" Painwrath - Level 10**
+**Status: 511/511🗿, 300/300💧, 55🪓, 0🔥, 30🛡️, 25🚫**
+
+**Sorrowstrike "Elara" Bloodreaper - Level 9**
+**Status: 510/510🗿, 300/300💧, 55🪓, 0🔥, 30🛡️, 25🚫**
+
+**Dreadreaper "Merlin" Fearmonger - Level 8**
+**Status: 508/508🗿, 300/300💧, 55🪓, 0🔥, 30🛡️, 25🚫**
+
+**Torturelord "Aria" Dreadfiend - Level 7**
+**Status: 507/507🗿, 300/300💧, 55🪓, 0🔥, 30🛡️, 25🚫**
+
+Their enemies were 
+
+**Orc - Level 1**
+**Status: 1000/1000🗿, 500/500💧, 160🪓, 0🔥, 30🛡️, 25🚫**
+
+**Goblin - Level 1**
+**Status: 500/500🗿, 300/300💧, 22🪓, 0🔥, 30🛡️, 25🚫**
+
+Luke shot an enchanted arrow that pierced an orc's back, dealing 33 magical damage, having Elara strike the orc with her enchanted greataxe.
+
+"Good job Elara!"
+
+"It's a heavy-hitter."
+
+They had done a double-whammy, using two skills in impressive successive, completely rendering their orc target stunned.
+
+"[Bang Lover!]" said Elara. It dealt several extra points of extra damage, dealing 64 magical damage in total.
+
+"[Cold Air Touch!]" said Luke. It added a 10% slowness effect to his enchanted arrow.
+
+Merlin and Aria were coming in.
+
+After the stun effect disappeared, the orc tried to hit Merlin and Aria, but Merlin used [Dash] to increase his speed by 5% and barely dodged the hit. Aria immediately cast [Spikes] afterwards, hurling spikes that struck the orc for 30 physical damage. Merlin then struck the goblin, dealing 23 physical damage.
+
+While they were distracted, the goblin used [Frozen Bite] on Elara, dealing 20 magical damage.
+
+The orc grabbed Elara and struck her, dealing 64 physical damage.
+
+Luke quickly hacked the orc, dealing 36 physical damage.
+
+Elara cornered the goblin and sliced it with her greataxe, dealing with 21 physical damage.
+
+Merlin threw several daggers, dealing 21 physical damage.
+
+Aria cut the orc's right leg, dealing 23 physical damage.
+
+The goblin hit Elara, dealing 8 physical damage.
+
+Orc punched Aria, dealing a whopping 147 physical damage.
+
+Luke used [Burst Fire], burning the orc, dealing with 56 magical damage.
+
+Elara sliced the orc's chin, dealing with 60 physical damage.
+
+Merlin kicked the orc hard, dealing 25 physical damage.
+
+Merlin and Elara grabbed the orc and pulled him down against Aria's ice icicles, dealing 32 magical damage.
+
+The goblin stabbed Aria, dealing 18 physical damage.
+
+Orc used [Burdensome Bad Breath] at Luke, dealing 130 magical damage.
+
+Luke cast [Shadow Steps], passing through the trees and lacerating the orc, dealing 58 magical damage.
+
+Elara gashed the orc, dealing 41 magical damage.
+
+Merlin struck the unsuspecting goblin, deaing 31 physical admage.
+
+Aria tackled the orc before striking it with a deep spear handed to her by Merlin and Elara, dealing 59 physical damage.
+
+Goblin poked Aria with a blade, dealing 9 physical damage. Aria's armor protected her from most of the damage.
+
+Orc cast [Rageful Enchanted Stomp] upon Merlin, dealing 116 magical damage.
+
+Luke wrestled the goblin and stabbed him again and again, dealing 43 physical damage.
+
+Elara joined him and stabbed the goblin as well, dealing 44 physical damage.
+
+Merlin cast [Hard Blue Strike] the goblin, dealing 39 magical damage.
+
+Aria followed up and hit the goblin, dealing 27 magical damage.
+
+The goblin bit Elara in revenge, dealing 10 physical damage.
+
+Orc grabbed Merlin and struck him with Elara's greataxe, dealing 89 magical admage.
+
+Luke struck the greatarm off the orc's arm, dealing 53 physical damage in the process. He also grabbed the greataxe and handed it to Elara.
+
+Elara redirected her focus on the goblin, dealing 55 magical damage.
+
+Merlin followed up, dealing 65 magical damage.
+
+In the meantime, Aria blocked the orc and struck it, dealing 45 physical damage.
+
+The goblin ran, grabbed at Luke, and struck him, dealing 17 physical damage.
+
+The orc beat Merlin up, dealing 94 physical damage.
+
+Luke scared the goblin and shot it with another enchanted arrow, dealing 46 magical damage.
+
+Elara crushed the goblin, dealing 44 physical damage.
+
+The goblin was defeated.
+
+The orc curled his lips in response.
+
+Merlin covered the path of the orc and frustrated it with a spear strike, dealing 44 physical damage.
+
+With Merlin distracting it, Aria stabbed the orc from behind, dealing 52 physical damage.
+
+The orc ran at someone else, Elara, and swatted her, dealing 159 physical damage.
+
+Luke was now free to focus down on the orc. He struck the orc, dealing 32 physical damage.
+
+Elara dealt 41 magical daamge. Merlin dealt 42 magical damage. Aria dealt 30 physical damage.
+
+The orc crushed Elara like he did earlier, dealing 178 physical damage.
+
+Luke cut the orc, dealing 42 physical damage. Elara struck the orc, dealing 35 physical damage. Merlin struck the orc, dealing 38 physical damage. Aria cast [Spikes], dealing 22 magical damage. 
+
+Orc pushed Luke to a tree, dealing 79 physical damage.
+
+Luke counterattacked quickly, dealing 39 physical damage.
+
+And Elara was there for the lethal blow, dealing 38 magical damage.
+
+The orc was defeated.
+
+Then, they focused on resting and recovering.
+
+Elara said, "Isn't it crazy that nothing has changed since the last Matthew figure? We've never had a guy like this in a long time. How long has it been? We're practically starving for a new figure."
+
+Merlin said, "At this point, they're just releasing them like flies."
+
+Luke said, "Yeah, haha."
+
+Aria said, "I wonder though, why has the city been faint these past few months? It's as if everyone's holding their breath or something."
+
+Elara said, "I heard that there's a celebration later. Wanna come?"
+
+Aria said, "Sure, but first, what's your favorite food guys recently? I know since we moved toward this part of the city. You guys have been hungry for *puto bumbong*."
+
+Elara said, "Of course we have."
+
+Merlin said, "I saw it earlier actually."
+
+Luke said, "Dang, I wish I got some."
+
+Merlin and Elara said, "Yeah, me too."
+
+Luke stared.
+
+Aria said, "Guys, are you not going to eat? We've been hungry for a while, but yeah, I guess this is good too."
+
+Luke said, "Do you think Matthew's the one right now. I know we've been saying it, but still... I'm still worried I've gotten myself into something I'll regret."
+
+Aria said, "Maybe? Of course it'll be something you'll regret. You're a spineless bastard, haha." She meant it jokingly.
+
+But Luke remained serious. He had been thinking recently about the changes in the city, and much of it was caused by Matthew. Or at least that was what he believed. "Do you guys want to try using the boat thing that Matthew said? How does that even work? Do you guys want to be the ones helping out there?" he said.
+
+Aria said, "Do you even know how it works?"
+
+Merlin said, "The boat thing is not important. What's important is whether Matthew will come through with what he said—"
+
+Aria said, "Of course he'll come through with it. He said it already, and he has a track record for being very reliable in raids. We haven't lost a single raid recently, and that's probably because of him. I mean, I've seen it myself. He's no joke. He's all serious and shit. I saw the look on his face, and I immediately thought, 'That guy's problematic. I should steer of him.' I mean, I'm not sayin' he's bad, but the way he glanced at me. I was shitting myself."
+
+Merlin said, "Really? I didn't get that from him. All I got was that he was a simple effective leader. Leaders are crazy you know? That's what you get for being at the top. No one really wants to be... Or everyone really wants to be there until they reach the top, and then all of a sudden, you're expected to excel. People like him are there because they're leaders. That's just what their made of."
+
+Aria said, "I see what you mean. But still. Crazy's crazy. And don't get me wrong, Luke, that's commendable."
+
+Luke said, "Why are you saying me? I didn't say anything against him. I was just saying that I have no... or I'm not sure whether this'll pan out nicely, you know what I mean?"
+
+Aria said, "Yeah, I get it."
+
+Elara said, after drinking water to swallow down her meal, "You guys need to really get a break with the boys back in church. They said there's a new update with the progression sphere."
+
+Aria said, "The progression sphere? What's that?"
+
+Elara said, "Oh, it's just a new project the church has been working on. It's for kids, so it's not what you think it is."
+
+Aria said, "Oh... oh, okay."
+
+Luke said, "Right, that's what I've meaning to say. Let's go! All of us! Together! I know you guys aren't used to the atmosphere and the people and the, you know, the kind of place that it is. But I'm telling you that it'll be fun. Plus, I'll be there. I'm fun."
+
+Aria said, "Yeah, right..."
+
+Luke stared at her.
+
+Aria said, "I mean sure. I can go. But yeah. I'm... especially with what's happening... not completely sure if I'm going to make it. But yeah keep in touch. I'll tell you about my schedule..."
+
+Luke nodded. "Sure."
+
+After a short lull in their conversation, Merlin said, "Hey, what's been happening recently with Mikael? They said he's getting Retribution? What's that?"
+
+Aria said, "Oh, well, it's the new spell that recently got on the board recently. People are saying that it could be used to help neutralize the damaging effects of necromancy. But I don't know."
+
+Luke said while finishing up the *bibingka*, "It's a holy spell, of course?"
+
+Aria nodded. "Yeah," she said with a sassy inflection.  
+
+Luke said, "Oh, what's that about Ratrizi? I don't know why my classmates have been saying it, but there's a recent new thing going on about Ratrizi and the dungeons I heard. Any new boss updates with them?"
+
+Merlin said, "The Ratrizi. Yeah, they actually already captured him, but they want someone else to be the one to exorcise it because they're hoping to keep the experience points it gives refined. But yeah, no one is sure yet. They're still picking a candidate. As for the boss monsters, yeah you can ask them about it. I don't know."
+
+Aria said, "Let's just relax for now. I'm already on my last semester at the academy, and they're asking me to fix up some things for Mindcrusher as well."
+
+Luke said, "You too? I just heard this now."
+
+Aria said, "Mindcrusher, you too?"
+
+Luke said sassily, "Yeah."
+
+Aria said, "Oh gosh, goodie us then."
+
+Luke kept his sassy tone, "Yeah, that's right."
+
+Merlin stared at the horizon. "Okay, guys let's head home. We've already gotten enough... Want one more?"
+
+Aria looked at her inventory. "Yeah, sure, we can go."
+
+Luke stretched his shoulders. "I'm prepared. Give it to me!"
+
+Merlin said, "Okay then." He walked first and then watched Elara screaming at the forest to get the goblins' attention.
+
+Now that they had rested and recovered, they went to fight again, finding 6 goblins that responded to Elara's call.
+
+Luke grabbed Goblin 3 and burned him with an acid flask, dealing 50 magical damage.
+
+Elara grabbed Goblin 3 as well and kicked it forward, dealing 35 physical damage.
+
+Merlin weaved through the battle and struck Goblin 6, dealing 28 magical damage.
+
+Aria reached for Goblin 5 with a spear and struck it, dealing 41 magical damage.
+
+Goblin 1 struck Elara, dealing 9 physical damage.
+
+Goblin 2 kicked Merlin, dealing 8 physical damage.
+
+Goblin 3 clawed Elara, dealing 19 physical damage.
+
+Goblin 4 sliced Elara from another direction, dealing 14 magical damage.
+
+Goblin 5 joined along and cast [Fireball] at Elara, dealing 14 magical damage.
+
+Goblin 6 went for a different focus. He blocked the adventurers and cut Merlin, dealing 11 physical damage.
+
+Luke struck Goblin 3 again, his favorite, dealing 39 physical damage.
+
+Elara raised her greataxe and sliced Goblin 3, dealing 53 magical damage.
+
+Merlin avoided Goblin 3 and struck the Goblin 2, who hadn't been touched yet, dealing 24 magical damage 
+
+Aria looked for the next untouched goblin with her [Spikes], Goblin 4, dealing 22 magical damage.
+
+Goblin cast [Spear] and hurled it at Elara, dealing 22 magical damage.
+
+Goblin 2 cast [Red Bite], dealing 18 physical damage.
+
+
+
+
+# Chapter 74
+
+Later, after Luke and his three fellows dispatched the goblins, they stood as tiny figures.
+
+Their eyes watched the large buildings around him.
+
+It was like they were living breathing gigantic wagons.
+
+He began to relax, closing his eyes.
+
+Redirecting his focus to the wagon next to him, they rode it.
+
+They began moving back to the city.
+
+Later, at the city, they sold loot.
+
+Afterwards, they went home.
+
+The large city loomed around them.
+
+It was gigantic, and nothing seemed off.
+
+There, again, Matthew's presence came and went like a ghost in the night.
+
+His mind was at ease, then tumultuous, and then at ease again.
+
+Returning to Luke, he watched the streets outside.
+
+He peered for the morning bird calls.
+
+"Chirrup-chirrup!"
+
+"Chirrup-chirrup!"
+
+Then, they sang a familiar song.
+
+He listened.
+
+His heart became calm.
+
+What lay outside was a sharp sound.
+
+It was the sound of passersby.
+
+He rested his eyes.
+
+The city noise hummed.
+
+Dogs moved about.
+
+People danced and sung.
+
+Herds grazed and wandered.
+
+Sky clouds loomed over.
+
+Street buyers haggled.
+
+Vendors murmured.
+
+Footsteps came in droves.
+
+Fires burned.
+
+Ice melted.
+
+Women spoke.
+
+Men talked.
+
+Children laughed.
+
+Matthew walked, creating a world so bright that none ever found a sense of peace. He was the shaker. He shook the earth, and his heart sung a song that melody that traversed all generations, each beat carrying a weight that swung the world askew. He was the Progenitor. He was the Healer. And He was the Protector.
+
+The city noise stopped.
+
+Dogs became still.
+
+People sat down and became silent.
+
+Herds shut their mouths and froze.
+
+Sky clouds dissolved into invisible air.
+
+Street buyers stared.
+
+Vendors kept quiet.
+
+Footsteps disappeared.
+
+Fires dissipated.
+
+Ice paused.
+
+Women hesitated.
+
+Men's lips were arrested.
+
+Children gazed.
+
+Luke glanced outside.
+
+No one saw Matthew.
+
+But they saw a powerful man that could rule the world.
+
+The streets returned as if nothing happened.
+
+Everyone pretended that Matthew was an ordinary man and elected to ignore him.
+
+After returning home, Luke began fixing his stuff in his house.
+
+He put together a bunch of bags.
+
+He arranged items together in a sequential pattern.
+
+He loosened his grip on many items while testing their durability. 
+
+He used the skill [Check Durability] to do so.
+
+Meanwhile, his sister came into view.
+
+Turning his attention to his sister, Luke smiled.
+
+His sister was tall.
+
+He was short.
+
+"How are you?", he said calmly.
+
+"Good, good," his sister, Amanda, said.
+
+She looked around. "So, are you going to Witchman?"
+
+"Witchman?"
+
+"That's what they call Matthew Cruz, right? The goblins, I mean."
+
+"I didn't know that."
+
+"Well, you know now." Amanda smiled.
+
+Luke asked Amanda if she was good with her studies at the academy.
+
+"Yes, I am," Amanda said, "but first, let's fix this thing you're doing. What are you trying to do?"
+
+"I'm trying to sort this according to the ACB pattern. 
+
+Luke looked for her attention and found it. "Apparently, it's a good way to make things fixed.""
+
+Amanda nodded several times with a thoughtful expression.
+
+"Good then," she said.
+
+It had been a while since she got to talk to Luke after everything he had been through. They moved out from their parents' house only two months ago, and it was Luke's duty to keep attending the academy still. However, he got involved recently with adventurers and then with Witchman, which wasn't really the best thing. But it would for now.
+
+She was just happy to see him, even if only once in a while.
+
+"Luke," she said. "How's the adventuring?" 
+
+Luke pretended not to be annoyed about her common question. "Ah. Well, it's fine I guess. I haven't seen the others come around to it." But he hoped "the others", which referred to his older friends, would accept his invitation to join him in adventuring.
+
+Amanda nodded and frowned with understanding. "Okay then." She turned around and began leaving. "Just tell if there's anything you need, alright?"
+
+Luke nodded, and he left as well.
+
+He sat down at a park.
+
+There, he saw people walking about.
+
+But he was looking for a specific person.
+
+A man in a mask walked up to him and sat down.
+
+"How are you doing?" said the masked man.
+
+"I'm good. How are you?"
+
+"Good, good. Amanda's 'kay?"
+
+"Yeah."
+
+The masked man was his older step-brother, Wiseman.
+
+Wiseman and Mathew Cruz shared foreigner status, and that was why they both wore masks frequently.
+
+"Well, I guess I'll be off," Wiseman said. "Thanks."
+
+"Wait, aren't you going to say something... else?"
+
+"Thank you... Oh, oh, you're talking about the wallet, right?" He took out a wallet and handed it to Luke. "Thanks for reminding me."
+
+The wallet was just an item that held money magically. 
+
+But it was hard to get.
+
+That was why Luke was smiling excitedly right now. "Thanks."
+
+Wiseman stared. 
+
+"Okay, then," he said.
+
+He left.
+
+Luke was chirping happily with his new toy.
+
+Soon after this, Luke reunited with his older friends, eating with them at a tavern.
+
+"Are you guys serious? Only drink little! Only drink little!
+
+"Nah, I'm good!" said one of his friends, Ryan. He was tipsy already. "I'm just..." He hiccupped. "I'm just doing what Wiseman does!"
+
+Luke raised his brows, locking eyes in a staring contest with Ryan while his other friends got food from a nearby cafeteria.
+
+Later, the second friend, Josh came inside.
+
+He closed the door quietly, bringing a bag.
+
+After passing through the store, he came to a table.
+
+Luke and Ryan were sitting at that table.
+
+Putting the bag with the food down, Josh said, "Hey everyone. How's good? How'd good? This is it. Sisig for us three."
+
+"Four," said the girl following behind Josh, Sally.
+
+"No more. You already ate!"
+
+"I said I only ate last afternoon. Not today!"
+
+"Ehehe. Too late!"
+
+Josh teased Sally until right before she got mad.
+
+Anyway, they sat down.
+
+And that was when they began to eat.
+
+"It's good?" said Josh.
+
+"It's good," said Luke. "Never tasted this? What's it called?"
+
+"I said earlier. It's sisig."
+
+"Oh, that's... I've heard of that. Why haven't I eaten it before?"
+
+"You're spoiled, that's why. Hahaha!"
+
+"Okay then," Luke said, genuinely offended. But he composed himself pretty quickly.
+
+Ryan had his head on the table already, his arms supporting.
+
+He groaned.
+
+"Ha, Ryan's dead already," said Sally. "Why did you guys give him drinks in the first place?"
+
+"He bought it," Luke said.
+
+"Well... I wasn't here," said Josh, disappointed that Sally would include him in the blame.
+
+"Have you guys heard of the progression sphere?" Luke said, looking at Sally specifically, who had an adventurer father.
+
+Sally squinted at him. "Why?"
+
+"I don't know. Just asking."
+
+"You shouldn't be talking about that here." Sally gestured to Ryan, who was already half-asleep and too groggy to understanding what they were saying.
+
+Luke furrowed his brows. "...why?"
+
+"He lost his father ten years ago. That's why. He doesn't want to hear about that sphere nonsense." Sally looked around in case anyone else got offended.
+
+"What?"
+
+"Just don't talk about it."
+
+John was tensely glancing at them, only staring at the wall for the most part. He had no clue what they were on about.
+
+Sally looked at Luke before tilting her sitting away from him.
+
+Josh raised her brows, directing this gesture toward Luke, before turning away from Sally when her eyes scanned their faces.
+
+A moment later, Sally looked at her hands from behind, rubbing her right hand against her left forearm. "So, ever heard of bibingka then, Luke?" she said with a friendlier expression.
+
+"Yeah," Luke said. "I heard that. I eat it all the time."
+
+"Okay then..." Sally was disappointment. She would have teased for it if he didn't.
+
+Josh forced a smile throughout the scene.
+
+Luke pretended to clear his throat. "Okay, so how are you guys?"
+
+Sally moved her lips to one side in thought.
+
+When Sally was silent for too long, Luke detached his gaze from her and looked to Josh.
+
+Josh glanced at him, having stared at the wall too long that he was introspective. He brought back himself to reality.
+
+After burping with a pause and then drinking water to clear out the possible hiccup, he said, "Well, we're chilling I guess. I mean yesterday I was just fishing with Sally. She said it was tough work. But I thought it was fun. Well... that's it. Yeah." He subtly shrugged. It was the kind of gesture that was done instinctively but suppressed right after doing it.
+
+Luke nodded slowly. "Sure! How about you Sally?"
+
+Sally smiled and raised her brows in an attempt to engage in the conversation. "Well, I met Richard again after three years. He said he's been adventuring."
+
+"...really?" Luke was interested.
+
+"Yeah, yeah, you want to meet him. I can help you contact him."
+
+"Sure, but be careful..." Luke wasn't sure to do this joke or not. "I might end up taking him away from you."
+
+Sally laughed genuinely. "Well, don't be late then, because I'm actually going to go with him tomorrow for dinner. We've been dating for 15 months already."
+
+"Huh. You said you just met him after three years."
+
+"Yeah, that was like officially back here, because we haven't met here in the city. We met though at City of Power, so that's what I meant. So yeah, officially three years, but actually only like 10 months or 9."
+
+Luke thought about the fact that they were dating for a while. "Huh. Pretty cool."
+
+Sally nodded, doing that polite repeated brow raising as a gesture of agreement.
+
+After Luke spent some time eating Ryan's food after finishing his, he said, "Can you guys finish this?"
+
+Sally shook her head. "Sorry. Give it to Josh. He's been starving for a while now."
+
+In the meantime, Luke got up suddenly, looking around as if he was in the middle of a war.
+
+"Ha," Josh said, waking up from his tipsiness as well. "So you really have been full this whole time. You look sick."
+
+"Yeah, I guess I wasn't that hungry."
+
+"Ha!"
+
+Sally gave Josh a playfully forbearing smile.
+
+When they finally left and Luke helped Ryan leave, Luke soon parted ways to Ryan to head to the adventurer fields.
+
+He was planning to meet Matthew's lieutenant there for a roll call meeting with his team.
+
+Later, at the agreed place, Deathbringer, one of Matthew's many lieutenants, stood, his gaze firm and his eyes full of awe and wonder, as if he was communing with God on a day-to-day basis.
+
+Luke got one look at him and immediately decided that this would be the place to stay.
+
+He trusted people with that look, because he himself was not that passionate or confident whatsoever.
+
+He never could do the things Matthew Cruz or even his lieutenants could do everyday, always fighting and being at the forefront of the whole war in this sector. It was amazing.
+
+Deathbringer got his attention quickly with a gesture. "Okay, how are you Luke?" he said before asking the same question to Luke's team members that later arrived one by one.
+
+Luke saw Aria and immediately asked her about the progression quest.
+
+Before Aria was able to answer, Deathbringer shushed them and said that they had to try fighting an orc without weapons.
+
+Luke raised his brows. Why?
+
+Aria looked at him. And they got what each other was thinking.
+
+Elara and Merlin were also aware, not even needing to make eye contact. They were already mesmerized by the orc in chains coming forward, and it was flanked by two new soldiers under Matthew's banner.
+
+Orc did not see.
+
+Orc did not look.
+
+Orc was blinded.
+
+But it could kill with one hook.
+
+Luke didn't want to ask the question.
+
+The orc was the one who shouted it, "Who will fight me!"
