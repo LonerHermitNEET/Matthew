@@ -1,0 +1,29 @@
+{"Elara said": {
+    "prefix": "E",
+    "body": "Elara said, $0",
+    "description": "Insert 'Elara said' dialogue"
+},
+
+"Luke said": {
+    "prefix": "L",
+    "body": "Luke said, $0",
+    "description": "Insert 'Luke said' dialogue"
+},
+
+"Merlin said": {
+    "prefix": "M",
+    "body": "Merlin said, $0",
+    "description": "Insert 'Merlin said' dialogue"
+},
+"Aria said": {
+    "prefix": "A",
+    "body": "Aria said, $0",
+    "description": "Insert 'Aria said' dialogue"
+},
+
+"Gobsmeek said": {
+    "prefix": "G",
+    "body": "Gobsmeek said, $0",
+    "description": "Insert 'Gobsmeek said' dialogue"
+}
+}

@@ -1,4 +1,12 @@
-# Chapter 1 - A World Apart
+>A man named Matthew with dark hair and a smirk stands on a rooftop, extending his hand toward the viewer as if inviting them in. He's dressed in elegant, dark clothing with a pop of color from a red-orange undershirt. The background is a city at night, bathed in cool blue tones with buildings silhouetted against the sky. The title, "Matthew," is written in a bold, white, handwritten font at the bottom of the image. Below the title, in a smaller, simpler font, is the tagline: "The Epitome of Grace and Beauty - An Intellectual Psychological Isekai LitRPG"
+
+Book Description:
+
+Matthew, a once ordinary man, had his life abruptly snatched away. Despite a content existence on Earth, surrounded by loved ones and knowledge, he found himself thrust into a new world, devoid of care or compassion. Struggling to adapt, he relied on his intellect to navigate the chaos around him. Every action held consequence, with death lurking at every turn. Determined to maintain his sanity and control, he sought to make sense of his surroundings and establish dominance. Yet, beneath his turmoil, a realization dawned—to survive, he must embody grace and beauty, transcending the chaos that engulfed him. He would become the epitome of grace and beauty. He was not crazy. He was just like everyone else. But he had to become everything.
+
+*1 chapter everyday; 2500 average word count; 2 PM CET*
+
+## Chapter 1 - A World Apart
 
 >Author's note
 >
@@ -15,7 +23,7 @@ He would have to guide it himself, his grip fiery in form, the edges of his blad
 
 In conclusion, he raised his blade as if to slash.
 
-![](jar_plant.png)
+![](/images/jar_plant.png)
 
 Before this month, things were different, so different. If Matthew only knew, if he did, he wouldn't be thinking the way he was now, stuck in contemplation like some stuck-up little nobody too involved with his daydreams.
 
@@ -281,7 +289,7 @@ All he had to do was find out exactly how each person fit into society.
 
 It all started from this inn.
 
-# Chapter 2 - Navigating the Unknown: Entering the Realm of Questions
+## Chapter 2 - Navigating the Unknown: Entering the Realm of Questions
 
 
 First, Matthew could start with a list of essential questions, so he did. Though, he was risking outing himself, but with the inn regulars' help, maybe he could seem like a drunk or some foreigner with his modern clothes and unique ethnic appearance.
@@ -526,7 +534,7 @@ After the bazaar retailing ended, Matthew and the adventurers left.
 
 Their next destination was a dungeon steps.
 
-# Chapter 3 - Revelations and Realizations in the Dungeon Steps
+## Chapter 3 - Revelations and Realizations in the Dungeon Steps
 
 
 Even though he enjoyed how varied his day was, he was happy to see that the adventurers in front of him had stopped to sit and lie down. Particularly, they did this on an upside-down, unfinished canoe under a large tree. To clarify, they were resting since they had been trekking all day through urban streets and the jungle. Moreover, their legs were still a little affected from the past week since they saved and took in Matthew.
@@ -739,7 +747,7 @@ Matthew, having regained some rejuvenation, felt that he needed some long-term a
 
 As soon as they arrived at the location, Matthew had time to relax, as the adventurers wanted to rest before marching into the dungeon. As for the reason of this, these dungeons could be very deep, wide, and labyrinthine and left little time to rest.
 
-# Chapter 4 - The Goblin's Challenge: Matthew's Slaying Spree
+## Chapter 4 - The Goblin's Challenge: Matthew's Slaying Spree
 
 
 In the distance, Matthew watched several wild dogs hopping about, their bodies like contorted dancers in a danse macabre. These dogs were relatively normal-looking, but it was the way they moved that made him wince.
@@ -902,7 +910,7 @@ Many days later, he remembered his stats, and since it had been his third week i
 
 **Matthew responded with a brilliant smile.**
 
-# Chapter 5 - Goblin Slayer's Odyssey: From Poster to Quests and Unraveling Magic
+## Chapter 5 - Goblin Slayer's Odyssey: From Poster to Quests and Unraveling Magic
 
 
 Days ago, as he was traveling around the city on one of his many free days, he noticed a poster on a building that showed a colored drawing of a goblin and words that read: "Kill Goblins, Get Money." The goblin was smirking and holding two knives with his arms crossed.
@@ -1203,7 +1211,7 @@ But as soon as he was finished, the [System] finally handed him the kindness que
 
 "My goodness... This is so... I should be surprised, really, but at this point, I don't even know. It is what it is, huh. I've already reached the point where I'm normal with this now." He laughed.
 
-# Chapter 6 - Strategic Maneuvers: Unraveling the Hobgoblin Menace
+## Chapter 6 - Strategic Maneuvers: Unraveling the Hobgoblin Menace
 
 
 In the distance of a bright city, an older man walked the streets, a heavy smile on his face. Wherever he walked, he paved the way for future generations, and his dreams would outlast him. But that was life. "How long has it been?" he said, reflecting through thousands of memories. The bitterness that came from the pains of the past and the weakness he experienced now combined, but they were counterbalanced by the beauty and times of joy he experienced throughout his life. It was like swallowing the sweetest drink in the company of over a thousand friends, accompanied by the destruction of worlds in the background. In short, days and years become dusty carpets through art. And soon enough, that art would be emulated by those who didn't know the context behind it. That process repeated itself until the memories symbolizes by that very simple art piece disappeared and faded away, having their impact resting through dirt and earth. Gone were the days of old.
@@ -1368,7 +1376,7 @@ In order to manage information, he had hired scribes record, transcribe, and org
 
 With the influence of the scribes, Matthew knew well that his prior experience, education, relationships, the urgent quest deadline, and his own personal growth all contributed to him becoming hyper strategic. His systematic information gathering, methodogical planning, and connection harnessing to try and defeat Mawkery reflected this. In conclusion, he was well aware that his resourcefulness and leadership skills had kicked into high gear.
 
-# Chapter 7 - Decisions and Consequences: Unraveling the Threads of War
+## Chapter 7 - Decisions and Consequences: Unraveling the Threads of War
 
 
 "Matthew, what the hell are you doing? Have you been taking care of yourself? What's happening now?"
@@ -1563,7 +1571,7 @@ Further lines of adventurers crashed and burned, and Matthew began to realize a 
 
 He was stuck in a battle that he didn't control, and even experienced adventurers were being thrown like fodder to the jaws of the pig.
 
-# Chapter 8 - A Clash of Strategies: Reevaluating Roles and Alliances
+## Chapter 8 - A Clash of Strategies: Reevaluating Roles and Alliances
 
 
 Matthew never knew that the King and Mawkery would do this, and all the research and information never suggested this.
@@ -1678,7 +1686,7 @@ This new alliance allowed Matthew to walk alongside hobgoblins in a peaceful set
 
 In the repurposed hobgoblin camp, Matthew had a reunion with Deathbringer, Sophia, and other familiar adventurers. He introduced his fellow warders and agreed to eat together. In the background, hobgoblins and adventurers were slowly beginning to acknowledge each other and even discuss about their respective food cultures. However, it was still an awkward start, but those who initiated conversations made use of this opportunity to relax and reignite hopes of returning home. As for the adventurers among them, they excitedly imagined the profits.
 
-# Chapter 9 - Paths Converge: Bonds, Quests, and Shared Endeavors
+## Chapter 9 - Paths Converge: Bonds, Quests, and Shared Endeavors
 
 Matthew stared at Deathbringer. "How are we managing?" he said.
 
@@ -1966,7 +1974,7 @@ Matthew said that he could help her, so he asked the most relevant question, "Do
 
 In light of this, Matthew became much more animated, finding something he could benefit from. This meant that it was in his best interests to help her out, making it a win-win situation for the both of them. "This is so good!" If he could find a kindred spirit who actually aligned with his goals and interests in her, then he could stave off the loss of his Earth family, life, and friends and the stress from the torturous hardship he experienced in this world.
 
-# # Chapter 10 - Reflections and Realizations: Facing Moral Dilemmas and Setting New Directions
+# ## Chapter 10 - Reflections and Realizations: Facing Moral Dilemmas and Setting New Directions
 
 
 Matthew stared at Michel, surprised by her disgusted expression. "What?" he said, the excitement in his voice dying down.
@@ -2117,7 +2125,7 @@ He stopped for a moment and took a breather. This was only the tip of the iceber
 
 So he visited the place where he met the golem maker.
 
-# Chapter 11 - Lost in Translation: Seeking Understanding in a Foreign Realm
+## Chapter 11 - Lost in Translation: Seeking Understanding in a Foreign Realm
 
 
 By detail, the place in which the late golem maker had resided was large, fitting several different compartments that all looked like one small family. If a family did live here, it would feel like foreigners had taken over the city. Moreover, Matthew glimpsed into the various scratchy sides of the shelves and the small dents and dusty specks fomenting allergy-inspired coughs. The cracked cobblestone wall held together by a passively humming magical essence suffused him with a sense of place, warding him from mental fog. This light-bringing moment of contact engaged him with the emotional residues that guided this place's hollowed seats where the buttocks received a mark. In this careful shine, he received the gift of peace.
@@ -2390,7 +2398,7 @@ When they walked up to Rodney, they side-eyed Matthew up and down.
 
 Meanwhile, Matthew tried to straighten himself more than he already was, thinking that he might have been accidentally lying down carelessly without realizing. If he missed the opportunity to gain their approval, he would isolated in his concerns again, so he looked like the very shy, shaky, introverted boy he was as a child.
 
-# Chapter 12 - The Path to Discovery: Unveiling Magic and Inner Struggles
+## Chapter 12 - The Path to Discovery: Unveiling Magic and Inner Struggles
 
 Accompanied by his usual mix of nervousness and determination, Matthew said, "I want to know about magic."
 
@@ -2604,7 +2612,7 @@ He needed to break this trend of weakness and helplessness. So he slowly transit
 
 This broke his spell.
 
-# Chapter 13 - Overcoming the Struggles of the Mind: Matthew's Path to Greatness
+## Chapter 13 - Overcoming the Struggles of the Mind: Matthew's Path to Greatness
 
 
 Matthew was notably very sick mentally, but that didn't stop him from achieving great things.
@@ -2959,7 +2967,7 @@ As soon as they completed the dungeon, Matthew got a quest.
 
 **Join the jubilant fray and let the goblin-slaying festivities commence!**
 
-# Chapter 14 - Detaching From Ingrained Tendencies
+## Chapter 14 - Detaching From Ingrained Tendencies
 
 
 He stared at the silence, and in the dark, he became like a light.
@@ -3260,7 +3268,7 @@ With time, the sprinter event inculcated the recognition of individuals and thei
 
 He mastered the patience to accept the emotions encircling this information, condensing it into fruition.
 
-# Chapter 15 - The Puppeteer's Gambit
+## Chapter 15 - The Puppeteer's Gambit
 
 
 But for some reason, despite the sprinter event being a reflection of a more active community, it also reflected the wealthier part of the community. What used to be a battleground between an adventurer coalition and goblins became an area where those wealthy enough to afford the grounds or knew someone who did enjoyed themselves. It was treated similar to a noble's hunting land, as several cave networks, dungeons, and various underground chambers provided entertainment for wealthier adventurers seeking novelty and enjoyment in a controlled space. Even adventurers were separated into broad categories of high, mid, and low income, each easily identified by their abodes and communities. Interestingly, it was also the higher-income adventurers that held the responsibility of fighting for adventurer rights. So even if mobility between classes could be considered easier in certain metrics such as individual ability, individual ability didn't necessarily lead to substantial outcomes.
@@ -3397,7 +3405,7 @@ With this, his heart regained flesh and blood, and his mind returned to sharpnes
 
 During his appreciation of the cityscape, after reviewing his memories, he came to several conclusions: that his humanity had thus been defined, that he was not special, and that he could die any time.
 
-# Chapter 16 - A World Remade: Matthew's Reckoning
+## Chapter 16 - A World Remade: Matthew's Reckoning
 
 
 Matthew stared at the landscape, his heart beating thunderously.
@@ -3746,7 +3754,7 @@ The [System] continued: "Skills are things you use to dish out damage at your en
 
 After pondering for a while, Matthew slowly said: "I did so much, and I made my own slice of pie in this world, having gone through a lot. It's not perfect, but I'm not leaving it. Where else can I go? [System], you're helping me a little, but right now, I would appreciate it if you gave me some space. I need to be alone right now."
 
-# Chapter 17 - An Unexpected Conversation
+## Chapter 17 - An Unexpected Conversation
 
 
 After his failure to get anything useful from the [System] besides the fact that he now had a direct line to the [System], he returned to work.
@@ -4005,7 +4013,7 @@ Slow Duration: 2 seconds
 
 "I wonder... can I actually level this up?"
 
-# Chapter 18 - The Transformation of Witchman
+## Chapter 18 - The Transformation of Witchman
 
 
 Matthew changed his name and adopted a new persona—"Witchman."
@@ -4140,7 +4148,7 @@ Since Witchman didn't have qualifications, he was not paid as handsomely as the 
 
 The quest ended like that, with the adventurers mentioning that the next stretch inside the dungeon was too challenging for now.
 
-# Chapter 19 - The Forum's Guidance
+## Chapter 19 - The Forum's Guidance
 
 
 After several days, the [System] returned to talk to him, but it had something in mind.
@@ -4233,7 +4241,7 @@ Calliope Snickerdoodle, a woman slowly walking away from the group, buying sever
 
 Bartholomew Wombatish was a young man acting as a representative for his boss. He wore the usual adventurer outfit. He merely smiled subtly and gave a concise answer in response to any questions or statements toward him.
 
-# Chapter 20 - Being Honest For Once
+## Chapter 20 - Being Honest For Once
 
 
 Witchman watched the six adventurers talking, and his voice was immediately high as part of his plan to keep them engaged: "Isn't it great that we're all here together?"
@@ -4404,7 +4412,7 @@ All in all, they resumed discussing about important matters while tasting delici
 
 For the first time in a long time, he was sure that he could do anything in this world, having been able to be honest with himself for once. It wasn't about being honest with others more than with himself.
 
-# Chapter 21 - Embracing the Epitome: A Journey Towards Self-Realization
+## Chapter 21 - Embracing the Epitome: A Journey Towards Self-Realization
 
 
 Witchman began to look around the city. Now that he was much more confident, he immediately paid attention to his surroundings in order to cultivate his intelligence.
@@ -4503,7 +4511,7 @@ He would become irrepressible.
 
 The witch orb fell into his hands, and he cackled like a maniac. "Mine! Mine! Mine!" Each proclamation was a cavernous death growl.
 
-# Chapter 22 - Shadows of Progress
+## Chapter 22 - Shadows of Progress
 
 **Name: Matthew Cruz**
 
@@ -4599,7 +4607,7 @@ Brandon was not pleased, sharing that hundreds of adventurers lost their lives i
 
 Everyone else was aware, concluding that it was a good thing that a hundred was able to survive.
 
-# Chapter 23 - Paths Crossed and Bonds Strengthened
+## Chapter 23 - Paths Crossed and Bonds Strengthened
 
 
 Desmond Leroy, a young man suited to become a soldier, had already been preparing to play around the area where Witchman was. Furthermore, he came to learn from the guild that they were setting up camp, establishing a semi-permanent presence to address coordinated monster activity.
@@ -4730,7 +4738,7 @@ Witchman wanted to assist goblins like Finesse, even if his previous quest about
 
 He wanted to create a world where he was everything he could ever be, and assisting goblins was only one stepping stone.
 
-# Chapter 24 - Goblin Connections and Adventurer Insights
+## Chapter 24 - Goblin Connections and Adventurer Insights
 
 
 Witchman accepted the goblin, leading it to his cottage, but before that, he signed a magical contract with it.
@@ -4807,7 +4815,7 @@ Witchman was not paying attention, and he was not worried at all by the Lumi's p
 
 He didn't want to linger about in thought. The dimly orange-lit room already drew his attention enough.
 
-# Chapter 25 - The Depths of Desperation
+## Chapter 25 - The Depths of Desperation
 
 Several goblins walked up to Witchman's cottage, waiting for him. They were hoping to see him before they got demotivated. They wanted to be a part of his group along with the goblin Witchman had contracted.
 
@@ -5033,7 +5041,7 @@ Even if he was mentally unstable, he knew an opportunity when he saw it. He real
 
 He was going to grind and level up. It was only 1 xp for 1 goblin or 1 skeleton. But he hoped to trigger the [System], trusting that it rewarded solo leveling.
 
-# Chapter 26 - Goblin Dispatch and Reflections: Paths to Progression
+## Chapter 26 - Goblin Dispatch and Reflections: Paths to Progression
 
 
 Seeing his first goblin, he hesitated, seeing his future in front of him—a mass murderer, a grave-maker, a taunter of his friends who wished only for him to be that shy, innocent, and kind child again.
@@ -5168,7 +5176,7 @@ They already knew about Witchman's strategic failure the last time, but they wer
 
 Witchman smiled with a sense of superiority, but acccompanied by a childish guffaw.
 
-# Chapter 27 - Coastal Confrontation: Clash of Worlds
+## Chapter 27 - Coastal Confrontation: Clash of Worlds
 
 
 In another place, far outside the city, a community of goblins were in the middle of attaching several houses together. "Guys, we're in a hurry, but please commit to schedule. There hasn't been a single mishap thus far, so be prepared. Human energies are upon us, and any gap in attention will be rewarded with death!"
@@ -5297,7 +5305,7 @@ At the dungeons, watching several goblins compiling lists in order to make it ea
 
 But Witchman did not discriminate, his taut smirk emerging and exiting like a maniac.
 
-# Chapter 28 - A Dark Decree and the Burden of Names
+## Chapter 28 - A Dark Decree and the Burden of Names
 
 
 Far away, at a higher place, where the wind met the plains flanked by hillsides, which hinted at mountains further in the distance, figures of goblins walked in a line, interspaced by long spans of distance, which were far enough to express a collective sense of control over the environment, but short enough to be only a dash away.
@@ -5494,7 +5502,7 @@ Anyway, Witchman never addressed many issues he had encountered in his life here
 
 "Shit." He remembered the disgusting man.
 
-# Chapter 29 - Solipsistic Slaughter
+## Chapter 29 - Solipsistic Slaughter
 
 
 To address how he came to the mistake of coming alone to Drakekiller's place, he didn't want all his eggs in one basket. Moreover, a part of him felt that he was back to square one. As for the reason of this, most of his successes had largely stemmed from him playing the metaphorical merchant selling group tactics and dynamics. Specifically, he organized adventurer parties or teams to work together on quests systematically through the guild board.
@@ -5681,7 +5689,7 @@ Monsters dropped coins, so that was part of his rationale behind being an quest 
 
 He was not in a happy place. He was in a pragmatic one.
 
-# Chapter 30 - The Epitome of Grace and Violence
+## Chapter 30 - The Epitome of Grace and Violence
 
 
 Rumors began to circulate of Witchman's feats under that new name, as he did move most of his activities to the farther adventurer guild where the name "Witchman" was born. Plus, this lowly guild was looking for new ways to boost their engagement, so they were willing to have Witchman be a frontman, even if much of the information they circulated was based on rumors.
@@ -5936,7 +5944,7 @@ Matthew looked at his notifications.
 
 "It's up to you," she continued.
 
-# Chapter 31 - Scaling the Heights: Witchman Comes Into His Own
+## Chapter 31 - Scaling the Heights: Witchman Comes Into His Own
 
 
 Witchman knew what skill points were, so with an excited rat-a-tat on the table in front of him, he put his 7 new unused skill points into his first skill [Whirlwind Waltz]. He wasn't asking anyone for permission anymore.
@@ -6125,7 +6133,7 @@ In the end, he took a deep breath.
 
 He got this.
 
-# Chapter 32 - Echoes of Destiny: The Rise of Grimtusk
+## Chapter 32 - Echoes of Destiny: The Rise of Grimtusk
 
 
 Back on Earth, a young woman, Emma, got up and tied her shoes, tearing apart some of the laces that had loose threads, as she walked up to convenience store. She didn't much of her day, but she knew that any time now, things would change.
@@ -6308,7 +6316,7 @@ He found one relevant quest.
 
 **Experience points based on successful completion of objectives. Access to valuable information and resources related to goblin magic. Recognition and gratitude from the local authorities for your efforts in protecting the region. Potential discovery of rare loot or artifacts hidden by the goblins.**
 
-# Chapter 33 - Journey to the Unknown: Exploring Life Beyond the Battleground
+## Chapter 33 - Journey to the Unknown: Exploring Life Beyond the Battleground
 
 
 Before accepting the quest to investigate Grimtusk, Witchman visited several different work places to see how life breathed around there, being one for the masses. He hadn't expected to see numerous people dressed in various clothes in certain spots, having shied away from getting too involved with the affairs of the cityfolk. Their concerns and their variegated trends were elusively wide and dynamic, so he never had any connection to the commonfolk. But he did wonder if whether learning about how they lived would impact his ability to lead as an adventurer, considering that the new adventurers all recently came from civil life. This was why he hadn't really gotten involved with the "New Adventurers Division" that the guild had cooked up in order to make it efficient for newbies to receive tasks and delegate it to their fellows. Either way, the influx of adventurers had to be tamed, so if he didn't participate in any way, that would help out a lot.
@@ -6421,7 +6429,7 @@ The two people with him were a friend of the late Marcher and one of the former 
 
 In the end, he was here to relax and set the tone. He changed the tone of his life once, and he would do it again if push came to shove. No one would stop what he was going to do next.
 
-# Chapter 34 - You Will Not Stop Me!
+## Chapter 34 - You Will Not Stop Me!
 
 
 Witchman's first goal in the new city was to sit down and discuss everyday, either before or after work, depending on the work schedule, maybe even during work if they found the same task.
@@ -6596,7 +6604,7 @@ He did now.
 
 He smirked, readying himself for physical massacring.
 
-# Chapter 35 - The Prodigal Adventurer Returns
+## Chapter 35 - The Prodigal Adventurer Returns
 
 
 For more than three months, Scrappy was thrust into the adventuring pattern, living in camaraderie with adventurers, and so he was here now, having left his first city in this new world. As mentioned before, he came from Earth and was transported to this fantasy world with a traumatic start of being tortured by goblins and then saved and brought into the first city by adventurers. As for the reason he left, he wanted to be free from the burnout and stress and ethical split regarding the killing of alive goblins. Moreover, he joined the adventurers and became an adventurer himself, tied by his obligation toward Sophia, the healer who healed him and saved his life first and foremost. When she died, he finally gave himself the license to leave, even after going on so many adventurers and quests, meeting many people and developing connections with them, and living an all-around successful life in his adventurer career. To further surprise and development, after staying here at the new city, he decided again to return to the adventuring ways, even after experiencing new joy with the shelter people and being almost immediately supported by state actors. This betrayed his desire for a sense of control, while also affirming it. It showed that he did change, but now, he was claiming the adventurer identity as his. To explain his positive reasons for returning, it gave him an unprecedented deep sense of purpose, fulfillment, belonging, and validation, motivations reinforced time and time again against by time prolonged there. Also, he had unresolved issues with it. Besides, externally, people all around him still—whether they were kind, nice, bad, or evil—gave him a sense that he had to purchase time, money, and skill with effort rapidly. And the only way to do that in his mind was to seize them, and adventuring represented that definitive pathway to victory. He had made it clear that nothing ever made sense, but this. This truly made sense.
@@ -6757,7 +6765,7 @@ Returning to him, Scrappy grinned, making his way to the dungeon with a shufflin
 
 He had to be stopped. The [System] appeared, accompanying him. Shit.
 
-# Chapter 36 - The Epitome of Grace and Beauty
+## Chapter 36 - The Epitome of Grace and Beauty
 
 Matthew/Witchman/Scrappy stood up in front of the [System], saying, "What is it?"
 
@@ -7007,7 +7015,7 @@ He died.
 
 He loved the world, but he couldn't love himself.
 
-# Chapter 37 - F*cking Finally!
+## Chapter 37 - F*cking Finally!
 
 
 [The System] stared at Matthew's lifeless body. "I know it's unjust, but should we just give him a second chance..." Their conversation continued long.
@@ -7156,7 +7164,7 @@ He was free from [The System], and now he could focus on relaxing and having a g
 
 (End of the First Arc "The Trials of a Displaced Soul")
 
-# Chapter 38 - From Novice to Knowledge-Seeker: Exploring the Depths of Magic
+## Chapter 38 - From Novice to Knowledge-Seeker: Exploring the Depths of Magic
 
 Matthew gave up his two identities as "Witchman" and "Scrappy", offering his life up to his friends. He didn't want to spend all his life in fear. So he put his trust in them and devoted himself to their wellbeing and favor.
 
@@ -7326,7 +7334,7 @@ In fact, he took this world with a grain of salt. Maybe, the laws of this world 
 
 He was addressing everything today. No more psycho-block to make his day a living hell. Today, he was Intellectual Sam, a new personification of formal education.
 
-# Chapter 39 - Bond-making and Studying
+## Chapter 39 - Bond-making and Studying
 
 
 As Matthew read the seminal book that Tamer had given him, he came across several different ideas that plagued him. But he didn't bother to analyze it now.
@@ -7477,7 +7485,7 @@ He hadn't used his stat points even now. The past week was troubling. He wondere
 
 Ultimately, with how many unused points he had and his current progress, he was content at the moment.
 
-# Chapter 40 - The Solo Dungeon Raid
+## Chapter 40 - The Solo Dungeon Raid
 
 
 A bunch of curious children noticed a figure in the distance.
@@ -7718,7 +7726,7 @@ Eventually, at Drakekiller's cottage, he smiled, appreciating Drakekiller's comf
 
 In the end, this new path was a satisfying break after the solo dungeon raid the day before.
 
-# Chapter 41 - Strategic Triumphs and Tactical Frustrations
+## Chapter 41 - Strategic Triumphs and Tactical Frustrations
 
 
 After taking the time to clarify past events and interactions and reset their rapport to a clear and clean slate, Matthew left, contacting Tamer for a quest.
@@ -7859,7 +7867,7 @@ Matthew squinted with disappointment, but he nodded, recognizing that he didn't 
 
 He went to a nearby dungeon to test his new blade.
 
-# Chapter 42 - The Ghost Blade's Legacy and Strategic Insights
+## Chapter 42 - The Ghost Blade's Legacy and Strategic Insights
 
 
 At the dungeon, he slashed a goblin to the ground in a series of attacks that kept it displaced and unable to summon up a counter-attack. He demolished it.
@@ -7992,7 +8000,7 @@ The good thing was that they were uncoordinated, which made them easy to pick of
 
 This was why Matthew and Tamer's party were not alone here in this new area, outside of the beginner zones.
 
-# Chapter 43 - Expanding Horizons
+## Chapter 43 - Expanding Horizons
 
 
 At the entrance of one of the harder dungeons—and this was after Matthew had liquified the loot from the previous quest with Tamer's party—he brought a lot of mana potions and barrels full of holy water.
@@ -8189,7 +8197,7 @@ He wore a mask and removed his familiar purple and yellow outfit, opting for bro
 
 He disappeared into the masses.
 
-# Chapter 44 - Echoes of Redemption: The Mask Unveiled
+## Chapter 44 - Echoes of Redemption: The Mask Unveiled
 
 
 So Matthew was left alone, and he entered into the land of beginners.
@@ -8356,7 +8364,7 @@ Second, he was truly a human being.
 
 Lastly, he grinned; snickering gleefully.
 
-# Chapter 45 - Masking the Darkness Within
+## Chapter 45 - Masking the Darkness Within
 
 
 Matthew stopped walking, weakened. He was too weak. He couldn't do anything.
@@ -8589,7 +8597,7 @@ This was their resting place for now.
 
 To finish, it was a clear precedent that Matthew was quicker around the map and smarter around the map, setting up earlier. This was why in all of the prior fights, he led the teams to victory.
 
-# Chapter 46 - The Fresh Slate: Matthew's Downfall and Resolve
+## Chapter 46 - The Fresh Slate: Matthew's Downfall and Resolve
 
 
 A young man observed Matthew from afar, having seen him move here and there. He was updated with the recent events at the guild, and he also knew about how Matthew started. He had been collecting information on him for the past month, so he hoped to learn from him.
@@ -8754,7 +8762,7 @@ Despite their complex, toxic relationship, the [System] rewarded his resilience.
 
 You have gained the title [Calm Walker]. All calming and mindfulness effects on you is increased by 10%!
 
-# Chapter 47 - The Humbling
+## Chapter 47 - The Humbling
 
 
 Matthew slowly gravitated toward the beginner areas, finding out that thousands of families made it their living to be an adventurer. When he expressed his prowess in those previous succession of quests as a director of sorts, it happened in a vacuum, not really leaving a dent in the overall guild. In reality, many adventurers did similarly impressive things, even if not in an approach as distinct as one revolving around a finesse for strategy. And it wasn't as if Matthew knew how all battles played out, so his strategies and tactics were done in a specialized container like a man knowing well his backyard but not knowing any other backyard and how to navigate them.
@@ -8899,7 +8907,7 @@ He thought the [System] was mocking him, so he couldn't help himself. But he was
 
 It was here in the deeper levels of the dungeon, and Zoey was leading him there.
 
-# Chapter 48 - Revival of the Coalition: Confronting New Stronger Foes and Restoring Alliances
+## Chapter 48 - Revival of the Coalition: Confronting New Stronger Foes and Restoring Alliances
 
 
 Matthew slashed several goblins with his ghost sword.
@@ -9070,7 +9078,7 @@ At the site where Zoey and Matthew last were, the coalition kept observing the c
 
 To sum, it was never his levels and skills that drew people to him. It was his capacity for combat, strategy, tactics, and leadership that did.
 
-# Chapter 49 - The Witchman's Grace: A Symphony of Destruction and Redemption
+## Chapter 49 - The Witchman's Grace: A Symphony of Destruction and Redemption
 
 
 Matthew's coalition began moving, their steps careful, their eyes engaged, and their soul brimming with fervor, one backed by patience and a sense of purpose. Matthew united them under a common banner of having known him and seen him perform.
@@ -9257,7 +9265,7 @@ He raised his hands higher, and his expressions were more subtle, except for his
 
 Soon enough, he found himself smirking alongside the men and women at the table, becoming a cowboy-like fellow.
 
-# Chapter 50 - Harnessing Lightning and Mastering the Fabric: Matthew's Evolution as a Strategist
+## Chapter 50 - Harnessing Lightning and Mastering the Fabric: Matthew's Evolution as a Strategist
 
 
 Matthew watched the fall of a giant statue, seeing the adventurers pulling at it. This was a party event, but it looked like societal collapse.
@@ -9454,7 +9462,7 @@ During the fight with the boss "Great Spider Serpelvz," the adventurers used the
 
 Matthew rested on the seventh day of the 6th month.
 
-# Chapter 51 - Convergence of Journeys: Matthew's Party as a Crucible of Fate
+## Chapter 51 - Convergence of Journeys: Matthew's Party as a Crucible of Fate
 
 
 Shifting to one of the adventurers under Matthew, Mindcrusher Manrender, a young man, stared at a goblin.
@@ -9669,7 +9677,7 @@ Once he made that conclusion, he returned to calm.
 
 **[Calm Walker]: All calming and mindfulness effects on you is increased by 10%!**
 
-# Chapter 52 - The Communion of Witchman
+## Chapter 52 - The Communion of Witchman
 
 
 The next day, Matthew found himself wandering in front of a cave entrance alone. He wanted to get his skills back by completing the [System] quest. Sure, he could get new skills, but after visiting Sophia earlier, he needed stability and a sense of continuity. So he wanted them back out of a desire to restore what had been.
@@ -9798,7 +9806,7 @@ He whirled inwardly in reverses, upside-down motions, and inversions and then ou
 
 The loudest scream was in cursive.
 
-![](jar_plant.png)
+![](/images/jar_plant.png)
 
 At the dungeon, Matthew stared at several goblins.
 
@@ -9850,7 +9858,7 @@ A simple sign of support was all they needed. Even with lives so simply defined,
 
 And Matthew was that hand stretching into the darkness from the light.
 
-# Chapter 53 - The Thralls of Justice: Matthew's Controversial Decision
+## Chapter 53 - The Thralls of Justice: Matthew's Controversial Decision
 
 
 However, soon enough, Matthew decided to have the goblins join him on a quest. He introduced them as slaves, explaining that he would merely use them. As for why he did this, a burning sense of curiosity that had started since the death of Sophia and his exploration of the city of Power, the second city that he encountered in this world, among every other experience. This was a breaking point for him, and one that manifested in a desire to help and to create life out of the darkness. Expanding our perspective, it had been exactly six months and 15 days since he first came to this world—a long and intense enough span of time to signal an opportunity to shift his strategy. In the end, if the goblins could become the instrument through which he could release all those building emotions inside, then that would be justice in itself.
@@ -9957,7 +9965,7 @@ He had to help someone. He had to do something this time. He couldn't just sit s
 
 But he was just playing the showman, right?
 
-# Chapter 54 - Laughing at the Face of Death
+## Chapter 54 - Laughing at the Face of Death
 
 Matthew laughed at the face of death, because he himself got tired of living.
 
@@ -10127,7 +10135,7 @@ The [System] emerged and said: "Oh, sorry, that's the wrong status page. We'll f
 
 Eventually, Matthew clasped hands with the [System] again, making a big smile on his face. He was in a good mood.
 
-# Chapter 55 - The Coalition Rises: Uniting Against Grimtusk
+## Chapter 55 - The Coalition Rises: Uniting Against Grimtusk
 
 Shifting to a sudden breakdown of the gates of a remote village, villagers ran, embracing the wind.
 
@@ -10373,7 +10381,7 @@ Lumi rarely got a chance to have someone outside of Thorne and Elara listen to h
 
 The sky was bright with hopeful stars, and in this camp and after investing a lot into this new quest to defeat Grimtusk, Matthew had only little time to spare before this set off a series of events that would remove him entirely from normalcy. Meanwhile, his friends' company, spearheaded currently by Lumi, served as a way for him to forget briefly the pressures and expectations weighing upon him. He had prepared so long to reach this point that he could respond to threats like Grimtusk, and even if he had been someone else at one point, he would not stop now.
 
-# Chapter 56 - The Awakening of Freedom
+## Chapter 56 - The Awakening of Freedom
 
 
 "Where are my brothers, Matthew?" said a goblin, the brother of the goblins that included Finesse, the late goblin with whom Matthew had signed a contract.
@@ -10384,7 +10392,7 @@ The sky was bright with hopeful stars, and in this camp and after investing a lo
 
 Matthew woke up from this dream, but he had also dreamed of other dreams. One of these dreams had been about the sun, moon, and eleven stars bowing down to him.
 
-![](jar_plant.png)
+![](/images/jar_plant.png)
 
 Matthew disappeared. He died.
 
@@ -10584,7 +10592,7 @@ The goblins were getting tired.
 
 The bright side was that Matthew was not suspected of anything despite his flamboyance and aggressive exploration due to warnings the King slipped into the guards' ears with regard to him. The witch orb that signified the King's connection with Matthew was currently under Matthew's hands, specifically still kept inside a pouch, where it leapt up and down as his momentum bounced.
 
-# Chapter 57
+## Chapter 57 - Marchacha
 
 After completing the Wall-eyes, Matthew accepted his reward and moved on, his focus moving over to the King's options for him.
 
@@ -10813,7 +10821,7 @@ They left together, heading back to the city to report the incident.
 
 This would start many successive events outside and within their plans.
 
-# Chapter 58 
+## Chapter 58 - Embracing the Hollowed Heart
 
 Other strategists back in Emerald Haven, Matthew's first city, considered the possibility of having the focus of King Aethelred III be with the fortified dungeon steps as the entry to a route leading to another more effective angle into their current objective instead of the route they were currently focusing on. However, the timing of the King was initially off, and he chose to focus his efforts elsewhere. Matthew could have very well been a much more effective leader if the King offered him the opportunity, but Aethelred was very passive and indifferent about it.
 
@@ -11071,7 +11079,7 @@ Even if Matthew lost his emotions, he never lost the sense of divinity.
 
 To finish, [Hollowed Heart] was changing everything fast. Matthew was right to change things and make things better to remove the cognitive dissonance between a broken displaced man and a powerful intellectual creature. And [Hollowed Heart] was cancelling out the former. But whatever happened from now on was out of any outsider's hands, except for the gods maybe.
 
-# Chapter 59
+## Chapter 59 - Weaving the Web of Influence
 
 Matthew was all alone in a vast landscape, and he walked around again and again.
 
@@ -11177,7 +11185,7 @@ Even with growing connectivity, he still maintained his loyalty to these locatio
 
 **+10 XP for enhancing your cognitive abilities by 1%!**
 
-# Chapter 60
+## Chapter 60 - Hollowed Heart: Managing the New Era
 
 Matthew stared at the silence, not a single emotion-inspired thought growing in his mind, the ideas flowing like river streams shallow enough to wade through but cold and wet enough to warrant a changing.
 
@@ -11253,7 +11261,7 @@ Matthew replied: "If she's the one being made to advance the new *birdmonsters*,
 
 That was it. That was the end of the meeting. They really had little to share since they were still testing the waters and avoiding any chance the other party could call offence or imbalance of power. Magic made things very dangerous in terms of how information was spread, because spells like changing voice existed. If two parties could converse easily without magic being a potential threat to integrity and honesty, then care still had to be prioritized when encountering new communication structures, that which Michel's friends and Matthew, as two novel interlocutors, brought to the table.
 
-# Chapter 61
+## Chapter 61 - The Pursuit of Perfection
 
 Matthew put together hundreds of men and assembled them with armor, tools, unique artifacts, and goals in mind. The point was to make sure that everything around him could find rest in the seat of power in their own way. He rewarded them with power by enabling a culture of camaraderie, one already supported by adventurism. He just made it many more times efficient at that job by making it easier for New Adventurers. Truly, he worked with Desmond to help New Adventurers, making sure he appeared to motivate the new entrants.
 
@@ -11365,7 +11373,7 @@ Silence left, as the [System] appeared.
 
 "Hi," he said.
 
-# Chapter 62
+## Chapter 62 - The Hollowed Crusade: Matthew's Descent into Moral Invalidation
 
 Matthew plunged his arm against a quiet throat, making sure that every single ounce of power was delivered in full. This was actual, and this was how rhythmic he was with murder even.
 
@@ -11563,7 +11571,7 @@ Second, with an intellectual gearset came the need to neutralize its demanding e
 
 Lastly, he was not changing into an idea. He was chasing after an idea with all the complexities that entailed for him.
 
-# Chapter 63
+## Chapter 63 - The Reckoning of the Imperfect God
 
 Matthew sat down, his mind a temple of peace.
 
@@ -11823,7 +11831,7 @@ Matthew burst into laugher, joined by the older man. They laughed simultaneously
 
 It was because things had become so tense that they couldn't help it at the first opportunity.
 
-# Chapter 64
+## Chapter 64 - Bing Chilling
 
 Matthew remembered what it felt like to sit down in the morning. He remembered the signs of the times.
 
@@ -12177,7 +12185,7 @@ People liked to highlight and focus on his crazy moments, but it was all good.
 
 He was just going through some stuff rn. *But yeah, we're back. We're so back.*
 
-# Chapter 65
+## Chapter 65 - Deathbringer's Perspective and the Troll's Elucidation
 
 Seat in front of a busy street. Check. Breath in, tension out.
 
@@ -12375,7 +12383,7 @@ He shook hands with him. "What can we do?" he said, letting his more grounded Ea
 
 "Oh... My... bad... I guess..."
 
-# Chapter 66 - Inventory and Status Page Assessment
+## Chapter 66 - Inventory and Status Page Assessment
 
 After finishing up some events, back at home, Matthew did an inventory and status page assessment, looking through his skills, quests, titles, and inventory.
 
@@ -12783,7 +12791,7 @@ He didn't want to jump the shark and start tearing away pieces of paper and then
 
 But he would make this expansion plan work, hopefully without ringing bells among the higher-ups.
 
-# Chapter 67 - Finding Peace: Closure Statement
+## Chapter 67 - Finding Peace: Closure Statement
 
 
 Matthew began arranging a couple of things. Though, while he was fixing some stuff, literally piling a bunch of crates together and placing them on a wagon as a sign of unity with the more regular and new adventurers taking part in his larger regular organization, he was unhappy.
@@ -13030,7 +13038,7 @@ He wielded a sword and advanced forward, heading down the steps.
 
 Who needed rest! Now was the time for battle!
 
-# Chapter 68
+## Chapter 68 - The Warders' Respite
 
 In the battle, the sun fell.
 
@@ -13390,7 +13398,7 @@ Matthew laughed.
 
 Tamer and Desmond watched him.
 
-# Chapter 69
+## Chapter 69 - The Illusion of Normalcy
 
 Matthew relaxed. Getting exercise almost everyday by fighting as an adventurer made his body much more fit, so even now, it was easy to laugh and breathe well.
 
@@ -13586,7 +13594,7 @@ He was so, so good at pretending and lying and suppressing all of these things c
 
 He was God.
 
-# Chapter 70
+## Chapter 70 - The Great Pretender
 
 
 After returning to the cottage, the simple-thinking Matthew looked at his book, having been keeping in touch with details overtime. This book included monsters, creatures, and humanoids of the land; various to-do lists that were messed about; simple sketches of the cottage; number of gold coins, items, and equipment he had or encountered and details about them; the numerous people that came to visit his cottage, each of whom he asked to write a form of signature; names of people he knew; things that he hated and vented with simple phrases and drawings because he didn't want to waste all the ink; among others.
@@ -13785,7 +13793,7 @@ He saw a goblin walking up.
 
 He walked outside like a normal man and greeted the goblin like he would with a cat: "Hello, Goblin! How are you doing?" And he treated all cats like people.
 
-# Chapter 71
+## Chapter 71 - The Descent and the Resolve
 
 The goblin struck him and attempted to kill him. "Disgusting, disgusting, disgusting!" it said.
 
@@ -14053,7 +14061,7 @@ He wanted to be honest for once.
 
 The guards then brought him back to his prison, having only allowed him to visit Sophia's grave for the time.
 
-# Chapter 72
+## Chapter 72 - Becoming
 
 
 The cries for Matthew only grew louder.
@@ -14228,7 +14236,7 @@ The tones their little mouths and bodies wielded conveyed the greatest mysteries
 
 That crisp happy sun never let them down.
 
-# Chapter 73
+## Chapter 73 - The Gathering Storm
 
 Matthew stood like a monkey in the horizon, creating tiny little orbs of light. He shot them toward the horizon.
 
@@ -14513,7 +14521,7 @@ Goblin 2 cast [Red Bite], dealing 18 physical damage.
 
 
 
-# Chapter 74
+## Chapter 74 - The Unseen Challenge
 
 Later, after Luke and his three fellows dispatched the goblins, they stood as tiny figures.
 
@@ -14882,4 +14890,191 @@ But it could kill with one hook.
 Luke didn't want to ask the question.
 
 The orc was the one who shouted it, "Who will fight me!"
+
+# Chapter 75
+
+Elara struck the orc on the left, breaking its stride. Aria climbed on top of her and kicked the orc on the chin before striking it on the neck with her palm. Luke and Merlin went behind him and struck the sides of its bellies.
+
+The orc groaned, falling down.
+
+They switched positions when the orc struck at Elara, compromising her stability and frustrating her movement. Elara was hit and fell to the ground.
+
+Aria caught her before calling for a back-off.
+
+Luke began running to and fro as the orc tried to hit him. Merlin went behind the orc and kicked it on the belly, tripping all by himself. 
+
+The orc took advantage of this and reached to grab Merlin.
+
+Deathbringer grabbed him before he died.
+
+The orc was promptly put into chains again.
+
+Deathbringer smiled. "Good work, but not good enough."
+
+"Good work! Looks like you're all well-acquainted. But tell me. Do you guys have any clue what we're going to be doing next?
+
+Meanwhile, in another place, some distance away, a young man woke up, and the only thing he heard was a loud thud, his heart aching for a sense of presence. He got up and started placing his things together, hoping to leave.
+
+He was on a tall mountain, and around these parts and air, monsters loomed and flew, snatching victims and prey like a grinder did to discarded goats.
+
+Not a single sound let out an eek, because too many things were already being gobbled up. Just one tiny peek was all the monsters required.
+
+The young man, Mr. Gobsmeek, didn't want to spend his days in tire, hoping to engage with the wildlife much better. 
+
+So he went out and found himself a little spot to rest.
+
+Though, he didn't want to idle too much. If he dared idle too long, the monsters would catch wind of his presence. That was why he levitated on top of a cloud, never leaving its margins.
+
+He was hoping to get a cow.
+
+But here, a cow was rare and often fleeting. They spawned every 4.27 seconds at its peak, but right now, it was slow, around 10.27 seconds in duration.
+
+The monsters were piling on, snatching the cows that had already been reduced to flesh.
+
+He got himself working with his utencils, hoping to piece together a magical ball. It was an artifact, you see, one he got from a friend of his. His friend told him, "Don't forget to piece together a little blue ball; then you may throw it as far as you like. The monsters *will* follow." That voice echoed within his memories, leaving a mark that left his heart smooth and unhindered.
+
+He got up and began raising his hands, preparing to let loose this magical ball.
+
+The ball was hungering, tiring, screaming.
+
+It exploded, flying off into the horizon, finding its mark below the stars.
+
+The monsters, in a hurry, began running after it, hoping to find what made it so special. They were going to find nothing fortunately. The boy had already gone.
+
+Down there, in the valley, where the prey went, Gobsmeek grabbed for a cow, but the cow fled his grasp.
+
+He grabbed it again.
+
+The cow was fiercely disobeying.
+
+He struck it and made sure it didn't struggle anymore. He prayed.
+
+The silence bloomed.
+
+And the man brought home a feast.
+
+Later, on the way home, he sighted a group of adventurers: Luke, Elara, Aria, and Merlin, who were celebrating.
+
+"Let's go! Yeah!"
+
+They had just killed a second orc.
+
+Mr. Gobsmeek and the four adventurers were headed the same way—to the shower mages.
+
+Soon, at the shower mages' location, the adventurers were in the middle of a conversation.
+
+Aria said, "Guys, let's just finish up. No more after this right. I'm tired.'
+
+Elara said, "Yeah, good. Better than nothing honestly after what happened—"
+
+Interrupting Elara, water was pouring at them from a group of mages standing atop a knoll, where they were showering a group of customers below.
+
+Subsequently, Merlin said, "Ha, can we talk about this later guys? I can't hear you through the shower."
+
+Luke muttered, "They're not talking about anything important. Don't worry."
+
+Meanwhile, nearby, getting a shower as well, Mr. Gobsmeek nodded in a slow, repeated motion to relax his headache.
+
+Elara said, "Guys, did we get it down a while ago already? The chores set by Mrs. Ada?"
+
+"Nah..." Merlin's face went pale. "I forgot about that actually.
+
+Luke said, "Don't worry guys. Don't worry. She's my aunt. So we're chill. Chillin' Billin'."
+
+Elara nodded to get the water out of her nose.
+
+Afterwards, they didn't have anything left to do, so they parted ways and went home.
+
+However, Mr. Gobsmeek was heading the same direction as Elara.
+
+Elara recognized him. "Gob. Where's your sister? Isn't she supposed to be grinding the ship? I don't know how you guys didn't tell me about it. I would've come."
+
+Gobsmeek said, "I don't know. Don't ask me. I've been trying to fix up my cow session with the boys. We're going to be leveling up soon enough."
+
+Elara said, "Leveling. You're still on about that? That's not how it works, okay? You're not 'leveling'. You're grinding."
+
+Gobsmeek said, "Who cares? It's just a word."
+
+Elara said, "Okay. Just tell me where you sister is, and I'll get out of your tail."
+
+Gobsmeek said, "'Kay. She's at the Municipal Offices."
+
+Elara said, "Oh, why is she there? She just started work?"
+
+Gobsmeek said, "No, she just wants clarification regarding the new implementations in the ACC region. Have you seen the tributaries recently? There's been hoggers recently. So I don't know what they're going to actually do regarding the new implementations. They said it won't take long before it shows, but they haven't been very adamant regarding what's actually going to happen."
+
+Elara said, "Really? Tell me. Did ACC himself talk about it?"
+
+Gobsmeek said, "No, ACC wasn't there at the meeting, my sister said. She went there yesterday, and that's why she's going again."
+
+Elara said, "Yeah, I heard about that. The hoggers. But they're just kids. Don't worry about that—"
+
+Gobsmeek said, "Well, they're taking up too much space. They want to start experimenting with the tributary rewards, they said. But it isn't that simple. Spreading smoke around the area is only going to block people from actually being able to enter. It's unfair to the rest. Sure, the council did announce that it wouldn't take that long before the seniors started bunching up and then naturally, it would take its course. The young hoggers are just going to leave. But still, the implementations? Seriously. I'm getting tired of having to see it. I mean, that's my sister's fault really. She keeps complaining to me about, and now I'm starting to think she has a point. Of course, don't take my word for it. Luke probably knows better than I do. He's the one who's with Matthew, right? Matthew was the first one who got a hold of the academy, and now they're making communications about the new setup with the tributaries and the prison sentencing. The monsters are being killed off, and then you have the researchers right?"
+
+Elara said, "Yeah, I know."
+
+Gobsmeek said, "Yeah, that's what I'm saying. That's the point. They're not going to leave until my sister goes there and gets the ball rolling. They're actually going to mess things up more due to not being clear enough. The Adventuras and the Marciples agreed with my sister when she went to talk about it. So I'm not entirely out of line, hey."
+
+"'Kay..." Elara mirrored his language to get him out of her tail.
+
+She left without saying much. She didn't want to talk to him about the current political shit going on, and most adventurers didn't want to care either. They were just going their job. And they didn't want to shake hands with the seniors who had the mandates to deal with.
+
+Like the first adventurers, or the new adventurers here in Emerald Haven, she would rather abide by a simple framework or outline of law or rule.
+
+To her, it didn't matter what Gobsmeek said anyway. He was predominantly focused on considerations of current circumstances and factors, rather than strictly following ideological premises. In other words, he was a political realist, a man who loved delving into the minutiae of practical considerations instead of prioritizing maintaining a coherent ideological framework or narrative thread.
+
+Whether Elara liked it or not, Gobsmeek used her as a sounding board for his in-depth concerns.
+
+Indeed, Elara was the only one who truly disagreed with Gobsmeek rather than plainly agreeing, while still expressing a true interest in honesty and moral integrity.
+
+They often argued and were in bitter and cold terms, only appearing friendly on the surface. But they didn't hate or hold a grudge against each other. They merely differed heavily in their communication styles, personalities, methodologies, rationales, core values, and beliefs.
+
+Elara noticed the fringes of Matthew's regional influence again, her concerns vastly outweighing his. She thought Matthew was a fraud.
+
+She thought his entire life was built like an industry plant.
+
+She did not see him as anything but a "mid" average man.
+
+Shifting to a more omniscient perspective, in contrast to how people would usually react, Matthew would have loved to hear that she saw him as just a normal person. Being special only brought him issues, and he hated being dominant or better than others because others would then alienate him in the process, leaving him all alone and in a state of semi-permanent dissonance.
+
+But Elara did not know that, and she merely dismissed him as a blot.
+
+After returning home, she came face-to-face with her vast array of armor, treasures, weapons, tools, and desks.
+
+She was a collector of sorts, but she did truly find uses for each of these items. She didn't like artifacts. A strict principle of hers involved discarding artifacts as soon as possible, because she thought they broke the natural laws of this world. However, she was fine with magic, because she believed it was naturally inherent to people.
+
+After sitting herself down at her desk, she played around with her cartography tools, sketching a structured table that revealed to her the scope of her adventures, resources, and needs.
+
+"If she could, what would she do?" she wrote, her gaze becoming unfocused. She found herself staring at the street outside past the bars of her windows.
+
+The children played outside, and dogs were running about.
+
+They were not children. They were boys.
+
+They could have been named Billy, Notch, and Shadrach, and no one would ever know.
+
+She smiled, thinking that it would be nice to imagine them as people and not as stains upon the field of street roads outside her doorstep.
+
+She saw not a person, but a vast land filled with glory and honor.
+
+And that inspired to fall to sleep, imagining herself drifting into a flying wagon that led her to the stars.
+
+She got up and headed outside, putting on whatever she needed and getting whatever she needed.
+
+She was all much prepared to meet Luke and the others at Deathbringer's beck and call.
+
+Matthew stood at the horizon, his giant form continuing to overshadow the region. His internal conflict lay unbare, clothed, too clothed, too unbathed, unwashes. The sun needed it back. The sun wanted it to reveal itself.
+
+Matthew swallowed the ground, chastening himself for doing so. The ground was his undoing.
+
+He swallowed and painstakingly devoured the dust of the earth.
+
+He was the Progenitor. He was the Progenitor.
+
+He struck the earth, and a vast land awakened. He was its glory-stone. He was its glory-bone. He was its glory-awakening.
+
+He created and he cast the stone upon the woman, fo he was sinless beyond measure. His holiness thou art. His holiness thou art.
+
+Askance, askance, glares sights, munster rights. baintan. Azlxlxlxl.
+
 
